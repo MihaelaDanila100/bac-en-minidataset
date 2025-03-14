@@ -1,0 +1,639 @@
+[
+    {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2025",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2025_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2025_bar_model.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": {
+              "depășit": "învechit, perimat",
+              "pe larg": "în detaliu, amănunțit"
+            }
+          },
+          {
+            "id": 2,
+            "answer": "Pictura și muzica (cântatul și fluieratul doinelor)."
+          },
+          {
+            "id": 3,
+            "answer": "Scrisoarea este plină de umor: „Scrisoarea lui Radu, pe optsprezece pagini, ne-a delectat prin umorul ei dens”."
+          },
+          {
+            "id": 4,
+            "answer": "Liviu Rebreanu scria scrisori imediat după evenimente pentru a-și relata impresiile proaspete și pentru a se relaxa: „Era un mod al lui de relaxare, de recreere”."
+          },
+          {
+            "id": 5,
+            "answer": "Femeile erau profund emoționate și mulțumite de portretele copiilor lor, simțind că aceștia prind viață: „Aproape că grăiește”."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2024",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2024_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2024_bar_model.pdf"
+            }
+        },
+        "answers": [
+            {
+                "id": 1,
+                "answer": "În contextul dat, cuvântul 'totdeauna' are sensul de 'întotdeauna', 'mereu', iar secvența 'nu eram în stare' semnifică 'incapacitate', 'neputință'."
+            },
+            {
+                "id": 2,
+                "answer": "Ioan Slavici a condus publicațiile 'Tribuna' din Sibiu și 'Minerva' din București."
+            },
+            {
+                "id": 3,
+                "answer": "O personalitate culturală care l-a influențat pe Ioan Slavici a fost Mihai Eminescu. Acest lucru reiese din secvența: 'La Viena și la Iași am scris sub înrâurirea lui Eminescu'."
+            },
+            {
+                "id": 4,
+                "answer": "Ioan Slavici se consideră împlinit mai ales prin activitatea sa didactică, deoarece a simțit o satisfacție profundă în a împărtăși cunoștințe și a interacționa cu elevii săi. De asemenea, a considerat că rolul scrierilor sale este de a îndruma spre o viață potrivită cu natura umană."
+            },
+            {
+                "id": 5,
+                "answer": "O trăsătură a lui Ioan Slavici, așa cum reiese din text, este modestia. El menționează că scria pentru mulțumirea sa sufletească și că era suficient că le făcea plăcere prietenilor săi, fără a căuta faimă sau profit material."
+            }
+        ]    
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2024",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2024_var.pdf",
+                "barem": "E_a_romana_real_tehn_2024_bar.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'pe neașteptate' are sensul de 'brusc', 'neprevăzut', iar cuvântul 'împrejurare' semnifică 'situație', 'context'."
+          },
+          {
+            "id": 2,
+            "answer": "Andriana Fianu lucrează la revista 'Gazeta literară'."
+          },
+          {
+            "id": 3,
+            "answer": "Gabriel Dimisianu își propune să fie un observator tăcut în timpul vizitei la Tudor Arghezi. Acest lucru reiese din secvența: 'Voi fi ochi și urechi, dar mut, am decis până la urmă. Voi fi însoțitorul mut al colegei mele'."
+          },
+          {
+            "id": 4,
+            "answer": "Gabriel Dimisianu este surprins de contrastul dintre imaginea publică a lui Tudor Arghezi, pe care o avea din aparițiile sale publice, unde părea fragil și avea nevoie de sprijin, și felul în care acesta se mișca în spațiul privat, cu pași repezi și siguri, fără semne de neajutorare."
+          },
+          {
+            "id": 5,
+            "answer": "O trăsătură morală a lui Gabriel Dimisianu este sinceritatea. El recunoaște deschis că preferă să citească decât să scrie și că a fost copleșit de emoții în fața lui Tudor Arghezi, mărturisind că s-a simțit intimidat de privirea ironică a poetului."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2023",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2023_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2023_bar_model.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'la repezeală' înseamnă 'în grabă', 'fără pregătire prealabilă'."
+          },
+          {
+            "id": 2,
+            "answer": "Două trăsături fizice ale lui I. L. Caragiale sunt: 'fața lui fină' și 'ochii mari'."
+          },
+          {
+            "id": 3,
+            "answer": "Mateiu Caragiale se manifestă în domeniul cultural al prozei și poeziei. Acest lucru reiese din secvența: 'Mateiu, care a fost mai târziu un prozator și poet foarte talentat'."
+          },
+          {
+            "id": 4,
+            "answer": "În viziunea autoarei, I. L. Caragiale scrie cu dificultate deoarece își trece ideile prin multe filtre cerebrale, alegând cu grijă nuanța și ocolind detaliile nesemnificative, pentru a așterne pe hârtie doar esențialul."
+          },
+          {
+            "id": 5,
+            "answer": "În timpul șederii la Berlin, I. L. Caragiale avea o atitudine prietenoasă și modestă față de oamenii de pe strada sa. Se împrietenea cu negustorii, cumpăra flori și glumea cu vânzătoarea, arătând că se simțea bine în compania lor."
+          }
+        ]
+    }, {"exam": {
+            "title": "Examenul național de bacalaureat 2023",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2023_var.pdf",
+                "barem": "E_a_romana_real_tehn_2023_bar.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'de bună seamă' înseamnă 'desigur', 'cu siguranță', 'probabil'."
+          },
+          {
+            "id": 2,
+            "answer": "Două dintre sursele de venit ale lui Ion Creangă sunt: 'institutor cu patru gradații' și 'debitant de tutun'."
+          },
+          {
+            "id": 3,
+            "answer": "O posibilă semnificație a curcubeului pentru Ion Creangă este un semn de schimbări în bine. Acest lucru reiese din secvența: 'semn, poate, pentru el, de schimbări în bine'."
+          },
+          {
+            "id": 4,
+            "answer": "Ion Creangă călătorește la Târgu-Neamț pentru a revedea locurile copilăriei și neamurile, simțind că nu mai are mult de trăit și dorind să retrăiască bucuriile vieții de sat."
+          },
+          {
+            "id": 5,
+            "answer": "O trăsătură morală a lui Ion Creangă, așa cum reiese din text, este generozitatea. El dăruiește școlii unde a învățat singurul exemplar din 'Povățuitor' pe care îl mai avea, un gest simbolic de recunoștință și afecțiune."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2022",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2022_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2022_bar_model.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'cu amănunte' înseamnă 'în detaliu', 'pe larg', 'cu toate detaliile'."
+          },
+          {
+            "id": 2,
+            "answer": "Două modalități prin care profesorul Mazilu se face plăcut elevilor sunt: 'era mucalit' și 'îi plăcea să citească tare compozițiile noastre, comentându-le cu mult haz'."
+          },
+          {
+            "id": 3,
+            "answer": "Reacția părinților la relatarea lui Mircea Eliade este una de 'rezervă și scepticism'. Acest lucru reiese din secvența: 'deși nu știu dacă am reușit să înduplec rezerva și scepticismul părinților'."
+          },
+          {
+            "id": 4,
+            "answer": "Elevul Mircea Eliade simte bucurie în timpul redactării temei deoarece se simte inspirat și descoperă că poate scrie cu ușurință, asemeni autorilor pe care îi admira, creând o lume proprie, 'singurele lumi reale și cu sens pentru mine'."
+          },
+          {
+            "id": 5,
+            "answer": "După ce citește compunerea lui Mircea Eliade, profesorul Mazilu este surprins și impresionat. El laudă compunerea, recunoaște talentul elevului și îi acordă nota zece, în fața întregii clase."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2022",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2022_var.pdf",
+                "barem": "E_a_romana_real_tehn_2022_bar.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'de față' înseamnă 'prezenți', 'aici', 'în acel moment'."
+          },
+          {
+            "id": 2,
+            "answer": "Studentele o vizitează pe Elena Cuza pentru a-i înfățișa o adresă de omagiu din partea colegelor lor."
+          },
+          {
+            "id": 3,
+            "answer": "O reacție a Elenei Cuza când aude pomenindu-se numele soțului ei este că 'acest ochi privi undeva, departe, unde mergea și gândul tuturor celor de față'. De asemenea, 'o lacrimă mare se strecură încet' în arcuitura de jos a orbitei sale adânci."
+          },
+              {
+                  "id": 4,
+                  "answer": "Elevul Mircea Eliade simte bucurie în timpul redactării temei deoarece se simte inspirat și descoperă că poate scrie cu ușurință, asemeni autorilor pe care îi admira, creând o lume proprie, 'singurele lumi reale și cu sens pentru mine'."
+              },
+          {
+            "id": 5,
+            "answer": "O trăsătură morală a Elenei Cuza, așa cum reiese din text, este demnitatea. Chiar și în simplitatea vieții sale, ea își păstrează o atitudine de suverană, combinând simplitatea cu maiestatea, și exprimând cuvinte de mulțumire cu un gest regal."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2021",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2021_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2021_bar_model.pdf"
+            }
+        },
+        "answers": [
+          {
+            "id": 1,
+            "answer": "În contextul dat, secvența 'decât în parte' înseamnă 'doar parțial', 'nu în totalitate', 'într-o anumită măsură'."
+          },
+          {
+            "id": 2,
+            "answer": "Două personaje din romanul Idiotul de Dostoievski sunt: 'Nastasia Philipovna' și 'Aglae'."
+          },
+          {
+            "id": 3,
+            "answer": "Lectura romanului are un efect apăsător asupra lui Nelli, provocându-i 'chin, înăbușire, apăsare'. Acest lucru reiese din secvența: 'Senzația pe care am simțit-o în decursul lecturii a fost aceea de chin, înăbușire, apăsare'."
+          },
+          {
+            "id": 4,
+            "answer": "În viziunea lui Nelli, impasul creator nu ar trebui să-l descurajeze pe Dinu, deoarece 'timpul și viața trăită la rând îți măresc puterea de înțelegere, îmbogățindu-ți sufletul, dându-i mereu posibilitatea altor renașteri și cuprinsul altor lumini'."
+          },
+          {
+            "id": 5,
+            "answer": "O trăsătură a expeditoarei scrisorii este sensibilitatea. Ea se lasă profund afectată de lectură, reflectând asupra sensurilor profunde ale operei și empatizând cu personajele."
+          }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2021",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2021_var.pdf",
+                "barem": "E_a_romana_real_tehn_2021_bar.pdf"
+            }
+        },
+        "answers": [
+            {
+                "id": 1,
+                "answer": "În contextul dat, secvența 'în toată vremea' semnifică 'întotdeauna', 'mereu', 'neîncetat'."
+            },
+            {
+                "id": 2,
+                "answer": "Două dintre îndeletnicirile care îi asigură venituri tânărului I.L. Caragiale sunt: sufleur de al doilea și copist în trupa lui Pascaly, respectiv corector."
+            },
+            {
+                "id": 3,
+                "answer": "Părinții lui Iancu aplică principiul îngăduinței relative. Acest lucru este demonstrat de secvența: 'Ei au adoptat, în împrejurare, cea mai bună metodă, a îngăduinței relative, care dă rezultate mai bune decât constrângerea.'"
+            },
+            {
+                "id": 4,
+                "answer": "I.L. Caragiale ajunge să comunice prin scrisori cu mama și sora sa deoarece nevoile profesionale l-au despărțit de ele. Scrisorile datează din anii revizoratului său (1881 și următorii)."
+            },
+            {
+                "id": 5,
+                "answer": "O trăsătură morală a lui I.L. Caragiale, așa cum reiese din text, este devotamentul față de familie. El se simțea legat de ai lui organic și s-a purtat bărbătește, căutând să le asigure mijloacele de întreținere."
+            }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2020",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2020_var_model.pdf",
+                "barem": "E_a_romana_real_tehn_2020_bar_model.pdf"
+            }
+        },
+        "answers": [
+            {
+                "id": 1,
+                "answer": "În contextul dat, secvența 'mă uitam cu jind' semnifică 'priveam cu dorință', 'doream cu ardoare'."
+            },
+            {
+                "id": 2,
+                "answer": "Faptul care duce la schimbarea gazdei de către autor este cumpărarea unei cărți de 25 de franci a lui Haeckel, despre originea omului."
+            },
+            {
+                "id": 3,
+                "answer": "O trăsătură a anilor evocați de autor este bogăția de idei. Acest lucru este demonstrat de secvența: 'Niciodată n-am mai dus o așa viață de idei. Idei sărace poate, dar mare bogăție de idei de acestea sărace!'"
+            },
+            {
+                "id": 4,
+                "answer": "Bacalaureatul îi înspăimânta pe elevi deoarece era considerat foarte greu, iar ei, fiind provinciali, auzeau multe legende despre dificultatea acestuia. De asemenea, îi speria volumul mare de materie de învățat, pe care îl măsurau cu metrul."
+            },
+            {
+                "id": 5,
+                "answer": "Un aspect ce definește oamenii mari, așa cum rezultă din text, este capacitatea de a-și administra singuri resursele. Ei trebuiau să gestioneze cu dibăcie sumele de bani primite de acasă sau din lecții, pentru a se întreține."
+            }
+        ]
+    }, {
+        "exam": {
+            "title": "Examenul național de bacalaureat 2020",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [
+                "Filiera teoretică - Profilul real",
+                "Filiera tehnologică",
+                "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+            ],
+            "sources": {
+                "subject": "E_a_romana_real_tehn_2020_var.pdf",
+                "barem": "E_a_romana_real_tehn_2020_bar.pdf"
+            }
+        },
+        "answers": [
+            {
+                "id": 1,
+                "answer": "În contextul dat, secvența 'cu ochii deschiși' semnifică 'cu atenție', 'cu luciditate', 'conștient'."
+            },
+            {
+                "id": 2,
+                "answer": "Parisul a fost ocupat în anul 1940, așa cum reiese din text: 'Din iunie, de la căderea Parisului...'"
+            },
+            {
+                "id": 3,
+                "answer": "Din perspectiva autorului, un scop al scrisului este comunicarea. Acest lucru este demonstrat de secvența: 'Scrisul, dacă nu mă ajută să comunic cu cineva (printr-o scrisoare sau printr-un articol sau printr-o carte), începe să mi se pară, cel puțin la început, un lucru absurd, lipsit de intimitate.'"
+            },
+            {
+                "id": 4,
+                "answer": "Autorul nu a scris în jurnal în ultima jumătate de an deoarece simțea un îngrozitor sentiment de inutilitate și dezgust, mai ales după căderea Parisului."
+            },
+            {
+                "id": 5,
+                "answer": "Autorul consideră că este nenatural și pretențios să comunici într-o limbă străină atunci când nu ești constrâns de prezența cuiva care nu cunoaște altă limbă. El preferă să folosească limba străină doar în contexte de comunicare necesare."
+            }
+        ]
+    }, {
+        "exam": {
+            "title": "Evaluare națională pentru absolvenții clasei a VIII-a 2024",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [],
+            "sources": {
+                "subject": "EN_VIII_Limba_si_literatura_romana_2024_var_model.pdf",
+                "barem": "EN_VIII_Limba_si_literatura_romana_2024_bar_model.pdf"
+            }
+        },
+        "rezolvari": [
+            {
+                "id": 1,
+                "raspuns": "doi termeni care denumesc animale sunt: șobolan, pisică, dihor, câine, bursuc, jder, hermelină, raton, urs, mâță."
+            },
+            {
+                "id": 2,
+                "raspuns": "b"
+            },
+            {
+                "id": 3,
+                "raspuns": "a"
+            },
+            {
+                "id": 4,
+                "raspuns": "c"
+            },
+            {
+                "id": 5,
+                "raspuns": "Rima este împerecheată (AABB). Măsura versurilor este de 11 silabe."
+            },
+            {
+                "id": 6,
+                "raspuns": "Rețelele sociale pot oferi soluții potrivite în anumite situații dificile, dar cu precauție. În text, Facebook-ul ajută la identificarea dihorului și la găsirea unui biolog, demonstrând utilitatea rețelelor. Totuși, se menționează și riscul de a crea isterii, subliniind necesitatea unei utilizări responsabile."
+            },
+            {
+                "id": 7,
+                "raspuns": "Textul poate fi asociat cu poezia 'Cățeluș cu părul creț' de Elena Farago. Ambele texte evidențiază legătura strânsă dintre om și animal. În 'Prietenul', Ursei este mângâiat 'cu glasul și cu mâna', iar în poezia Elenei Farago, copilul își exprimă afecțiunea față de cățeluș prin gesturi tandre."
+            },
+            {
+                "id": 8,
+                "raspuns": "c"
+            },
+            {
+                "id": 9,
+                "raspuns": "a"
+            },
+            {
+                "id": 10,
+                "raspuns": "d"
+            },
+            {
+                "id": 11,
+                "raspuns": "a"
+            },
+            {
+                "id": 12,
+                "raspuns": "a"
+            },
+            {
+                "id": 13,
+                "raspuns": "1. Cartea ta este interesantă. 2. Ai grijă de câine?"
+            },
+            {
+                "id": 14,
+                "raspuns": "Propoziții subordonate: 'Când îmi apucă mâna-ntre zăbale' - circumstanțială de timp, 'Ca să-mi arate că ţi-s drag' - circumstanțială de scop, 'că ţi-s drag' - completivă directă."
+            },
+            {
+                "id": 15,
+                "raspuns": "Mi-ar plăcea să descoperiți frumusețea din ochii verzi ai pisicii sălbatice, zărită într-unul dintre pasurile montane."
+            },
+            {
+                "id": 16,
+                "raspuns": "Mesajul poeziei 'Prietenul' de Tudor Arghezi este legătura profundă și sinceră dintre om și animal, evidențiind loialitatea și afecțiunea necondiționată. Tema literară centrală este prietenia și încrederea reciprocă. Ursei este descris ca un câine frumos, ciobănesc de munte, sălbatic, dar cu o blană mătăsoasă și labe vânjoase. El are încredere în stăpânul său și se lasă mângâiat, exprimându-și afecțiunea prin gesturi tandre. Figurile de stil relevante includ comparația 'labele vânjoase ţi-s/Ca bâta căluşarilor' și metafora 'Colţii de fier au însă muşcătura moale', care subliniază forța și delicatețea animalului. Stăpânul exprimă un sentiment de afecțiune și bucurie în prezența lui Ursei, simțindu-se legat de el ca de un frate. Aceste elemente conturează o imagine a unei prietenii autentice și puternice."
+            }
+        ]
+    }, {
+        "exam": {
+            "title": "Evaluare națională pentru absolvenții clasei a VIII-a 2024",
+            "subject": "Limba și literatura română",
+            "model": false,
+            "categories": [],
+            "sources": {
+                "subject": "EN_VIII_2024_Limba_si_literatura_romana_var.pdf",
+                "barem": "EN_VIII_2024_Limba_si_literatura_romana_bar.pdf"
+            }
+        },
+        "answers": [
+            {
+                "id": 1,
+                "answer": "doi termeni care fac parte din câmpul lexical al naturii: pădure, copaci, iarbă, potecă, mușchi, scoarță, arbori, peșteră."
+            },
+            {
+                "id": 2,
+                "answer": "c"
+            },
+            {
+                "id": 3,
+                "answer": "d"
+            },
+            {
+                "id": 4,
+                "answer": "b"
+            },
+            {
+                "id": 5,
+                "answer": "„țipete sinistre ca niște bocete” - comparație; „o aripă moale lovi pieptul prichindelului” - personificare."
+            },
+            {
+                "id": 6,
+                "answer": "Da, este plăcut să îți petreci vacanțele în compania prietenilor. În text, autoarea își amintește cu drag de vacanțele petrecute la Mănăstirea Agapia alături de poetul Alexandru Vlahuță și de familia acestuia. Plimbările prin pădure și farsele pe care le făceau împreună sunt descrise ca momente de bucurie și amuzament."
+            },
+            {
+                "id": 7,
+                "answer": "Fragmentul poate fi asociat cu opera 'Amintiri din copilărie' de Ion Creangă. Ambele texte prezintă aventurile unor copii în natură și importanța prieteniei. În 'Cireșarii', Tic se rătăcește în pădure și este salvat de prietenii săi, iar în 'Amintiri din copilărie', Nică trăiește diverse peripeții alături de amicii săi."
+            },
+            {
+                "id": 8,
+                "answer": "a"
+            },
+            {
+                "id": 9,
+                "answer": "a"
+            },
+            {
+                "id": 10,
+                "answer": "c"
+            },
+            {
+                "id": 11,
+                "answer": "d"
+            },
+            {
+                "id": 12,
+                "answer": "1. Dorința de a avea o casă este mare. 2. Nu am participat la nicio expediție."
+            },
+            {
+                "id": 13,
+                "answer": "„să strige” - propoziție subordonată completivă directă; „cât îl țineau puterile” - propoziție subordonată circumstanțială de mod."
+            },
+            {
+                "id": 14,
+                "answer": "Tic este un băiat curajos și isteț. El se rătăcește în pădure, dar nu se panichează și reușește să găsească drumul spre tabăra cireșarilor. Este un bun prieten, loial și recunoscător față de Țombi, cățelul care îl însoțește. Tic este, de asemenea, un băiat vesel și neastâmpărat, care se bucură de revederea cu prietenii săi și de ospățul oferit de Ionel. El este un personaj pozitiv, care inspiră optimism și încredere."
+            }
+        ]
+    }, {
+        "exam": {
+            "title": "Evaluare națională pentru absolvenții clasei a VIII-a 2023",
+            "subject": "Limba și literatura română",
+            "model": true,
+            "categories": [],
+            "sources": {
+                "subject": "EN_VIII_2023_limba_si_literatura_romana_var_model.pdf",
+                "barem": "EN_VIII_2023_limba_si_literatura_romana_bar_model.pdf"
+            }
+        },
+        "answers": [
+            {
+              "id": 1,
+              "answer": "fluturi, albine"
+            },
+            {
+              "id": 2,
+              "answer": "d"
+            },
+            {
+              "id": 3,
+              "answer": "d"
+            },
+            {
+              "id": 4,
+              "answer": "d"
+            },
+            {
+              "id": 5,
+              "answer": "Rima este împerecheată, iar măsura versurilor este de 15-16 silabe."
+            },
+            {
+              "id": 6,
+              "answer": "Consider că protejând un copac se poate salva natura, deoarece fiecare copac are rolul său în ecosistem. În text, Roberto îl oprește pe autor să taie un copac, explicând că acesta ar muri. Acest gest subliniază respectul profund al localnicilor pentru natură și importanța fiecărui element al acesteia. Fiecare copac protejat contribuie la menținerea echilibrului natural și la conservarea biodiversității."
+            },
+            {
+              "id": 7,
+              "answer": "Fragmentul poate fi asociat cu opera 'Pădurea spânzuraților' de Liviu Rebreanu. Ambele texte prezintă importanța respectului față de natură și legătura strânsă dintre om și mediu. În textul lui Stermin, Roberto are un profund respect pentru natură, refuzând să taie un copac. În 'Pădurea spânzuraților', Apostol Bologa se simte copleșit de frumusețea naturii, dar și de cruzimea războiului care o distruge."
+            },
+            {
+              "id": 8,
+              "answer": "c"
+            },
+            {
+              "id": 9,
+              "answer": "a"
+            },
+            {
+              "id": 10,
+              "answer": "c"
+            },
+            {
+              "id": 11,
+              "answer": "b"
+            },
+            {
+              "id": 12,
+              "answer": "Te simțeai atât de bine și de bucuros că ești acolo, încât parcă uitasei complet de noaptea prin care abia trecusei."
+            },
+            {
+              "id": 13,
+              "answer": "1. Nu am auzit de frumusețea junglei. 2. Cerul este albastru."
+            },
+            {
+              "id": 14,
+              "answer": "„când am vrut să lovesc trunchiul” - propoziție subordonată circumstanțială de timp; „în care există miliarde de alți copaci” - propoziție subordonată atributivă."
+            },
+            {
+              "id": 15,
+              "answer": "„când am vrut să lovesc trunchiul” - propoziție subordonată circumstanțială de timp; „în care există miliarde de alți copaci” - propoziție subordonată atributivă."
+            },
+            {
+              "id": 16,
+              "answer": "Oamenii au uitat că în pădurea aceea trăiau câțiva zimbri legendari ai căror ocrotitori sunt copiii acestor ținuturi."
+            },
+            {
+              "id": 17,
+              "answer": "Textul selectat din 'Călin (File din poveste)' de Mihai Eminescu transmite un mesaj profund despre armonia dintre om și natură. Tema centrală este frumusețea și misterul codrului, prezentat ca un loc magic, plin de viață. Două elemente componente ale peisajului sunt codrul de aramă și pădurea de argint, care sugerează bogăția și diversitatea naturii. Figurile de stil, precum personificarea 'trunchii vecinici poartă suflete sub coajă' și comparația 'iarba pare de omăt', subliniază legătura dintre om și natură și creează o atmosferă feerică. În text se exprimă un sentiment de admirație și uimire față de frumusețea naturii, evidențiat prin versuri precum 'Mii de fluturi mici, albaștri, mii de roiuri de albine/Curg în râuri sclipitoare peste flori de miere pline'."
+            }
+        ]
+    }
+]
