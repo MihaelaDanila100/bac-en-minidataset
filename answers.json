@@ -1,0 +1,112 @@
+{
+  "exams": [
+    {
+      "exam": {
+        "title": "Examenul național de bacalaureat 2025",
+        "subject": "Limba și literatura română",
+        "model": true,
+        "categories": [
+          "Filiera teoretică - Profilul real",
+          "Filiera tehnologică",
+          "Filiera vocațională - Toate profilurile (cu excepția profilului pedagogic)"
+        ],
+        "sources": {
+          "subject": "E_a_romana_real_tehn_2025_var_model.pdf",
+          "barem": "E_a_romana_real_tehn_2025_bar_model.pdf"
+        }
+      },
+      "answers": [
+        {
+          "id": 1,
+          "answer": "Cuvântul 'depășit' în text înseamnă 'învechit' sau 'demodat'. Secvența 'pe larg' înseamnă 'detaliat' sau 'amănunțit'."
+        },
+        {
+          "id": 2,
+          "answer": "Pictură și muzică."
+        },
+        {
+          "id": 3,
+          "answer": "Scrisoarea trimisă de Radu soției sale este caracterizată prin umor dens. Justificare: \"Scrisoarea lui Radu, pe optsprezece pagini, ne-a delectat prin umorul ei dens.\""
+        },
+        {
+          "id": 4,
+          "answer": "Liviu Rebreanu scria scrisori imediat după un eveniment ca mod de relaxare și recreere."
+        },
+        {
+          "id": 5,
+          "answer": "Femeile sunt extrem de mulțumite și emoționate la vederea portretelor realizate de pictoriță după fotografii ale copiilor lor decedați. Ele consideră că portretele sunt foarte reușite, spunând că „aproape că grăiesc”."
+        }
+      ]
+    },
+    {
+      "exam": {
+        "title": "Evaluare națională pentru absolvenții clasei a VIII-a 2024",
+        "subject": "Limba și literatura română",
+        "model": false,
+        "categories": [],
+        "sources": {
+          "subject": "EN_VIII_2024_Limba_si_literatura_romana_var.pdf",
+          "barem": "EN_VIII_2024_Limba_si_literatura_romana_bar.pdf"
+        }
+      },
+      "answers": [
+        {
+          "id": 1,
+          "answer": "pădure, copaci"
+        },
+        {
+          "id": 2,
+          "answer": "c: unui câine"
+        },
+        {
+          "id": 3,
+          "answer": "d: să scrie în grădină."
+        },
+        {
+          "id": 4,
+          "answer": "b: prieten al familiei Delavrancea"
+        },
+        {
+          "id": 5,
+          "answer": "1. Comparație: „țipete sinistre ca niște bocete”\n2. Personificare: „O aripă moale lovi pieptul prichindelului”"
+        },
+        {
+          "id": 6,
+          "answer": "Da, este plăcut să îți petreci vacanțele în compania prietenilor. Textul descrie momentele frumoase petrecute de autor alături de tatăl său și prietenul acestuia, poetul Alexandru Vlahuță, în vacanțele la Mănăstirea Agapia. Atmosfera de veselie, glumele și farsele făcute de cei doi prieteni, precum și plimbările prin pădure, contribuie la crearea unor amintiri de neuitat și la întărirea legăturilor de prietenie. Aceste experiențe comune aduc bucurie și împlinire, demonstr"
+        },
+        {
+          "id": 7,
+          "answer": "Fragmentul poate fi asociat cu \"Amintiri din copilărie\" de Ion Creangă, unde valoarea prieteniei și a curajului este evidentă. În ambele texte, personajele principale trec prin situații dificile, dar reușesc să le depășească datorită sprijinului prietenilor. În fragmentul dat, prichindelul și câinele său, Țombi, se ajută reciproc pentru a găsi drumul în pădure. Similar, în \"Amintiri din copilărie\", Nică și prietenii săi se susțin unul pe altul în diverse aventuri, cum ar fi atunci când se"
+        },
+        {
+          "id": 8,
+          "answer": "c: 'mileniilor, știau'"
+        },
+        {
+          "id": 9,
+          "answer": "a: căsuţele, botişorul"
+        },
+        {
+          "id": 10,
+          "answer": "Da, ambele cuvinte din seria d sunt omonime."
+        },
+        {
+          "id": 11,
+          "answer": "d: 'uneori'"
+        },
+        {
+          "id": 12,
+          "answer": "1. Dorința de a avea succes este puternică.\n2. Nu am participat la expediție."
+        },
+        {
+          "id": 13,
+          "answer": "„cât îl ţineau puterile” - propoziție subordonată circumstanțială de mod."
+        },
+        {
+          "id": 14,
+          "answer": "Tic, personajul din textul lui Constantin Chiriță, este un prichindel curajos și neastâmpărat, care se confruntă cu diverse provocări în timpul expediției cireșarilor. Deși inițial pare speriat și dezorientat în pădure, el reușește să-și învingă frica și să găsească drumul spre peșteră, ghidat de mușchiul copacilor. Această ingeniozitate și capacitate de a se adapta la situații dificile demonstrează inteligența și spiritul său de aventură.\n\nTic este, de asemenea, un personaj lo"
+        }
+      ]
+    }
+  ]
+}
