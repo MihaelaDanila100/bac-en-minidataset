@@ -550,17 +550,6 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "51",
-        "Question_number": "55",
-        "Question": "Cuvântul 'dumneavoastră' se abreviază în convenţional astfel:",
-        "Type": "single-choice",
-        "Options": "{'a': 'd-vs.', 'b': 'dvs.', 'c': 'dvoastră', 'd': 'dvs''}",
-        "Correct_answer": "b",
-        "Source": "admitere scoala de subofiteri",
-        "Year": "2020",
-        "Subject_number": "1"
-    },
-    {
         "ID_Entry": "52",
         "Question_number": "56",
         "Question": "S-a strecurat o eroare de exprimare în enunţul:",
@@ -12966,6 +12955,17 @@
         "Correct_answer": "c",
         "Source": "admitere drept Iasi",
         "Year": "2013",
+        "Subject_number": "1"
+    },
+     {
+        "ID_Entry": "51",
+        "Question_number": "55",
+        "Question": "Cuvântul 'dumneavoastră' se abreviază în convenţional astfel:",
+        "Type": "single-choice",
+        "Options": "{'a': 'd-vs.', 'b': 'dvs.', 'c': 'dvoastră', 'd': 'dvs''}",
+        "Correct_answer": "b",
+        "Source": "admitere scoala de subofiteri",
+        "Year": "2020",
         "Subject_number": "1"
     }
 ]
