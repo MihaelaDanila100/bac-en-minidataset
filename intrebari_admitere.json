@@ -554,7 +554,7 @@
         "Question_number": "55",
         "Question": "Cuvântul 'dumneavoastră' se abreviază în convenţional astfel:",
         "Type": "single-choice",
-        "Options": "{'a': 'd-vs.', 'b': 'dvs.', 'c': 'dvoastră', 'd': 'dvs''}",
+        "Options": "{'a': 'd-vs.', 'b': 'dvs.', 'c': 'dvoastră', 'd': 'dvs'}",
         "Correct_answer": "b",
         "Source": "admitere scoala de subofiteri",
         "Year": "2020",
@@ -574,7 +574,7 @@
     {
         "ID_Entry": "53",
         "Question_number": "57",
-        "Question": "Enunţul Problema lu' Mircea este că propriii angajați iau bani de la concurenţă:",
+        "Question": "Enunţul: Problema lu' Mircea este că propriii angajați iau bani de la concurenţă",
         "Type": "single-choice",
         "Options": "{'a': 'nu are nicio greşeală de ortografie', 'b': 'are o greşeală de ortografie', 'c': 'are două greșeli de ortografie', 'd': 'are trei greşeli de ortografie'}",
         "Correct_answer": "a",
@@ -5986,7 +5986,7 @@
     {
         "ID_Entry": "545",
         "Question_number": "18",
-        "Question": "În enunţul '— Las' că-ți vin eu de hac, când te-oi găsi, zise Făt-Frumos.' există:",
+        "Question": "Există în enunţul: — Las' că-ți vin eu de hac, când te-oi găsi, zise Făt-Frumos.",
         "Type": "single-choice",
         "Options": "{'a': 'trei semne de punctuație și cinci semne de ortografie;', 'b': 'patru semne de punctuație și patru semne de ortografie;', 'c': 'cinci semne de punctuație şi trei semne de ortografie;', 'd': 'şase semne de punctuație și două semne de ortografie.'}",
         "Correct_answer": "b",
@@ -6679,7 +6679,7 @@
     {
         "ID_Entry": "608",
         "Question_number": "44",
-        "Question": "În enunţul 'Cum a venit, s-a şi culcat, valoarea morfologică a cuvântului 'cum' este:",
+        "Question": "În enunţul 'Cum a venit, s-a şi culcat', valoarea morfologică a cuvântului 'cum' este:",
         "Type": "single-choice",
         "Options": "{'a': 'adverb relativ de mod;', 'b': 'adverb nehotărât;', 'c': 'conjuncție subordonatoare;', 'd': 'adverb relativ de timp.'}",
         "Correct_answer": "c",
@@ -7011,7 +7011,7 @@
         "Question_number": "23",
         "Question": "Sunt corect explicate paronimele din seria:",
         "Type": "single-choice",
-        "Options": "{'a': 'areleva = 'a evidenția'; a revela = 'a dezvălui'', 'b': 'complement = 'cuvânt de laudă'; compliment = 'parte secundară de propoziţie'', 'c': 'temporal = 'care e de scurtă durată; trecător'; temporar = 'care indică timpul, privitor la timp''}",
+        "Options": "{'a': 'a releva = a evidenția; a revela = a dezvălui', 'b': 'complement = cuvânt de laudă; compliment = parte secundară de propoziţie', 'c': 'temporal = care e de scurtă durată; trecător; temporar = care indică timpul, privitor la timp'}",
         "Correct_answer": "a",
         "Source": "admitere drept Iasi",
         "Year": "2011",
@@ -8749,7 +8749,7 @@
         "Question_number": "57",
         "Question": "Propoziția subordonată din fraza 'Spune-i şi tu copilului, măi omule, tot ce trebuie!' are ca termen regent:",
         "Type": "single-choice",
-        "Options": "{'a': 'verbul predicativ 'spune';', 'b': 'substantivul 'omule';', 'c': 'pronumele nehotărât 'tot'', 'd': 'pronumele personal 'tu''}",
+        "Options": "{'a': 'verbul predicativ 'spune';', 'b': 'substantivul 'omule';', 'c': 'pronumele nehotărât 'tot', 'd': 'pronumele personal 'tu'}",
         "Correct_answer": "c",
         "Source": "admitere scoala de subofiteri",
         "Year": "2018",
@@ -9385,7 +9385,7 @@
     {
         "ID_Entry": "854",
         "Question_number": "57",
-        "Question": "“Enunţul Deasemenea, e bine să studiezi intens pentru a fii sigur că vei ştii la egzamen' conţine:",
+        "Question": "Enunţul 'De asemenea, e bine să studiezi intens pentru a fii sigur că vei ştii la egzamen' conţine:",
         "Type": "single-choice",
         "Options": "{'a': 'două greşeli de ortografie;', 'b': 'trei greşeli de ortografie;', 'c': 'patru greşeli de ortografie;', 'd': 'cinci greşeli de ortografie'}",
         "Correct_answer": "c",
@@ -9483,28 +9483,6 @@
     },
     {
         "ID_Entry": "863",
-        "Question_number": "8",
-        "Question": "Substantivele subliniate în versul: 'S-apropie _amiaza_ și _sufletul_ așteaptă...' sunt, în ordine, în cazul:",
-        "Type": "single-choice",
-        "Options": "{'a': 'acuzativ, acuzativ', 'b': 'acuzativ, nominativ', 'c': 'nominativ, nominativ', 'd': 'nominativ, acuzativ'}",
-        "Correct_answer": "c",
-        "Source": "admitere colegiul militar",
-        "Year": "2023",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "864",
-        "Question_number": "9",
-        "Question": "Din punct de vedere sintactic, cuvintele subliniate în versul: 'De coarda _lor_ _Visarea_ și-a animat culcușul.' sunt, în ordine:",
-        "Type": "single-choice",
-        "Options": "{'a': 'atribut, subiect', 'b': 'atribut, complement direct', 'c': 'complement indirect, complement direct', 'd': 'complement indirect, subiect'}",
-        "Correct_answer": "c",
-        "Source": "admitere colegiul militar",
-        "Year": "2023",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "865",
         "Question_number": "10",
         "Question": "În versurile 'Și sufletul bea raze cântând de bucurie/Sub soarele ce suie din ce în ce urcuşul...' există:",
         "Type": "single-choice",
@@ -9515,18 +9493,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "866",
-        "Question_number": "3",
-        "Question": "Cuvintele subliniate în secvențele: 'uitându-mă în sus, în _desişul_ crăcilor şi al frunzelor; să se strâmbe _deodată_ la mine' s-au format, în ordine, prin:",
-        "Type": "single-choice",
-        "Options": "{'a': 'conversiune, compunere', 'b': 'conversiune, derivare', 'c': 'dezivare, compunere', 'd': 'derivare, derivare'}",
-        "Correct_answer": "c",
-        "Source": "admitere colegiul militar",
-        "Year": "2022",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "867",
+        "ID_Entry": "864",
         "Question_number": "4",
         "Question": "Numărul literelor este diferit de numărul sunetelor în toate cuvintele din seria:",
         "Type": "single-choice",
@@ -9537,7 +9504,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "868",
+        "ID_Entry": "865",
         "Question_number": "5",
         "Question": "Rolul virgulei în secvenţa: N-ar Ji nimic, îmi spusei este explicat corect, în varianta:",
         "Type": "single-choice",
@@ -9548,7 +9515,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "869",
+        "ID_Entry": "866",
         "Question_number": "6",
         "Question": "Este scris corect enunţul:",
         "Type": "single-choice",
@@ -9559,40 +9526,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "870",
-        "Question_number": "7",
-        "Question": "Valorile morfologice ale cuvintelor subliniate în secvența: 'ar fi _același_ lucru pe care îl făceam la București, când _mă_ certam cu _ai mei_ și ieșeam afară din casă' sunt precizate corect, în seria:",
-        "Type": "single-choice",
-        "Options": "{'a': 'adjectiv pronominal demonstrativ, pronume personal, adjectiv pronominal posesiv', 'b': 'adjectiv pronominal demonstrativ, pronume reflexiv, pronume posesiv', 'c': 'pronume demonstrativ, pronume personal, adjectiv pronominal posesiv', 'd': 'pronume demonstrativ, pronume reflexiv, pronume posesiv'}",
-        "Correct_answer": "b",
-        "Source": "admitere colegiul militar",
-        "Year": "2022",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "871",
-        "Question_number": "8",
-        "Question": "Verbele subliniate în secvența: 'Programul ăsta mă _linişti_ într-adevăr cu totul şi când _venea_ somnul împreună cu valul de țârâit de greieri care îmi creştea în auz, ca şi când întreaga hume _ar fi fost populată_ numai de ei sunt, în ordine, la:",
-        "Type": "single-choice",
-        "Options": "{'a': 'indicativ, perfect simplu; indicativ, imperfect; condițional-optativ, perfect', 'b': 'indicativ, perfect simplu; indicativ, imperfect; condiţional-optativ, prezent', 'c': 'infinitiv, prezent; indicativ, imperfect; condițional-optativ, perfect', 'd': 'infinitiv, perfect; indicativ, prezent; condițional-optativ, prezent'}",
-        "Correct_answer": "a",
-        "Source": "admitere colegiul militar",
-        "Year": "2022",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "872",
-        "Question_number": "9",
-        "Question": "Din punct de vedere sintactic, cuvintele subliniate din secvenţa: '_Mi_-au plăcut însă de mic, de când îmi petreceam _verile_ acasă la bunici, _copacii_. sunt, în ordine:",
-        "Type": "single-choice",
-        "Options": "{'a': 'complement indirect, complement direct, apoziţie', 'b': 'complement indirect, complement direct, subiect', 'c': 'subiect, circumstanţial de timp, complement direct', 'd': 'subiect, circumstanţial de timp, subiect'}",
-        "Correct_answer": "b",
-        "Source": "admitere colegiul militar",
-        "Year": "2022",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "873",
+        "ID_Entry": "867",
         "Question_number": "10",
         "Question": "În fraza: 'Începui să-i cunosc de departe, să-l întâlnesc înainte de a ajunge la locul meu, întâi pe-ăla strâmbu care părea atât de bătrân.', există:",
         "Type": "single-choice",
@@ -9603,7 +9537,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "874",
+        "ID_Entry": "868",
         "Question_number": "4",
         "Question": "Cuvintele 'strărunchilor', 'înspre', 'vitejește' s-au format, în ordine, prin:",
         "Type": "single-choice",
@@ -9614,7 +9548,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "875",
+        "ID_Entry": "869",
         "Question_number": "5",
         "Question": "Numărul literelor este egal cu numărul sunetelor în toate cuvintele din seria:",
         "Type": "single-choice",
@@ -9625,7 +9559,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "876",
+        "ID_Entry": "870",
         "Question_number": "6",
         "Question": "Rolul virgulelor din secvența: '— Vreau să evadez şi eu, am spus cât am putut de răspicat, în timp ce umpleam cu galben soarele de pe cerul încă alb al foii de hârtie.' este:",
         "Type": "single-choice",
@@ -9636,40 +9570,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "877",
-        "Question_number": "7",
-        "Question": "Cazul pronumelor subliniate din secvenţa: 'Nu mai ştiu care dintre _ei_ _le_ propunea _celorlalți_ să fugă, să evadeze.' este corect marcat, în ordine, în seria:",
-        "Type": "single-choice",
-        "Options": "{'a': 'acuzativ, dativ, dativ', 'b': 'acuzativ. acuzativ, genitiv', 'c': 'nominativ, acuzativ, dativ', 'd': 'nominativ. dativ, genitiv'}",
-        "Correct_answer": "a",
-        "Source": "admitere colegiul militar",
-        "Year": "2021",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "878",
-        "Question_number": "8",
-        "Question": "Modul verbelor subliniate din secvenţa: 'Până la urmă _am stabilit_ de comun acord că totul e cât _se poate_ de adevărat, că tot ce-a făcut Edmond Dantes e posibil şi că, dacă ne-am antrena puţin, _am putea_ chiar şi noi _să evadăm_ în felul ăla.' este corect marcat, în ordine, în seria:",
-        "Type": "single-choice",
-        "Options": "{'a': 'condițional-optativ, conjunctiv, condițional-optativ, conjunctiv', 'b': 'condițional-optativ, indicativ, condițional-optativ, conjunctiv', 'c': 'indicativ, conjunctiv, indicativ, conjunctiv', 'd': 'indicativ, indicativ, condițional-optativ, conjunctiv'}",
-        "Correct_answer": "d",
-        "Source": "admitere colegiul militar",
-        "Year": "2021",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "879",
-        "Question_number": "9",
-        "Question": "Din punct de vedere sintactic, cuvintele subliniate din secvența: 'Casa însă era guta să ne ajute _la exerciţiile_ _de evadare_, era foarte disponibilă, de câte ori îi ceream _ajutorul_.' sunt, în ordine:",
-        "Type": "single-choice",
-        "Options": "{'a': 'complement direct, complement prepoziţional, complement indirect', 'b': 'complement indirect, atribut, complement direct', 'c': 'complement indirect, complement prepozițional, complement direct', 'd': 'complement prepoziționat, atribut, complement direct'}",
-        "Correct_answer": "d",
-        "Source": "admitere colegiul militar",
-        "Year": "2021",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "880",
+        "ID_Entry": "871",
         "Question_number": "10",
         "Question": "În fraza: 'Urcam pe acoperiş şi mergeam pe el încercând să nu spargem nicio țiglă, apoi ne  opream și priveam de acolo înspre acoperișurile din partea care dădea pe strada din spatele casei.' există:",
         "Type": "single-choice",
@@ -9680,7 +9581,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "881",
+        "ID_Entry": "872",
         "Question_number": "4",
         "Question": "Sinonime pentru sensul din text al cuvintelor 'limite', 'niciodată', 'pură' se regăsesc, în ordine, în seria:",
         "Type": "single-choice",
@@ -9691,7 +9592,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "882",
+        "ID_Entry": "873",
         "Question_number": "5",
         "Question": "Rolul cratimei în fiecare dintre secvențele 'de-acolo' şi 'n-aş fi vrut' este explicat corect, în ordine, în seria:",
         "Type": "single-choice",
@@ -9702,7 +9603,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "883",
+        "ID_Entry": "874",
         "Question_number": "6",
         "Question": "Conţin diftongi toate cuvintele din seria:",
         "Type": "single-choice",
@@ -9713,7 +9614,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "884",
+        "ID_Entry": "875",
         "Question_number": "7",
         "Question": "Cuvintele 'arcuite', 'umbrare', 'rătăcită', 'ceva' s-au format, în ordine, prin:",
         "Type": "single-choice",
@@ -9724,7 +9625,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "885",
+        "ID_Entry": "876",
         "Question_number": "8",
         "Question": "Valoarea morfologică a fiecărui cuvânt subliniat în enunţul '_Aceea_ era lumea _mea_, din _care_ n-aș fi vrut să ies niciodată.' se regăseşte, în ordine, în seria:",
         "Type": "single-choice",
@@ -9735,7 +9636,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "886",
+        "ID_Entry": "877",
         "Question_number": "9",
         "Question": "Funcţia sintactică şi cazul fiecărui cuvânt subliniat în enunţul 'Pădurea _mi_ se părea mie, _o_ _fetiță_ rătăcită pe cărări, _singura_ realitate posibilă.' sunt, în ordine:",
         "Type": "single-choice",
@@ -9746,7 +9647,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "887",
+        "ID_Entry": "878",
         "Question_number": "10",
         "Question": "În fraza 'Încântată de culorile fluturilor, de gustul zmeurei cu care mă mânjisem toată pe la gură, mergeam voioasă, sărind într-un picior, lăsându-mă pe burtă ca să sorb apa uşoară a vreunui izvor cristalin.', se regăsesc:",
         "Type": "single-choice",
@@ -9757,7 +9658,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "888",
+        "ID_Entry": "879",
         "Question_number": "3",
         "Question": "Măsura versurilor 'În faza unui stejar ce-și rothujea biserica de crengi plecate/Până-n ocolnița cerurilor afunde' este de:",
         "Type": "single-choice",
@@ -9768,7 +9669,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "889",
+        "ID_Entry": "880",
         "Question_number": "4",
         "Question": "Sunt utilizate cu sens figurat toate cuvintele din seria:",
         "Type": "single-choice",
@@ -9779,7 +9680,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "890",
+        "ID_Entry": "881",
         "Question_number": "5",
         "Question": "Rolul cratimei în secvențele 'se-nchina și ce-şi rotunjea' este explicat corect, în ordine, în seria:",
         "Type": "single-choice",
@@ -9790,7 +9691,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "891",
+        "ID_Entry": "882",
         "Question_number": "6",
         "Question": "Cuvintele 'aicea', 'foişorul', 'foi', 'aiurit' conţin, în ordine:",
         "Type": "single-choice",
@@ -9801,7 +9702,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "892",
+        "ID_Entry": "883",
         "Question_number": "7",
         "Question": "Cuvintele 'decât', 'altă', 'printre', 'pieptare' s-au format, în ordine, prin:",
         "Type": "single-choice",
@@ -9812,7 +9713,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "893",
+        "ID_Entry": "884",
         "Question_number": "1",
         "Question": "Propozițiile din fraza 'Ți-am atras atenţia şi data trecută să nu te mai agiţi atâta, că doar nu s-a întâmplat nimic grav și, la drept vorbind, chiar așa să fie, o soluție tot trebuie să se găsească în cele din urmă.' sunt, în ordine:",
         "Type": "single-choice",
@@ -9823,7 +9724,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "894",
+        "ID_Entry": "885",
         "Question_number": "2",
         "Question": "Propozițiile din fraza 'Nu trebuie să se afle de către spioni când şi cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla și încă repede.' sunt, în ordine:",
         "Type": "single-choice",
@@ -9834,7 +9735,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "895",
+        "ID_Entry": "886",
         "Question_number": "3",
         "Question": "Propozițiile din fraza 'Nervos cum este, măcar că nu întotdeauna fără motiv, poate ar fi mai înţelept pentru moment să-l lași în pace.' sunt, în ordine:",
         "Type": "single-choice",
@@ -9845,18 +9746,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "896",
-        "Question_number": "4",
-        "Question": "Fie enunţul: 'Lupta _împotriva corupției_ este la ordinea zilei.'. Denumirea corectă a funcţiei sintactice a secvenţei subliniate este:",
-        "Type": "single-choice",
-        "Options": "{'a': 'atribut substantival genitival (pentru că substantivul este în genitiv);', 'b': 'atribut substantival prepoziţional (pentru că substantivul este însoțit de prepoziţie);', 'c': 'atribut substantival genitival prepozițional (pentru că substantivul este în genitiv cu prepoziţie);', 'd': 'toate denumirile de mai sus sunt corecte'}",
-        "Correct_answer": "b",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "897",
+        "ID_Entry": "887",
         "Question_number": "5",
         "Question": "Fie exemplul: 'Ion este inteligent, iar Maria, frumoasă.' În enunţul dat avem:",
         "Type": "single-choice",
@@ -9867,7 +9757,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "898",
+        "ID_Entry": "888",
         "Question_number": "6",
         "Question": "Fie următoarele afirmaţii: (1) O propoziţie principală este întotdeauna şi regentă; (2) O propoziţie principală este întotdeauna în relaţie cu altă principală; (3) O propoziţie secundară (ca înţeles) este întotdeauna şi subordonată (gramatical); (4) O propoziţie secundară (şi subordonată) poate fi în acelaşi timp şi regentă (unei alte propoziţii). Sunt corecte:",
         "Type": "single-choice",
@@ -9878,7 +9768,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "899",
+        "ID_Entry": "889",
         "Question_number": "7",
         "Question": "Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:",
         "Type": "single-choice",
@@ -9889,7 +9779,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "900",
+        "ID_Entry": "890",
         "Question_number": "37",
         "Question": "Fie enunţul: 'Odată ce ajunse la baltă, se aruncă în apă, deşi nu i-n fire să-nnoate şi deşi ştia că i-ar displace să se-nnămolească.'. Acesta conţine:",
         "Type": "single-choice",
@@ -9900,7 +9790,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "901",
+        "ID_Entry": "891",
         "Question_number": "38",
         "Question": "Fie enunţul: 'Înainte de aș părăsi familia, mai vorbi o dată cu foştii săi socrii dar se sfiii să le spună că şi-ar dori să rămână alături de ei.'. Acesta conţine:",
         "Type": "single-choice",
@@ -9911,7 +9801,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "902",
+        "ID_Entry": "892",
         "Question_number": "39",
         "Question": "Fie enunţul: 'Din punct de vedere al intereselor noastre, sunteţi de acord, sper, că nu se merită să facem nimic, respectiv ceva care, datorită grabei sau a neglijenţei, să ne aducă prejudicii.' Acesta conţine:",
         "Type": "single-choice",
@@ -9922,7 +9812,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "903",
+        "ID_Entry": "893",
         "Question_number": "40",
         "Question": "Fie enunţul: 'Nu ştiu de ce naibii în ultima vreme faci decât prostii, ca şi cum ai avea mintea puţină a copilului acela mic şi răsfăţat de altă dată.'. Acesta conţine:",
         "Type": "single-choice",
@@ -9933,7 +9823,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "904",
+        "ID_Entry": "894",
         "Question_number": "42",
         "Question": "Se dau următoarele cuvinte: 'imediat', 'obiect', 'piațetă', 'companion'. Conţin diftongi:",
         "Type": "single-choice",
@@ -9944,7 +9834,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "905",
+        "ID_Entry": "895",
         "Question_number": "43",
         "Question": "Se dau următoarele serii de cuvinte: (1)aleii, oştii, coperții, bandei; (2)aleei, oastei, copertei, benzii; (3)aleei, oastei, coperţii, bandei; (4)aleii, oştii, copertei, benzii. Conţin numai forme corecte de genitiv-dativ articulat:",
         "Type": "single-choice",
@@ -9955,7 +9845,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "906",
+        "ID_Entry": "896",
         "Question_number": "44",
         "Question": "Se dau următoarele cuvinte: cuvânt-înainte, post-universitar, mâine-dimineaţă, non-stop. Sunt corect scrise cu cratimă:",
         "Type": "single-choice",
@@ -9966,73 +9856,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "907",
-        "Question_number": "45",
-        "Question": "Se dă enunţul: 'Toată iarna m-au chinuit _guturaiurile_(1) / _guturaiele_(2), dar cel mai mult m-au deranjat _accesurile_(3) / _accesele_(4) de tuse.'. Dintre substantivele la plural subliniate, sunt corecte:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (1) şi (4);', 'c': 'numai (1), (2) şi (4);', 'd': 'numai (2) şi (3)'}",
-        "Correct_answer": "c",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "908",
-        "Question_number": "46",
-        "Question": "Se dă enunţul: 'Când i-au fost predate _rapoartele_(1) / _raporturile_(2), a văzut că de pe foi lipseau _antetele_(3) / _anteturile_(4).'. Dintre substantivele la plural subliniate, sunt corecte:",
-        "Type": "single-choice",
-        "Options": "{'a': 'numai (1), (2) şi (3);', 'b': 'numai (2) şi (4);', 'c': 'numai (1), (3) şi (4);', 'd': 'toate'}",
-        "Correct_answer": "c",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "909",
-        "Question_number": "47",
-        "Question": "Se dă următorul enunţ: 'Deşi guvernanţii _anticipează_(1) / _anticipă_(2) de atâta vreme ieşirea din criză, lumea se _îndoieşte_(3) / _îndoaie_(4) că asta se va întâmpla curând.'. Dintre formele verbale subliniate, sunt corecte:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (2) şi (3);', 'c': 'numai (1) şi (4);', 'd': 'numai (1), (2) şi (3)'}",
-        "Correct_answer": "d",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "910",
-        "Question_number": "48",
-        "Question": "Se dă următorul enunţ: 'Când a ajuns pe țărmul _mediteranean_(1) / _mediteraneean_(2), a intrat în primul _cazino_(3) / _cazinou_(4) ieşit în cale şi a sevit un _cocktail_(5) / _cocteil_(6).'. Dintre cuvintele subliniate, au forme literare:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (2), (4) şi (6); ', 'c': 'numai (1), (3) şi (5);', 'd': 'numai (2), (4), (5) şi (6)'}",
-        "Correct_answer": "d",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "911",
-        "Question_number": "50",
-        "Question": "Se dă enunţul: 'Tot mai mulţi sunt dezamăgiţi de ceea ce se întâmplă pe la noi, aşa că se hotărăsc să _emigreze_(1) / _imigreze_(2) din România.'. Cuvântul corect (potrivit) pentru acest enunţ este:",
-        "Type": "single-choice",
-        "Options": "{'a': 'primul dintre paronime', 'b': 'al doilea dintre paronime', 'c': 'cuvintele subliniate sunt variante opționale, deci amândouă sunt corecte', 'd': 'cuvintele subliniate sunt sinonime, deci amândouă sunt corecte.'}",
-        "Correct_answer": "a",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "912",
-        "Question_number": "52",
-        "Question": "Se dă enunţul: 'După ce a fost anunţat că, în urma acelei _razii poliţieneşti_(1), fusese pus sub _interdictie legală_(2), a apelat la un _barou de avocați_(3).'. Dintre expresiile subliniate, constituie pleonasme:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (2);', 'c': 'numai (1) şi (2);', 'd': 'numai (3)'}",
-        "Correct_answer": "a",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "913",
+        "ID_Entry": "897",
         "Question_number": "53",
         "Question": "Se dau cuvintele: (1) sincer; (2) cinstit; (3) leal; (4) fidel. Sunt sinonime ale cuvântului _loial_:",
         "Type": "single-choice",
@@ -10043,7 +9867,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "914",
+        "ID_Entry": "898",
         "Question_number": "54",
         "Question": "Se dau cuvintele: (1) alternativ; (2) secundar; (3) întâmplător; (4) incidental. Sunt sinonime ale cuvântului episodic:",
         "Type": "single-choice",
@@ -10054,7 +9878,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "915",
+        "ID_Entry": "899",
         "Question_number": "55",
         "Question": "Sensul cuvântului 'elocvent' este:",
         "Type": "single-choice",
@@ -10065,7 +9889,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "916",
+        "ID_Entry": "900",
         "Question_number": "56",
         "Question": "Sensul cuvântului 'patentat' este:",
         "Type": "single-choice",
@@ -10076,7 +9900,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "917",
+        "ID_Entry": "901",
         "Question_number": "57",
         "Question": "Fie următoarele definiri şi / sau explicări de cuvinte: (1) perioadă de zece zile consecutive; (2) deceniu; (3) perioadă de zece luni consecutive. Care dintre acestea este (sunt) sensul (sensurile) cuvântului 'decadă'?",
         "Type": "single-choice",
@@ -10087,7 +9911,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "918",
+        "ID_Entry": "902",
         "Question_number": "58",
         "Question": "Fie următoarele definiri şi / sau explicări de cuvinte: (1) a elabora o lege; (2) a adopta o lege; (3) a stabili ceva prin lege; (4) a stabili regulile în societate, ştiinţă, artă etc. Care dintre acestea reprezintă sensul (sensurile) cuvântului 'a legifera'?",
         "Type": "single-choice",
@@ -10098,7 +9922,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "919",
+        "ID_Entry": "903",
         "Question_number": "59",
         "Question": "Cuvântul 'tendenţios' poate fi în raport de antonimie cu:",
         "Type": "single-choice",
@@ -10109,7 +9933,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "920",
+        "ID_Entry": "904",
         "Question_number": "60",
         "Question": "Se dau următoarele cuvinte: pertinent(1); nepotrivit(2); impertinent(3); incompetent(4). Se poate stabili un raport de antonimie:",
         "Type": "single-choice",
@@ -10120,18 +9944,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "921",
-        "Question_number": "1",
-        "Question": "Fie enunţul: 'Lupta _împotriva corupției_ este la ordinea zilei.'. Denumirea corectă a funcţiei sintactice a secvenţei subliniate este:",
-        "Type": "single-choice",
-        "Options": "{'a': 'atribut substantival genitival (pentru că substantivul este în genitiv);', 'b': 'atribut substantival prepoziţional (pentru că substantivul este însoţit de prepoziţie);', 'c': 'atribut substantival genitival prepoziţional (pentru că substantivul este în genitiv cu prepoziţie);', 'd': 'toate denumirile de mai sus sunt corecte'}",
-        "Correct_answer": "b",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2011",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "922",
+        "ID_Entry": "905",
         "Question_number": "2",
         "Question": "Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:",
         "Type": "single-choice",
@@ -10142,7 +9955,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "923",
+        "ID_Entry": "906",
         "Question_number": "3",
         "Question": "Fie exemplul: 'Ion este inteligent, iar Maria, frumoasă.'. În enunţul dat avem:",
         "Type": "single-choice",
@@ -10153,7 +9966,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "924",
+        "ID_Entry": "907",
         "Question_number": "4",
         "Question": "Fie următoarele afirmaţii: (1) O propoziţie principală este întotdeauna şi regentă; (2) O propoziţie principală este întotdeauna în relaţie cu altă principală; (3) O propoziţie secundară (ca înţeles) este întotdeauna şi subordonată (gramatical); (4) O propoziţie secundară (şi subordonată) poate fi în acelaşi timp şi regentă (unei alte propoziţii). Sunt corecte:",
         "Type": "single-choice",
@@ -10164,7 +9977,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "925",
+        "ID_Entry": "908",
         "Question_number": "5",
         "Question": "În fraza: 'Nervos cum este, măcar că nu întotdeauna fără motiv, poate ar fi mai înțelept pentru moment să-l lași în pace.' propozițiile sunt, în ordine:",
         "Type": "single-choice",
@@ -10175,7 +9988,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "926",
+        "ID_Entry": "909",
         "Question_number": "6",
         "Question": "În fraza: 'Nu trebuie să se afle de către spioni când și cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla şi încă repede.' propozițiile sunt, în ordine:",
         "Type": "single-choice",
@@ -10186,7 +9999,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "927",
+        "ID_Entry": "910",
         "Question_number": "1",
         "Question": "În fraza: 'Nu-i deloc înțelept, Ioane, să-i lași mereu pe alții să te conducă, mai ales că aud tot mai des spunându-se că eşti un organizator cum rar se pomeneşte.' propozițiile sunt, în ordine:",
         "Type": "single-choice",
@@ -10197,18 +10010,18 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "928",
+        "ID_Entry": "911",
         "Question_number": "2",
         "Question": "În fraza: 'Nu-mi place să te văd aşa de necăjit, mai ales că, din momentul când ai fost concediat, n-a fost zi în care să n-ai ce face sau să te simţi complet inutil.' propozițiile sunt, în ordine:",
         "Type": "single-choice",
-        "Options": "{'a': 'principală + subiectivă + atributivă + circumstanțială de cauză + atributivă + atributivă;', 'b': 'principală + completivă directă + circumstanțială de timp + circumstanțială de cauză + atributivă + completivă directă + atributivă', 'c': 'principală + subiectivă + atributivă + circumstanțială concesivă + atributivă + atributivă', 'd': 'altă interpretare}",
+        "Options": "{'a': 'principală + subiectivă + atributivă + circumstanțială de cauză + atributivă + atributivă;', 'b': 'principală + completivă directă + circumstanțială de timp + circumstanțială de cauză + atributivă + completivă directă + atributivă', 'c': 'principală + subiectivă + atributivă + circumstanțială concesivă + atributivă + atributivă', 'd': 'altă interpretare'}",
         "Correct_answer": "a",
         "Source": "admitere drept Bucuresti",
         "Year": "2012",
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "929",
+        "ID_Entry": "912",
         "Question_number": "3",
         "Question": "În fraza: 'Ieri, după ce mi-a fost clar că nu-l interesa de fapt ce-am scris eu, ci anumită persoană, mi-am dat seama de durerosul adevăr.' propozițiile sunt, în ordine:",
         "Type": "single-choice",
@@ -10219,7 +10032,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "930",
+        "ID_Entry": "913",
         "Question_number": "4",
         "Question": "Se dau enunţurile: (1) _Tot_ pe drum, pe drum, pe drum / Şi la mândra nicidecum... (Folclor) (2) Nu mi-a lăsat nimic, a luat chiar _tot_. (3) Mă caută _tot_ la două săptămâni. (4) În _tot_ ce facem există o rațiune oarecare. Cuvântul subliniat este:",
         "Type": "single-choice",
@@ -10230,18 +10043,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "931",
-        "Question_number": "5",
-        "Question": "Fie enunţul: 'Am dat _cui ce_ merita.'. Cuvintele subliniate:",
-        "Type": "single-choice",
-        "Options": "{'a': 'sunt amândouă relative (subordonatoare)', 'b': 'este relativ numai primul', 'c': 'este relativ numai al doilea', 'd': 'formează (împreună) o locuțiune relativă (subordonatoare)'}",
-        "Correct_answer": "c",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2012",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "932",
+        "ID_Entry": "914",
         "Question_number": "6",
         "Question": "Adjectivele pronominale (fără prepoziţie) pot îndeplini funcţiile sintactice de:",
         "Type": "single-choice",
@@ -10252,7 +10054,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "933",
+        "ID_Entry": "915",
         "Question_number": "7",
         "Question": "Fie enunţul: 'Nu mă duce gândul la aşa ceva.'. Subiectul propoziției este:",
         "Type": "single-choice",
@@ -10263,7 +10065,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "934",
+        "ID_Entry": "916",
         "Question_number": "21",
         "Question": "Fie următoarele forme: (1) (noi) creem; (2) (noi) creăm; (3) (am) creat; (4) (am) creeat; (5) (am) creiat; (6) creind; (7) creând; (8) creere; (9) creare; (10) (noi) creiăm; (11) (eu) creez; (12) va creea. Sunt corecte gramatical:",
         "Type": "single-choice",
@@ -10274,7 +10076,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "935",
+        "ID_Entry": "917",
         "Question_number": "22",
         "Question": "Fie următoarele forme ale verbului 'a fi': (1) nu fi (sigur); (2) fiti (amabil); (3) să nu fii (rău); (4) fii (cuminte); (5) nu fii (agresiv); (6) să nu fi (venit); (7) fi-ţi (bine-venit); (8) fire-ar (să fie); (9) fi-ți-ar (neamul de râs); (10) să nu fii (ajuns la timp). Sunt corect scrise:",
         "Type": "single-choice",
@@ -10285,7 +10087,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "936",
+        "ID_Entry": "918",
         "Question_number": "23",
         "Question": "În cazul coordonării disjunctive propriu-zise prin 'sau', 'ori' a două unităţi sintactice (părți de propoziţie, propoziţii), virgula este:",
         "Type": "single-choice",
@@ -10296,7 +10098,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "937",
+        "ID_Entry": "919",
         "Question_number": "24",
         "Question": "Fie următoarele structuri: (1) caii de cursă ai fermei; (2) omul de casă al directorului; (3) caii de cursă a fermei; (4) omul de casă a directorului. Sunt corecte gramatical:",
         "Type": "single-choice",
@@ -10307,18 +10109,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "938",
-        "Question_number": "25",
-        "Question": "Fie enunțurile următoare: (1) Mi-_ar părea_ bine să ne vedem. (2) Când _va apărea_ ceva nou, te voi anunța. (3) Sunt sigur că _nu veți încăpea_ toți în maşină. (4) Nu poate _dispărea_ fără să observe cineva. (5) Știu că nu ți-ar _displăcea_ o vacanță. Sunt corecte gramatical formele verbele subliniate:",
-        "Type": "single-choice",
-        "Options": "{'a': 'niciuna', 'b': 'toate', 'c': 'numai din (2), (4) și (5)', 'd': 'altă interpretare'}",
-        "Correct_answer": "b",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2012",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "939",
+        "ID_Entry": "920",
         "Question_number": "26",
         "Question": "Fie următoarele enunțuri: (1) Mi-_au trebuit_ zece luni să aflu adevărul. (2) Îmi mai _trebuie_ zece milioane. (3) S-ar putea _să_-i mai _trebuiască_ ceva timp. (4) Îşi mai _trebuie_ două aprobări. (5) Legile _trebuiesc_ aplicate.  Sunt corecte gramatical formele verbului 'a trebui':",
         "Type": "single-choice",
@@ -10329,18 +10120,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "940",
-        "Question_number": "27",
-        "Question": "Fie următoarele enunțuri: (1) Totul _se succedă_ cu o viteză incredibilă. (2) Totul _se succede_ cu o viteză incredibilă. (3) Concluziile _succed_ prezentării detaliate. (4) Introducerea nu poate _succeda_ cuprinsului. (5) Concluziile _succedă_ prezentării detaliate. Sunt corecte gramatical formele verbale subliniate:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (1) şi (4);', 'c': 'numai din (4) şi (5);', 'd': 'altă interpretare'}",
-        "Correct_answer": "d",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2012",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "941",
+        "ID_Entry": "921",
         "Question_number": "28",
         "Question": "Fie următoarele structuri cu relativul care: (1) profesoarele cu _ai căror_ elevi; (2) profesoarele cu elevii _cărora_; (3) profesoarele cu _al căror_ elev; (4) profesoarele cu elevul _cărora_; (5) profesoarele cu _a căror_ elevi; (6) profesoarele cu elevii _căreia_; (7) profesoarele cu _ai căror_ eleve. Sunt corecte gramatical:",
         "Type": "single-choice",
@@ -10351,7 +10131,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "942",
+        "ID_Entry": "922",
         "Question_number": "29",
         "Question": "Fie enunţul: 'În baza aceleeaşi decizii, doi dintre arbitri, cei mai integri, dar, după cum zis-au unii, și cei mai acri, au fost suspendaţi, pedeapsa fiind mai dură ca altădată.'. Acesta conține:",
         "Type": "single-choice",
@@ -10362,18 +10142,18 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "943",
+        "ID_Entry": "923",
         "Question_number": "30",
         "Question": "Fie enunţul: 'Fi-ţi convinşi că nici lui nu i totuna dacă îmi voi înmiii mă gândesc şi la altcea.'.Acesta conține:",
         "Type": "single-choice",
-        "Options": "{'a': ''patru greșeli, 'b': 'șase greșeli', 'c': 'cinci greșeli', 'd': 'trei greșeli'}",
+        "Options": "{'a': 'patru greșeli', 'b': 'șase greșeli', 'c': 'cinci greșeli', 'd': 'trei greșeli'}",
         "Correct_answer": "c",
         "Source": "admitere drept Bucuresti",
         "Year": "2012",
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "944",
+        "ID_Entry": "924",
         "Question_number": "31",
         "Question": "Fie enunţul: 'Ține-ţi-i departe de mine fraților, că nu-mi priieşte să. nevoi au fost ignorate, au avut de suferit din cauza răutății și violenței lor.'. Acesta conţine:",
         "Type": "single-choice",
@@ -10384,18 +10164,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "945",
-        "Question_number": "32",
-        "Question": "Fie enunţul: 'Nu m-am pus niciodată de-a curmezişul speranțelor şi _a fericirii_ (1) / _al fericirii_ (2) / _fericirii_ (3)  tale, dar ar fi bine să ştii şi cine se află în spatele bunăvoinţei  și _a ajutorului_ (4) / _al ajutorului_ (5) / _ajutorului_ (6) necondiţionat de care te bucuri.'. Dintre cuvintele subliniate, sunt corect folosite:",
-        "Type": "single-choice",
-        "Options": "{'a': 'toate;', 'b': 'numai (2) şi (5);', 'c': 'numai (1) şi (4);', 'd': 'numai (2), (3), (5) şi (6).'}",
-        "Correct_answer": "b",
-        "Source": "admitere drept Bucuresti",
-        "Year": "2012",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "946",
+        "ID_Entry": "925",
         "Question_number": "4",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -10406,7 +10175,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "947",
+        "ID_Entry": "926",
         "Question_number": "5",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -10417,7 +10186,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "948",
+        "ID_Entry": "927",
         "Question_number": "6",
         "Question": "Litera x se pronunță [gz] în toate cuvintele din seria:",
         "Type": "single-choice",
@@ -10428,7 +10197,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "949",
+        "ID_Entry": "928",
         "Question_number": "7",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -10439,7 +10208,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "950",
+        "ID_Entry": "929",
         "Question_number": "8",
         "Question": "Sunt corecte toate formele din seria:",
         "Type": "single-choice",
@@ -10450,7 +10219,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "951",
+        "ID_Entry": "930",
         "Question_number": "9",
         "Question": "Sunt corecte toate formele din seria:",
         "Type": "single-choice",
@@ -10461,7 +10230,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "952",
+        "ID_Entry": "931",
         "Question_number": "10",
         "Question": "Indicaţi seria în care toate formele sunt corecte:",
         "Type": "single-choice",
@@ -10472,7 +10241,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "953",
+        "ID_Entry": "932",
         "Question_number": "11",
         "Question": "Indicaţi seria în care toate formele sunt corecte:",
         "Type": "single-choice",
@@ -10483,7 +10252,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "954",
+        "ID_Entry": "933",
         "Question_number": "12",
         "Question": "Alegeţi seria corectă:",
         "Type": "single-choice",
@@ -10494,7 +10263,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "955",
+        "ID_Entry": "934",
         "Question_number": "13",
         "Question": "Indicaţi seria care cuprinde numai forme corecte:",
         "Type": "single-choice",
@@ -10505,7 +10274,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "956",
+        "ID_Entry": "935",
         "Question_number": "14",
         "Question": "Alegeţi seria în care formele de plural ale următoarelor împrumuturi din engleză sunt scrise în conformitate cu norma actuală:",
         "Type": "single-choice",
@@ -10516,7 +10285,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "957",
+        "ID_Entry": "936",
         "Question_number": "15",
         "Question": "Alegeţi seria în care toate enunţurile sunt corecte:",
         "Type": "single-choice",
@@ -10527,7 +10296,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "958",
+        "ID_Entry": "937",
         "Question_number": "16",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10538,7 +10307,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "959",
+        "ID_Entry": "938",
         "Question_number": "17",
         "Question": "Alegeţi seria corectă:",
         "Type": "single-choice",
@@ -10549,7 +10318,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "960",
+        "ID_Entry": "939",
         "Question_number": "18",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10560,7 +10329,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "961",
+        "ID_Entry": "940",
         "Question_number": "19",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10571,7 +10340,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "962",
+        "ID_Entry": "941",
         "Question_number": "20",
         "Question": "Alegeţi seria în care toate enunţurile sunt corecte:",
         "Type": "single-choice",
@@ -10582,7 +10351,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "963",
+        "ID_Entry": "942",
         "Question_number": "21",
         "Question": "Indicaţi seria în care toate enunţurile sunt scrise în conformitate cu norma actuală:",
         "Type": "single-choice",
@@ -10593,7 +10362,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "964",
+        "ID_Entry": "943",
         "Question_number": "22",
         "Question": "Indicaţi sensul corect al cuvântului 'a investi':",
         "Type": "single-choice",
@@ -10604,7 +10373,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "965",
+        "ID_Entry": "944",
         "Question_number": "23",
         "Question": "Indicaţi sensul corect al cuvântului 'a consilia':",
         "Type": "single-choice",
@@ -10615,7 +10384,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "966",
+        "ID_Entry": "945",
         "Question_number": "24",
         "Question": "Indicaţi sensul corect al cuvântului deferență:",
         "Type": "single-choice",
@@ -10626,7 +10395,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "967",
+        "ID_Entry": "946",
         "Question_number": "25",
         "Question": "Alegeţi cuvântul care corespunde sensului 'amestec ilegal, intervenţie în treburile unei persoane sau în viaţa unui stat':",
         "Type": "single-choice",
@@ -10637,7 +10406,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "968",
+        "ID_Entry": "947",
         "Question_number": "26",
         "Question": "Alegeţi cuvântul care corespunde sensului 'care are loc o dată pe an':",
         "Type": "single-choice",
@@ -10648,7 +10417,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "969",
+        "ID_Entry": "948",
         "Question_number": "27",
         "Question": "Alegeţi cuvântul care corespunde sensului 'care trebuie să fie luat neapărat în seamă, care se impune în mod imperios, care nu suferă amânare':",
         "Type": "single-choice",
@@ -10659,7 +10428,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "970",
+        "ID_Entry": "949",
         "Question_number": "28",
         "Question": "Alegeţi cuvântul care corespunde sensului 'care ţine de domeniul existenţei':",
         "Type": "single-choice",
@@ -10670,7 +10439,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "971",
+        "ID_Entry": "950",
         "Question_number": "29",
         "Question": "Alegeţi cuvântul care corespunde sensului 'cele zece porunci religioase şi morale din Vechiul Testament':",
         "Type": "single-choice",
@@ -10681,18 +10450,18 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "972",
+        "ID_Entry": "951",
         "Question_number": "30",
         "Question": "Sunt corect explicate paronimele din seria:",
         "Type": "single-choice",
-        "Options": "{'a': 'a emigra = 'a-şi părăsi patria pentru a se stabili (definitiv sau temporar) în altă țară'; a imigra = 'a veni într-o ţară străină pentru a se stabili aici?', 'b': 'a excepta = 'a extrage un anumit material dintr-un text, în vederea studierii lui'; a excerpta = 'a lăsa deoparte'', 'c': 'a elida = 'a ocoli, a evita, a ignora intenționat'; a eluda = 'a înlătura, în scris sau în vorbire, vocala finală a unui cuvânt înaintea vocalei inițiale a cuvântului următor''}",
+        "Options": "{'a': 'a emigra = a-şi părăsi patria pentru a se stabili (definitiv sau temporar) în altă țară; a imigra = a veni într-o ţară străină pentru a se stabili aici?', 'b': 'a excepta = a extrage un anumit material dintr-un text, în vederea studierii lui; a excerpta = a lăsa deoparte', 'c': 'a elida = a ocoli, a evita, a ignora intenționat; a eluda = a înlătura, în scris sau în vorbire, vocala finală a unui cuvânt înaintea vocalei inițiale a cuvântului următor'}",
         "Correct_answer": "a",
         "Source": "admitere drept Iasi",
         "Year": "2012",
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "973",
+        "ID_Entry": "952",
         "Question_number": "31",
         "Question": "Indicaţi sinonimul cuvântului 'duplicitar':",
         "Type": "single-choice",
@@ -10703,7 +10472,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "974",
+        "ID_Entry": "953",
         "Question_number": "32",
         "Question": "Cuvântul 'tolerant' este sinonim cu:",
         "Type": "single-choice",
@@ -10714,7 +10483,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "975",
+        "ID_Entry": "954",
         "Question_number": "33",
         "Question": "Indicaţi sinonimul cuvântului 'aversiune':",
         "Type": "single-choice",
@@ -10725,7 +10494,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "976",
+        "ID_Entry": "955",
         "Question_number": "34",
         "Question": "Indicaţi sinonimul cuvântului 'zgârcit':",
         "Type": "single-choice",
@@ -10736,7 +10505,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "977",
+        "ID_Entry": "956",
         "Question_number": "35",
         "Question": "Indicați antonimul cuvântului 'egoist':",
         "Type": "single-choice",
@@ -10747,7 +10516,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "978",
+        "ID_Entry": "957",
         "Question_number": "36",
         "Question": "Identificaţi seria care conţine numai construcții pleonastice:",
         "Type": "single-choice",
@@ -10758,7 +10527,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "979",
+        "ID_Entry": "958",
         "Question_number": "37",
         "Question": "Identificați enunţul greşit:",
         "Type": "single-choice",
@@ -10769,7 +10538,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "980",
+        "ID_Entry": "959",
         "Question_number": "38",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10780,7 +10549,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "981",
+        "ID_Entry": "960",
         "Question_number": "39",
         "Question": "Alegeţi seria in care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10791,7 +10560,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "982",
+        "ID_Entry": "961",
         "Question_number": "40",
         "Question": "Alegeţi seria in care ambele enunțuri sunt corecte:",
         "Type": "single-choice",
@@ -10802,7 +10571,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "983",
+        "ID_Entry": "962",
         "Question_number": "41",
         "Question": "Alegeţi sera in care ambele enunţuni sunt corecte:",
         "Type": "single-choice",
@@ -10813,7 +10582,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "984",
+        "ID_Entry": "963",
         "Question_number": "42",
         "Question": "Sunt corecte toate formele verbale din seria:",
         "Type": "single-choice",
@@ -10824,7 +10593,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "985",
+        "ID_Entry": "964",
         "Question_number": "43",
         "Question": "Sunt admise de norma literară actuală:",
         "Type": "single-choice",
@@ -10835,7 +10604,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "986",
+        "ID_Entry": "965",
         "Question_number": "44",
         "Question": "Alegeţi seria în care ambele enunțuri sunt corecte:",
         "Type": "single-choice",
@@ -10846,7 +10615,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "987",
+        "ID_Entry": "966",
         "Question_number": "45",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10857,7 +10626,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "988",
+        "ID_Entry": "967",
         "Question_number": "46",
         "Question": "Indicaţi forma corectă de plural, articulată cu articol hotărât, a substantivului 'ou':",
         "Type": "single-choice",
@@ -10868,7 +10637,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "989",
+        "ID_Entry": "968",
         "Question_number": "47",
         "Question": "Alegeţi enunţul corect:",
         "Type": "single-choice",
@@ -10879,7 +10648,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "990",
+        "ID_Entry": "969",
         "Question_number": "48",
         "Question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -10890,7 +10659,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "991",
+        "ID_Entry": "970",
         "Question_number": "1",
         "Question": "Secvența 'in-' nu este prefix negativ în:",
         "Type": "single-choice",
@@ -10901,7 +10670,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "992",
+        "ID_Entry": "971",
         "Question_number": "2",
         "Question": "Secvența 'răz-' este prefix în:",
         "Type": "single-choice",
@@ -10912,7 +10681,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "993",
+        "ID_Entry": "972",
         "Question_number": "3",
         "Question": "Secvența 'pre-' nu este prefix în:",
         "Type": "single-choice",
@@ -10923,7 +10692,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "994",
+        "ID_Entry": "973",
         "Question_number": "4",
         "Question": "Secvența 'con-' este prefix în:",
         "Type": "single-choice",
@@ -10934,7 +10703,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "995",
+        "ID_Entry": "974",
         "Question_number": "5",
         "Question": "Sufixoidul '-cid' este propriu pentru a exprima:",
         "Type": "single-choice",
@@ -10945,7 +10714,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "996",
+        "ID_Entry": "975",
         "Question_number": "6",
         "Question": "Cuvântul 'echitație' are sensul:",
         "Type": "single-choice",
@@ -10956,7 +10725,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "997",
+        "ID_Entry": "976",
         "Question_number": "7",
         "Question": "Termenul precept se referă la:",
         "Type": "single-choice",
@@ -10967,7 +10736,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "998",
+        "ID_Entry": "977",
         "Question_number": "8",
         "Question": "Substantivul 'epurare' se referă la acţiunea de:",
         "Type": "single-choice",
@@ -10978,7 +10747,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "999",
+        "ID_Entry": "978",
         "Question_number": "9",
         "Question": "Adjectivul 'anost' are sensul:",
         "Type": "single-choice",
@@ -10989,7 +10758,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1000",
+        "ID_Entry": "979",
         "Question_number": "10",
         "Question": "Cuvântul 'energofag' semnifică:",
         "Type": "single-choice",
@@ -11000,7 +10769,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1001",
+        "ID_Entry": "980",
         "Question_number": "11",
         "Question": "Adjectivul 'plauzibil' are sensul:",
         "Type": "single-choice",
@@ -11011,7 +10780,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1002",
+        "ID_Entry": "981",
         "Question_number": "12",
         "Question": "Evaziv poate fi echivalat cu:",
         "Type": "single-choice",
@@ -11022,7 +10791,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1003",
+        "ID_Entry": "982",
         "Question_number": "1",
         "Question": "Litera i notează vocala i în toate cuvintele din seria:",
         "Type": "single-choice",
@@ -11033,7 +10802,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1004",
+        "ID_Entry": "983",
         "Question_number": "2",
         "Question": "Alege varianta care conţine numai forme corecte:",
         "Type": "single-choice",
@@ -11044,7 +10813,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1005",
+        "ID_Entry": "984",
         "Question_number": "3",
         "Question": "Identifică seria care conţine numai cuvinte compuse:",
         "Type": "single-choice",
@@ -11055,7 +10824,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1006",
+        "ID_Entry": "985",
         "Question_number": "4",
         "Question": "Sunt atât polisemantice, cât şi omonime, cuvintele din seria:",
         "Type": "single-choice",
@@ -11066,7 +10835,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1007",
+        "ID_Entry": "986",
         "Question_number": "5",
         "Question": "Indică valoarea morfologică a cuvântului subliniat: 'Ion a fost _însurat_ fără voia lui':",
         "Type": "single-choice",
@@ -11077,7 +10846,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1008",
+        "ID_Entry": "987",
         "Question_number": "6",
         "Question": "Cuvântul 'zecime' este",
         "Type": "single-choice",
@@ -11088,7 +10857,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1009",
+        "ID_Entry": "988",
         "Question_number": "7",
         "Question": "Ce este adjectiv pronominal relativ în enunţul:",
         "Type": "single-choice",
@@ -11099,7 +10868,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1010",
+        "ID_Entry": "989",
         "Question_number": "8",
         "Question": "Precizează în care structuri există pronume reflexive: 1) te-a anunţat, 2) te-ai deplasat, 3) îţi împrumută, 4) îţi aminteşti, 5) s-ar mira, 6) vă comunică, 7) aducându-și,",
         "Type": "single-choice",
@@ -11110,7 +10879,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1011",
+        "ID_Entry": "990",
         "Question_number": "9",
         "Question": "Cuvântul subliniat din enunţul '_Iarna_ trecută am schiat.' este:",
         "Type": "single-choice",
@@ -11121,18 +10890,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1012",
-        "Question_number": "10",
-        "Question": "În enunţurile: 1) _Nişte_ copii se joacă., 2) Au cumpărat _nişte_ fructe., 3) Am luat _nişte_ note bune., 4) _Nişte_ turişti au plecat., valorile cuvintelor subliniate sunt corecte în seria:",
-        "Type": "single-choice",
-        "Options": "{'a': 'articol nehotărât, adjectiv pronominal nehotărât, adjectiv pronominal nehotărât, articol nehotărât', 'b': 'articol nehotărât, articol nehotărât, articol nehotărât, articol nehotărât', 'c': 'articol nehotărât, adjectiv pronominal nehotărât, adjectiv pronominal nehotărât, adjectiv pronominal nehotărât', 'd': 'adjectiv pronominal nehotărât în toate enunţurile.'}",
-        "Correct_answer": "b",
-        "Source": "admitere academia de politie",
-        "Year": "2011",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "1013",
+        "ID_Entry": "991",
         "Question_number": "11",
         "Question": "Pot avea valoare adverbială cuvintele din seria:",
         "Type": "single-choice",
@@ -11143,7 +10901,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1014",
+        "ID_Entry": "992",
         "Question_number": "12",
         "Question": "Forma adjectivului pronominal demonstrativ este corectă în seria:",
         "Type": "single-choice",
@@ -11154,7 +10912,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1015",
+        "ID_Entry": "993",
         "Question_number": "13",
         "Question": "În fraza următoare: 'Mă întristează să am atâtea treburi de rezolvat că nu mai ştiu de unde să încep.' propoziţiile sunt, în ordine:",
         "Type": "single-choice",
@@ -11165,7 +10923,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1016",
+        "ID_Entry": "994",
         "Question_number": "14",
         "Question": "În fraza următoare:  'Şi ceea ce e miraculos în moarte este faptul că începem atunci ceva cu desăvârşire deosebit de tot ce cunoaştem noi, cu desăvârşire deosebit de ceea ce ne aşteptam să fie.' există, pe lângă alte tipuri de subordonate:",
         "Type": "single-choice",
@@ -11176,7 +10934,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1017",
+        "ID_Entry": "995",
         "Question_number": "15",
         "Question": "Propoziția subordonată circumstanţială de timp nu se introduce prin:",
         "Type": "single-choice",
@@ -11187,7 +10945,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1018",
+        "ID_Entry": "996",
         "Question_number": "16",
         "Question": "În enunţul: 'Greşit ar fi fost să procedezi aşa.' subordonata este:",
         "Type": "single-choice",
@@ -11198,7 +10956,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1019",
+        "ID_Entry": "997",
         "Question_number": "17",
         "Question": "În textul: 'Planul de a rămâne cum l-au montat a eşuat.' propoziţiile sunt, în ordine:",
         "Type": "single-choice",
@@ -11209,7 +10967,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1020",
+        "ID_Entry": "998",
         "Question_number": "18",
         "Question": "În fraza următoare: 'Nu-i convine să se apuce de treabă.' propoziţia subordonată este:",
         "Type": "single-choice",
@@ -11220,7 +10978,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1021",
+        "ID_Entry": "999",
         "Question_number": "19",
         "Question": "Nu conţine subordonată circumstanţială consecutivă enunţul:",
         "Type": "single-choice",
@@ -11231,7 +10989,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1022",
+        "ID_Entry": "1000",
         "Question_number": "20",
         "Question": "Precizează câte propoziţii are fraza următoare 'Ş-atunci tânărul s-a şi înfăţişat înaintea împăratului, spunându-i de unde, cum, cine şi pentru ce a venit.':",
         "Type": "single-choice",
@@ -11242,7 +11000,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1023",
+        "ID_Entry": "1001",
         "Question_number": "21",
         "Question": "În fraza următoare: Este bine ca tot ce se întâmplă să fie corect. cea de-a doua propoziţie subordonată este:",
         "Type": "single-choice",
@@ -11253,7 +11011,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1024",
+        "ID_Entry": "1002",
         "Question_number": "22",
         "Question": "În textul: 'Când ieşi la pensie este ca şi cum ai începe o a doua viaţă.' propoziţiile sunt, în ordine:",
         "Type": "single-choice",
@@ -11264,7 +11022,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1025",
+        "ID_Entry": "1003",
         "Question_number": "23",
         "Question": "Indică enunţul care conţine un predicat verbal:",
         "Type": "single-choice",
@@ -11275,7 +11033,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1026",
+        "ID_Entry": "1004",
         "Question_number": "24",
         "Question": "În enunţul 'Călătoresc mereu cu trenul şi fac fotografii multe.' -substantivul 'fotografii' este:",
         "Type": "single-choice",
@@ -11286,7 +11044,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1027",
+        "ID_Entry": "1005",
         "Question_number": "25",
         "Question": "Menţionează cazul şi termenul regent al cuvântului subliniat din enunţul următor: 'Era necesară trimiterea de ajutoare _sinistraţilor_':",
         "Type": "single-choice",
@@ -11297,7 +11055,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1028",
+        "ID_Entry": "1006",
         "Question_number": "26",
         "Question": "În enunţul 'Sosirea ta neaşteptată din vacanţă ne-a surprins'- sintagma 'din vacanţă' este:",
         "Type": "single-choice",
@@ -11308,7 +11066,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1029",
+        "ID_Entry": "1007",
         "Question_number": "27",
         "Question": "În enunţul 'Îl durea _capul_ de obosit ce era.'- cuvântul subliniat este:",
         "Type": "single-choice",
@@ -11319,7 +11077,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1030",
+        "ID_Entry": "1008",
         "Question_number": "28",
         "Question": "Pronumele relativ are funcţie sintactică de atribut pronominal genitival în enunţul:",
         "Type": "single-choice",
@@ -11330,7 +11088,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1031",
+        "ID_Entry": "1009",
         "Question_number": "29",
         "Question": "În enunţul 'Se bucura şi ea de frumuseţea şi de răcoarea dimineţii.' - substantivele în cazul acuzativ au funcţia sintactică de:",
         "Type": "single-choice",
@@ -11341,7 +11099,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1032",
+        "ID_Entry": "1010",
         "Question_number": "30",
         "Question": "Cuvântul 'dor' din enunţurile: 1) Mi-e dor de tine.; 2) Dorul meu n-are margini.; 3) N-am dor de nimeni.; 4) De dor plânge.; este subiect în:",
         "Type": "single-choice",
@@ -11352,7 +11110,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1033",
+        "ID_Entry": "1011",
         "Question_number": "1",
         "Question": "Identifică seria care conţine nume corecte de locuitori:",
         "Type": "single-choice",
@@ -11363,7 +11121,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1034",
+        "ID_Entry": "1012",
         "Question_number": "3",
         "Question": "Sunt corecte formele de imperfect din varianta:",
         "Type": "single-choice",
@@ -11374,7 +11132,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1035",
+        "ID_Entry": "1013",
         "Question_number": "4",
         "Question": "Sunt scrise corect cuvintele din seria:",
         "Type": "single-choice",
@@ -11385,7 +11143,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1036",
+        "ID_Entry": "1014",
         "Question_number": "5",
         "Question": "Identifică cuvintele scrise corect:",
         "Type": "single-choice",
@@ -11396,7 +11154,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1037",
+        "ID_Entry": "1015",
         "Question_number": "6",
         "Question": "Sunt monosemantice toate cuvintele din seria:",
         "Type": "single-choice",
@@ -11407,7 +11165,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1038",
+        "ID_Entry": "1016",
         "Question_number": "7",
         "Question": "Sensul următorului sufixoid este incorect:",
         "Type": "single-choice",
@@ -11418,7 +11176,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1039",
+        "ID_Entry": "1017",
         "Question_number": "8",
         "Question": "Câte cuvinte sunt formate prin derivare în seria: a remite, multinațional, pocnet, ţigaretă, a ilumina, molar, a submina:",
         "Type": "single-choice",
@@ -11429,7 +11187,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1040",
+        "ID_Entry": "1018",
         "Question_number": "9",
         "Question": "Indică expresia sinonimă pentru unitatea frazeologică 'a lua la trei păzeşte':",
         "Type": "single-choice",
@@ -11440,7 +11198,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1041",
+        "ID_Entry": "1019",
         "Question_number": "10",
         "Question": "Precizaţi seria care conţine şi cuvinte fără pereche omonimică:",
         "Type": "single-choice",
@@ -11451,7 +11209,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1042",
+        "ID_Entry": "1020",
         "Question_number": "11",
         "Question": "Există un dezacord în enunţul:",
         "Type": "single-choice",
@@ -11462,7 +11220,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1043",
+        "ID_Entry": "1021",
         "Question_number": "12",
         "Question": "Construcţia 'de bună seamă' este:",
         "Type": "single-choice",
@@ -11473,7 +11231,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1044",
+        "ID_Entry": "1022",
         "Question_number": "13",
         "Question": "Nu există niciun pronume de politeţe în enunţul:",
         "Type": "single-choice",
@@ -11484,7 +11242,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1045",
+        "ID_Entry": "1023",
         "Question_number": "14",
         "Question": "Alege seria care conţine numai pronume nehotărâte:",
         "Type": "single-choice",
@@ -11495,7 +11253,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1046",
+        "ID_Entry": "1024",
         "Question_number": "15",
         "Question": "În propoziţia: 'Pădurea era foarte tristă şi foarte pustie', adjectivele au funcţia sintactică de:",
         "Type": "single-choice",
@@ -11506,7 +11264,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1047",
+        "ID_Entry": "1025",
         "Question_number": "16",
         "Question": "În structura subliniată din enunţul: 'Nu ştia dacă _are să apuce_ primăvara.'- există:",
         "Type": "single-choice",
@@ -11517,7 +11275,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1048",
+        "ID_Entry": "1026",
         "Question_number": "17",
         "Question": "În următoarele enunţuri: 'E vară. Săniile sunt trase de reni. Este greu de precizat. Să fi trecut o lună.' - valorile morfologice ale verbului 'a fi' sunt:",
         "Type": "single-choice",
@@ -11528,7 +11286,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1049",
+        "ID_Entry": "1027",
         "Question_number": "18",
         "Question": "Identifică seria în care toate cuvintele sunt conjuncţii subordonatoare:",
         "Type": "single-choice",
@@ -11539,7 +11297,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1050",
+        "ID_Entry": "1028",
         "Question_number": "19",
         "Question": "Alege seria în care toate cuvintele sunt substantive colective:",
         "Type": "single-choice",
@@ -11550,7 +11308,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1051",
+        "ID_Entry": "1029",
         "Question_number": "20",
         "Question": "Alege enunţul în care 'de' are valoare conjuncţională:",
         "Type": "single-choice",
@@ -11561,7 +11319,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1052",
+        "ID_Entry": "1030",
         "Question_number": "21",
         "Question": "În enunţul: 'Acum ţi-am adus notițele, rămânând să-ţi aduc după-amiază testele.' - subordonata este:",
         "Type": "single-choice",
@@ -11572,7 +11330,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1053",
+        "ID_Entry": "1031",
         "Question_number": "22",
         "Question": "Indică felul subordonatelor din fraza: 'Nu ajunge să te rogi, tu însuţi trebuie să te transformi într-o rugăciune'. (I. D. Sârbu):",
         "Type": "single-choice",
@@ -11583,7 +11341,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1054",
+        "ID_Entry": "1032",
         "Question_number": "23",
         "Question": "Subordonata din fraza: 'M-a uimit ceea ce mi-ai spus.' - se poate contrage în:",
         "Type": "single-choice",
@@ -11594,7 +11352,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1055",
+        "ID_Entry": "1033",
         "Question_number": "24",
         "Question": "În fraza: 'Şi dacă de cu ziuă se-ntâmplă să te văz, / Desigur că la noapte un tei o să visez.' (M. Eminescu), sunt, indiferent de ordine:",
         "Type": "single-choice",
@@ -11605,18 +11363,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1056",
-        "Question_number": "25",
-        "Question": "Indică felul propoziției subliniate din fraza următoare: 'Şi când cutreier blestematele ogoare, ce minune/ Mă îmbată de visez că eu păşesc pe bolta unui cer?'(L. Blaga):",
-        "Type": "single-choice",
-        "Options": "{'a': 'atributivă', 'b': 'subiectivă;', 'c': 'principală;', 'd': 'consecutivă;'}",
-        "Correct_answer": "c",
-        "Source": "admitere academia de politie",
-        "Year": "2010",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "1057",
+        "ID_Entry": "1034",
         "Question_number": "26",
         "Question": "În textul : 'Te uită cum ninge decembre,/ Spre geamuri, iubito, priveşte — / Mai spune s-aducă Jăratic/ Şi focul s-aud cum trosneşte.' (G. Bacovia), există următoarele tipuri de subiect:",
         "Type": "single-choice",
@@ -11627,7 +11374,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1058",
+        "ID_Entry": "1035",
         "Question_number": "27",
         "Question": "Funcţia sintactică a cuvântului subliniat din enunţul 'Din cauza căldurii mi-e _sete_ mereu.' - este:",
         "Type": "single-choice",
@@ -11638,7 +11385,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1059",
+        "ID_Entry": "1036",
         "Question_number": "28",
         "Question": "În enunţul 'Elevul din stânga noastră nu este atent la explicaţii.' - există:",
         "Type": "single-choice",
@@ -11649,7 +11396,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1060",
+        "ID_Entry": "1037",
         "Question_number": "29",
         "Question": "În enunţul '_Şi_-a trimis copiii în tabără.' - cuvântul subliniat este:",
         "Type": "single-choice",
@@ -11660,7 +11407,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1061",
+        "ID_Entry": "1038",
         "Question_number": "30",
         "Question": "În enunţul '_Care_ a fost ultima medie de admitere anul trecut la Frontieră?', cuvântul subliniat este:",
         "Type": "single-choice",
@@ -11671,7 +11418,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1062",
+        "ID_Entry": "1039",
         "Question_number": "1",
         "Question": "Există un diftong descendent în cuvântul:",
         "Type": "single-choice",
@@ -11682,7 +11429,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1063",
+        "ID_Entry": "1040",
         "Question_number": "2",
         "Question": "Sunt corect scrise toate cuvintele din seria:",
         "Type": "single-choice",
@@ -11693,7 +11440,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1064",
+        "ID_Entry": "1041",
         "Question_number": "3",
         "Question": "Precizează numărul cuvintelor care conţin diftongi ascendenți din seria următoare: birou, leandru, afectuos, soare, canion, baie, machiavelic, jaguar:",
         "Type": "single-choice",
@@ -11704,7 +11451,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1065",
+        "ID_Entry": "1042",
         "Question_number": "4",
         "Question": "Numărul de sunete din cuvintele: examen, ghețar, ciorchine, unchi, Kenya, ceas, este, în ordine:",
         "Type": "single-choice",
@@ -11715,7 +11462,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1066",
+        "ID_Entry": "1043",
         "Question_number": "5",
         "Question": "Se despart între ele prin virgulă propoziţiile în raport de coordonare:",
         "Type": "single-choice",
@@ -11726,7 +11473,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1067",
+        "ID_Entry": "1044",
         "Question_number": "6",
         "Question": "Sensul expresiei 'a se face luntre şi punte' este:",
         "Type": "single-choice",
@@ -11737,7 +11484,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1068",
+        "ID_Entry": "1045",
         "Question_number": "7",
         "Question": "Seria care conţine doar împrumuturi vechi este:",
         "Type": "single-choice",
@@ -11748,7 +11495,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1069",
+        "ID_Entry": "1046",
         "Question_number": "8",
         "Question": "Sinonimul pentru cuvântul 'a ostraciza' este:",
         "Type": "single-choice",
@@ -11759,7 +11506,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1070",
+        "ID_Entry": "1047",
         "Question_number": "9",
         "Question": "În enunţul: 'Era un infractor care, fiind periculos, prinderea lui era necesară.' - există:",
         "Type": "single-choice",
@@ -11770,7 +11517,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1071",
+        "ID_Entry": "1048",
         "Question_number": "10",
         "Question": "Indică seria în care există numai sinonime potrivite pentru adjectivul din sintagma 'un caracter hotărât':",
         "Type": "single-choice",
@@ -11781,7 +11528,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1072",
+        "ID_Entry": "1049",
         "Question_number": "11",
         "Question": "Cuvântul 'tot' este adverb în enunţul:",
         "Type": "single-choice",
@@ -11792,7 +11539,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1073",
+        "ID_Entry": "1050",
         "Question_number": "12",
         "Question": "Indică numărul conjuncţiilor coordonatoare din enunţul: 'A doua zi dimineaţă, iar le-au dat să se spele, i-au ospătat, le-au pus şi-n traistă nişte mere cum nu se mai văzuseră şi le-au urat drum bun'.(G. Bogza)",
         "Type": "single-choice",
@@ -11803,7 +11550,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1074",
+        "ID_Entry": "1051",
         "Question_number": "13",
         "Question": "În versurile: 'Optzeci de ani îmi pare în lume c-am trăit, / Că sunt bătrân ca iarna, că tu vei fi murit.' (M. Eminescu), verbele sunt:",
         "Type": "single-choice",
@@ -11814,18 +11561,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1075",
-        "Question_number": "14",
-        "Question": "În enunţurile: 'Simţea _intrând_ în el soare. _A cui_ eşti?' cuvintele subliniate se analizează astfel:",
-        "Type": "single-choice",
-        "Options": "{'a': 'verb la gerunziu, complement circumstanţial de mod; pronume interogativ, subiect;', 'b': 'verb la gerunziu, subiect; pronume interogativ, atribut pronominal;', 'c': 'verb la gerunziu, complement direct; pronume interogativ, nume predicativ;', 'd': 'verb la gerunziu, complement circumstanţial de timp; adjectiv pronominal interogativ, subiect.'}",
-        "Correct_answer": "c",
-        "Source": "admitere academia de politie",
-        "Year": "2010",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "1076",
+        "ID_Entry": "1052",
         "Question_number": "15",
         "Question": "Nu există niciun pronume în enunţul:",
         "Type": "single-choice",
@@ -11836,9 +11572,9 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1077",
+        "ID_Entry": "1053",
         "Question_number": "16",
-        "Question": "În versurile: ȚDin ochi clipeşte-ncet cicoarea/ Şi-adoarme-apoi şi ea.'(G. Coşbuc) există:",
+        "Question": "În versurile: 'Din ochi clipeşte-ncet cicoarea/ Şi-adoarme-apoi şi ea.'(G. Coşbuc) există:",
         "Type": "single-choice",
         "Options": "{'a': 'un adverb', 'b': 'două adverbe;', 'c': 'trei adverbe;', 'd': 'patru adverbe;'}",
         "Correct_answer": "c",
@@ -11847,18 +11583,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1078",
-        "Question_number": "17",
-        "Question": "În versurile: 'Cine-i acel _ce_-mi spune povestea pe de rost/ _De_-mi ţin la el urechea şi râd de câte- ascult/ Ca de dureri străine?' (M. Eminescu) - cuvintele subliniate sunt, în ordine:",
-        "Type": "single-choice",
-        "Options": "{'a': 'pronume, prepoziţie, conjuncţie;', 'b': 'conjuncţie, adverb, prepoziţie;', 'c': 'pronume, conjuncţie, prepoziţie;', 'd': 'conjuncţie, conjuncţie, conjuncţie.'}",
-        "Correct_answer": "c",
-        "Source": "admitere academia de politie",
-        "Year": "2010",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "1079",
+        "ID_Entry": "1054",
         "Question_number": "18",
         "Question": "În textul: 'Dar neaflând care este vinovatul și nebizuindu-se în putere a se bate cu toţi, se puse la făcut metanii şi a ne blestema de-i curgea foc din gură'. (I. Creangă), există:",
         "Type": "single-choice",
@@ -11869,18 +11594,18 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1080",
+        "ID_Entry": "1055",
         "Question_number": "19",
         "Question": "În fraza: 'Lăudată fie memoria marelui poet a cărui pană a ştiut să învieze umbrele glorioase ale eroicului nostru trecut.' (I. Ghica), prenume relativ determină:",
         "Type": "single-choice",
-        "Options": "{'a': 'substantivul 'pană';', 'b': 'substantivul 'poet';', 'c': 'prima propoziţie din frază;', 'd': 'substantivul 'memoria''}",
+        "Options": "{'a': 'substantivul pană;', 'b': 'substantivul poet;', 'c': prima propoziţie din frază;', 'd': 'substantivul 'memoria'}",
         "Correct_answer": "a",
         "Source": "admitere academia de politie",
         "Year": "2010",
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1081",
+        "ID_Entry": "1056",
         "Question_number": "20",
         "Question": "Cât este adverb în enunţul:",
         "Type": "single-choice",
@@ -11891,7 +11616,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1082",
+        "ID_Entry": "1057",
         "Question_number": "21",
         "Question": "Subordonata din fraza:  'Pe măsură ce creştea, se făcea tot mai năzdrăvană.' - este:",
         "Type": "single-choice",
@@ -11902,7 +11627,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1083",
+        "ID_Entry": "1058",
         "Question_number": "22",
         "Question": "Subordonatele din fraza: 'De cum am ieşit, ne-a izbit atâta lumină, că n-am mai văzut nimic, ca şi cum orbisem pe loc.' - sunt în ordine:",
         "Type": "single-choice",
@@ -11913,7 +11638,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1084",
+        "ID_Entry": "1059",
         "Question_number": "23",
         "Question": "În fraza: 'Atâta linişte-i în jur, de-mi pare că aud / Cum se izbesc de geamuri razele de lună.' (L. Blaga), subordonata circumstanțială este:",
         "Type": "single-choice",
@@ -11924,7 +11649,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1085",
+        "ID_Entry": "1060",
         "Question_number": "24",
         "Question": "În fraza: 'A şti să râzi în clipe tragice înseamnă a stăpâni tragicul.' - există:",
         "Type": "single-choice",
@@ -11935,7 +11660,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1086",
+        "ID_Entry": "1061",
         "Question_number": "25",
         "Question": "Propoziția subordonată introdusă prin adverbul relativ „cum' în fraza: „Când îi omul în doi peri, să te fereşti c-atunci e cum îi mai rău'. (I. Creangă) - este:",
         "Type": "single-choice",
@@ -11946,18 +11671,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1087",
-        "Question_number": "26",
-        "Question": "În enunţul '_Până a nu intra_, socotește cum ai să ieşi.' - cuvintele subliniate au funcţia sintactică de:",
-        "Type": "single-choice",
-        "Options": "{'a': 'complement circumstanţial de timp;', 'b': 'complement circumstanţial de mod;', 'c': 'complement circumstanțial de cauză;', 'd': 'complement circumstanţial de scop.'}",
-        "Correct_answer": "a",
-        "Source": "admitere academia de politie",
-        "Year": "2010",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "1088",
+        "ID_Entry": "1062",
         "Question_number": "27",
         "Question": "Precizează numărul atributelor substantivale din versurile: 'Sunt solitarul pustiilor pieţe/ Cu tristele becuri cu pală lumină.' (G. Bacovia):",
         "Type": "single-choice",
@@ -11968,7 +11682,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1089",
+        "ID_Entry": "1063",
         "Question_number": "28",
         "Question": "Partea de propoziţie subliniată din enunţul 'Este bine _de ştiut_ ce intenţii are.' - este:",
         "Type": "single-choice",
@@ -11979,18 +11693,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1090",
-        "Question_number": "29",
-        "Question": "Părţile de propoziţie subliniate din enunţul 'Am folosit banii de la bunici pentru a cumpăra cărți.' - sunt:",
-        "Type": "single-choice",
-        "Options": "{'a': 'atribut substantival prepoziţional, subiect;', 'b': 'complement indirect, complement direct;', 'c': 'complement circumstanţial de loc, complement direct;', 'd': 'atribut substantival prepoziţional, complement direct'}",
-        "Correct_answer": "d",
-        "Source": "admitere academia de politie",
-        "Year": "2010",
-        "Subject_number": "2"
-    },
-    {
-        "ID_Entry": "1091",
+        "ID_Entry": "1064",
         "Question_number": "30",
         "Question": "Partea de propoziţie subliniată din enunţul 'S-a adăpostit _de ploaie_.' - este:",
         "Type": "single-choice",
@@ -12001,7 +11704,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1092",
+        "ID_Entry": "1065",
         "Question_number": "1",
         "Question": "Sunt corect scrise toate cuvintele din seria:",
         "Type": "single-choice",
@@ -12012,7 +11715,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1093",
+        "ID_Entry": "1066",
         "Question_number": "2",
         "Question": "Sunt corecte toate formele de imperativ din seria:",
         "Type": "single-choice",
@@ -12023,7 +11726,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1094",
+        "ID_Entry": "1067",
         "Question_number": "3",
         "Question": "Este corect utilizat verbul subliniat în enunţul:",
         "Type": "single-choice",
@@ -12034,7 +11737,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1095",
+        "ID_Entry": "1068",
         "Question_number": "4",
         "Question": "Identifică seria care conţine nume corecte de locuitori:",
         "Type": "single-choice",
@@ -12045,7 +11748,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1096",
+        "ID_Entry": "1069",
         "Question_number": "5",
         "Question": "Sunt numai forme literare în seria:",
         "Type": "single-choice",
@@ -12056,7 +11759,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1097",
+        "ID_Entry": "1070",
         "Question_number": "6",
         "Question": "Se află în raport de sinonimie toate cuvintele din seria:",
         "Type": "single-choice",
@@ -12067,7 +11770,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1098",
+        "ID_Entry": "1071",
         "Question_number": "7",
         "Question": "Alege sensul corect asociat neologismului _solicitudine_:",
         "Type": "single-choice",
@@ -12078,7 +11781,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1099",
+        "ID_Entry": "1072",
         "Question_number": "8",
         "Question": "Există cuvinte derivate doar cu prefixe în seria:",
         "Type": "single-choice",
@@ -12089,7 +11792,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1100",
+        "ID_Entry": "1073",
         "Question_number": "9",
         "Question": "Sensul locuţiunii adjectivale _cu dare de mână_ este:",
         "Type": "single-choice",
@@ -12100,7 +11803,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1101",
+        "ID_Entry": "1074",
         "Question_number": "10",
         "Question": "Alege seria care conţine substantive cu mai multe forme de plural:",
         "Type": "single-choice",
@@ -12111,7 +11814,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1102",
+        "ID_Entry": "1075",
         "Question_number": "11",
         "Question": "Cuvântul subliniat din enunţul '_Probabil_ că ne vom întâlni la mare.' - este:",
         "Type": "single-choice",
@@ -12122,7 +11825,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1103",
+        "ID_Entry": "1076",
         "Question_number": "12",
         "Question": "Indică seria care conţine conjuncţii coordonatoare disjunctive:",
         "Type": "single-choice",
@@ -12133,7 +11836,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1104",
+        "ID_Entry": "1077",
         "Question_number": "13",
         "Question": "Structura subliniată din enunţul 'El are _păreri de rău_ când se gândeşte la trecut'-este:",
         "Type": "single-choice",
@@ -12144,7 +11847,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1105",
+        "ID_Entry": "1078",
         "Question_number": "14",
         "Question": "Adjectivul subliniat din enunţul '-_Dragă_ copilă, ce-ai mai aflat despre parinții dispăruţi?'- este în cazul:",
         "Type": "single-choice",
@@ -12155,7 +11858,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1106",
+        "ID_Entry": "1079",
         "Question_number": "15",
         "Question": "Adjectivul pronominal de întărire este corect acordat în enunţul:",
         "Type": "single-choice",
@@ -12166,7 +11869,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1107",
+        "ID_Entry": "1080",
         "Question_number": "16",
         "Question": "Indică seria care conţine nunai prepoziţii specifice pentru cazul genitiv:",
         "Type": "single-choice",
@@ -12177,7 +11880,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1108",
+        "ID_Entry": "1081",
         "Question_number": "17",
         "Question": "Indică enunţul în care articolul genitival este acordat corect:",
         "Type": "single-choice",
@@ -12188,18 +11891,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1109",
-        "Question_number": "18",
-        "Question": "În enunţurile 'L-a căutat _şi_ pe Mircea. L-a zărit _şi_ el pe Mihai.'-cuvintele subliniate sunt:",
-        "Type": "single-choice",
-        "Options": "{'a': 'conjuncții coordonatoare;', 'b': 'adverbe de mod;', 'c': 'adverb de mod şi conjuncţie coordonatoare;', 'd': 'conjuncţii subordonatoare.'}",
-        "Correct_answer": "b",
-        "Source": "admitere academia de politie",
-        "Year": "2009",
-        "Subject_number": "1"
-    },
-    {
-        "ID_Entry": "1110",
+        "ID_Entry": "1082",
         "Question_number": "19",
         "Question": "Indică enunţul care conţine forma corectă a superlativului relativ de superioritate:",
         "Type": "single-choice",
@@ -12210,7 +11902,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1111",
+        "ID_Entry": "1083",
         "Question_number": "20",
         "Question": "Cuvântul subliniat din enunţul 'Camera _ei_ a fost renovată'-este:",
         "Type": "single-choice",
@@ -12221,7 +11913,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1112",
+        "ID_Entry": "1084",
         "Question_number": "21",
         "Question": "Nu poate urma subordonată predicativă după regenta:",
         "Type": "single-choice",
@@ -12232,7 +11924,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1113",
+        "ID_Entry": "1085",
         "Question_number": "22",
         "Question": "În frazele 'Ei pare că nu înţelege' şi 'Pare că nu înţelegi', propoziţiile introduse prin că sunt",
         "Type": "single-choice",
@@ -12243,7 +11935,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1114",
+        "ID_Entry": "1086",
         "Question_number": "23",
         "Question": "Precizează felul subordonatei din fraza 'Problema aceasta este greu să fie rezolvată'.",
         "Type": "single-choice",
@@ -12254,7 +11946,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1115",
+        "ID_Entry": "1087",
         "Question_number": "24",
         "Question": "Propoziția subiectivă ...dacă te pregăteşti temeinic are ca regentă:",
         "Type": "single-choice",
@@ -12265,7 +11957,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1116",
+        "ID_Entry": "1088",
         "Question_number": "25",
         "Question": "Subordonatele din fraza 'Neputința nu se sfia să şi-o mărturisească ori de câte ori avea prilejul' sunt, în ordine:",
         "Type": "single-choice",
@@ -12276,7 +11968,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1117",
+        "ID_Entry": "1089",
         "Question_number": "26",
         "Question": "Adjectivul subliniat din enunţul '_De mic_ era talentat la desen' - are funcţia sintactică de :",
         "Type": "single-choice",
@@ -12287,7 +11979,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1118",
+        "ID_Entry": "1090",
         "Question_number": "27",
         "Question": "Indică funcţia sintactică a verbului la infinitiv din enunţul Por merge la mare sau la bunici.",
         "Type": "single-choice",
@@ -12298,7 +11990,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1119",
+        "ID_Entry": "1091",
         "Question_number": "28",
         "Question": "Cuvântul subliniat din enunţul 'Doamne, cât de _mare_ e grădina ta!' - are funcţia sintactică de:",
         "Type": "single-choice",
@@ -12309,7 +12001,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1120",
+        "ID_Entry": "1092",
         "Question_number": "29",
         "Question": "Indică funcţia sintactică şi cazul pentru structura subliniată din enunţul 'Fratele meu dă examen şi _în vederea acestuia_ a citit mult.'",
         "Type": "single-choice",
@@ -12320,7 +12012,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1121",
+        "ID_Entry": "1093",
         "Question_number": "30",
         "Question": "În enunţul 'A primit de la _bunici_ o scrisoare foarte lungă' - cuvântul subliniat are funcţia sintactică de:",
         "Type": "single-choice",
@@ -12331,7 +12023,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1122",
+        "ID_Entry": "1094",
         "Question_number": "2",
         "Question": "Sunt corect despărțite în silabe toate cuvintele din seria:",
         "Type": "single-choice",
@@ -12342,7 +12034,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1123",
+        "ID_Entry": "1095",
         "Question_number": "3",
         "Question": "Identifică seria care conţine numai cuvinte cu hiat:",
         "Type": "single-choice",
@@ -12353,7 +12045,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1124",
+        "ID_Entry": "1096",
         "Question_number": "5",
         "Question": "Numărul de litere şi de sunete din cuvântul auxiliar este:",
         "Type": "single-choice",
@@ -12364,7 +12056,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1125",
+        "ID_Entry": "1097",
         "Question_number": "6",
         "Question": "Indică sinonimul neologic pentru cuvântul putere:",
         "Type": "single-choice",
@@ -12375,7 +12067,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1126",
+        "ID_Entry": "1098",
         "Question_number": "7",
         "Question": "Indică seria în care există numai cuvinte derivate parasintetic:",
         "Type": "single-choice",
@@ -12386,7 +12078,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1127",
+        "ID_Entry": "1099",
         "Question_number": "8",
         "Question": "Indică seria care conţine numai antonime derivate cu prefix:",
         "Type": "single-choice",
@@ -12397,7 +12089,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1128",
+        "ID_Entry": "1100",
         "Question_number": "9",
         "Question": "Indică seria care conţine cuvinte din aceeaşi familie lexicală:",
         "Type": "single-choice",
@@ -12408,7 +12100,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1129",
+        "ID_Entry": "1101",
         "Question_number": "10",
         "Question": "Alege sinonimul corect al cuvântului calin:",
         "Type": "single-choice",
@@ -12419,7 +12111,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1130",
+        "ID_Entry": "1102",
         "Question_number": "11",
         "Question": "Cuvântul 'un' este numeral în enunţul:",
         "Type": "single-choice",
@@ -12430,7 +12122,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1131",
+        "ID_Entry": "1103",
         "Question_number": "12",
         "Question": "Indică enunţul în care nu există verb predicativ:",
         "Type": "single-choice",
@@ -12441,7 +12133,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1132",
+        "ID_Entry": "1104",
         "Question_number": "13",
         "Question": "Indică enunţul în care există interjecţie predicativă:",
         "Type": "single-choice",
@@ -12452,7 +12144,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1133",
+        "ID_Entry": "1105",
         "Question_number": "14",
         "Question": "Precizează cazul pronumelui interogativ din enunţul: De către cine a fost scrisă poezia? :",
         "Type": "single-choice",
@@ -12463,7 +12155,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1134",
+        "ID_Entry": "1106",
         "Question_number": "15",
         "Question": "Cuvântul subliniat din enunţul '_Lui_ Mihai nu-i place să meargă la mare' - este:",
         "Type": "single-choice",
@@ -12474,7 +12166,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1135",
+        "ID_Entry": "1107",
         "Question_number": "16",
         "Question": "Cuvântul subliniat din enunţul 'Spune-mi _ce_ trebuie să fac' - este :",
         "Type": "single-choice",
@@ -12485,7 +12177,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1136",
+        "ID_Entry": "1108",
         "Question_number": "17",
         "Question": "Sunt numai substantive epicene în seria:",
         "Type": "single-choice",
@@ -12496,7 +12188,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1137",
+        "ID_Entry": "1109",
         "Question_number": "18",
         "Question": "În enunţul 'Nu _mi_-ai văzut caietul?'- cuvântul subliniat este :",
         "Type": "single-choice",
@@ -12507,7 +12199,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1138",
+        "ID_Entry": "1110",
         "Question_number": "19",
         "Question": "În enunţul 'A fost odată un împărat' - verbul 'a fost' este:",
         "Type": "single-choice",
@@ -12518,7 +12210,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1139",
+        "ID_Entry": "1111",
         "Question_number": "20",
         "Question": "Indică enunţul în care există verb la diateza reflexivă:",
         "Type": "single-choice",
@@ -12529,7 +12221,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1140",
+        "ID_Entry": "1112",
         "Question_number": "21",
         "Question": "Subordonata din fraza 'Am venit să te ajut' - se poate contrage în:",
         "Type": "single-choice",
@@ -12540,7 +12232,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1141",
+        "ID_Entry": "1113",
         "Question_number": "22",
         "Question": "Prima propoziţie din fraza 'Să fi plouat cu găleata, tot plecam la mare' - este:",
         "Type": "single-choice",
@@ -12551,7 +12243,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1142",
+        "ID_Entry": "1114",
         "Question_number": "23",
         "Question": "Prima propoziţie din fraza 'Cum îl văzu, fata îl rugă ca pe Dumnezeu să o scape de zmeu' -este:",
         "Type": "single-choice",
@@ -12562,7 +12254,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1143",
+        "ID_Entry": "1115",
         "Question_number": "24",
         "Question": "Analiza corectă a fazei 'Dacă spune adevărul înseamnă că îl va întrista' -este",
         "Type": "single-choice",
@@ -12573,7 +12265,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1144",
+        "ID_Entry": "1116",
         "Question_number": "25",
         "Question": "Subordonata izolată prin virgule din fraza 'Poate cu tine, care m-ai ascultat, să mă pot înţelege' - este:",
         "Type": "single-choice",
@@ -12584,7 +12276,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1145",
+        "ID_Entry": "1117",
         "Question_number": "26",
         "Question": "Indică funcţia sintactică a cuvântului subliniat din enunţul 'Colegul meu, _Gigel_, a luat locul întâi la olimpiada de matematică'.",
         "Type": "single-choice",
@@ -12595,7 +12287,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1146",
+        "ID_Entry": "1118",
         "Question_number": "27",
         "Question": "Indică numărul de predicate nominale din fraza 'Era aproape cu neputinţă să treci câteva zile în şir pe faimoasa Calea Victoriei fără să întâlneşti pe oricine ai fi vrut sau n-ai fi vrut.'",
         "Type": "single-choice",
@@ -12606,7 +12298,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1147",
+        "ID_Entry": "1119",
         "Question_number": "28",
         "Question": "În enunţul 'Nu s-a hotărât nimic _definitiv_ în ceea ce te priveşte'- cuvântul subliniat are funcție sintactică de:",
         "Type": "single-choice",
@@ -12617,7 +12309,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1148",
+        "ID_Entry": "1120",
         "Question_number": "29",
         "Question": "Cuvântul subliniat din enunţul 'Părerile _celor_ din casă nu-l interesau' - are funcţie sintactică de:",
         "Type": "single-choice",
@@ -12628,7 +12320,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1149",
+        "ID_Entry": "1121",
         "Question_number": "30",
         "Question": "Indică funcţia sintactică a pronumelui posesiv din enunţul 'O invitaţie ca a voastră mă onorează.'",
         "Type": "single-choice",
@@ -12639,7 +12331,7 @@
         "Subject_number": "2"
     },
     {
-        "ID_Entry": "1150",
+        "ID_Entry": "1122",
         "Question_number": "13",
         "Question": "Hebdomadarul este:",
         "Type": "single-choice",
@@ -12650,7 +12342,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1151",
+        "ID_Entry": "1123",
         "Question_number": "14",
         "Question": "Substantivul agorafobie semnifică:",
         "Type": "single-choice",
@@ -12661,7 +12353,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1152",
+        "ID_Entry": "1124",
         "Question_number": "15",
         "Question": "Ezoteric semnifică:",
         "Type": "single-choice",
@@ -12672,7 +12364,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1153",
+        "ID_Entry": "1125",
         "Question_number": "16",
         "Question": "Adjectivul sideral se referă la:",
         "Type": "single-choice",
@@ -12683,7 +12375,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1154",
+        "ID_Entry": "1126",
         "Question_number": "17",
         "Question": "Adjectivul echivoc are sensul:",
         "Type": "single-choice",
@@ -12694,7 +12386,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1155",
+        "ID_Entry": "1127",
         "Question_number": "18",
         "Question": "Indicaţi varianta corectă:",
         "Type": "single-choice",
@@ -12705,7 +12397,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1156",
+        "ID_Entry": "1128",
         "Question_number": "19",
         "Question": "Norma literară acceptă, ca formă de singular:",
         "Type": "single-choice",
@@ -12716,7 +12408,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1157",
+        "ID_Entry": "1129",
         "Question_number": "20",
         "Question": "Adjectivul ambiguu are următoarea formă de feminin singular:",
         "Type": "single-choice",
@@ -12727,7 +12419,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1158",
+        "ID_Entry": "1130",
         "Question_number": "21",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -12738,7 +12430,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1159",
+        "ID_Entry": "1131",
         "Question_number": "22",
         "Question": "Dacă facultate are sensurile: 1. „capacitate, însuşire morală sau intelectuală a cuiva”; 2. „unitate didactică şi administrativă în cadrul unei instituţii de învățământ superior”, înseamnă că avem de-a face cu:",
         "Type": "single-choice",
@@ -12749,7 +12441,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1160",
+        "ID_Entry": "1132",
         "Question_number": "23",
         "Question": "Adjectivul caduc are sensul:",
         "Type": "single-choice",
@@ -12760,7 +12452,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1161",
+        "ID_Entry": "1133",
         "Question_number": "26",
         "Question": "Indicaţi varianta corectă :",
         "Type": "single-choice",
@@ -12771,7 +12463,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1162",
+        "ID_Entry": "1134",
         "Question_number": "27",
         "Question": "Faţă de investi, învesti este:",
         "Type": "single-choice",
@@ -12782,7 +12474,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1163",
+        "ID_Entry": "1135",
         "Question_number": "28",
         "Question": "Adjectivul insolent are sensul:",
         "Type": "single-choice",
@@ -12793,7 +12485,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1164",
+        "ID_Entry": "1136",
         "Question_number": "29",
         "Question": "Adjectivul indubitabil are sensul:",
         "Type": "single-choice",
@@ -12804,7 +12496,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1165",
+        "ID_Entry": "1137",
         "Question_number": "30",
         "Question": "Forma corectă este:",
         "Type": "single-choice",
@@ -12815,7 +12507,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1166",
+        "ID_Entry": "1138",
         "Question_number": "31",
         "Question": "Varianta corectă este:",
         "Type": "single-choice",
@@ -12826,7 +12518,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1167",
+        "ID_Entry": "1139",
         "Question_number": "32",
         "Question": "Varianta corectă este:",
         "Type": "single-choice",
@@ -12837,7 +12529,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1168",
+        "ID_Entry": "1140",
         "Question_number": "33",
         "Question": "Adjectivul prolix se referă la:",
         "Type": "single-choice",
@@ -12848,7 +12540,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1169",
+        "ID_Entry": "1141",
         "Question_number": "34",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -12859,7 +12551,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1170",
+        "ID_Entry": "1142",
         "Question_number": "35",
         "Question": "În sintagma inima verzei primul element are valoare:",
         "Type": "single-choice",
@@ -12870,7 +12562,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1171",
+        "ID_Entry": "1143",
         "Question_number": "36",
         "Question": "Indicaţi varianta în care ambele enunţuri sunt corecte:",
         "Type": "single-choice",
@@ -12881,7 +12573,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1172",
+        "ID_Entry": "1144",
         "Question_number": "37",
         "Question": "Virgula este obligatorie în următoarea situație:",
         "Type": "single-choice",
@@ -12892,7 +12584,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1173",
+        "ID_Entry": "1145",
         "Question_number": "38",
         "Question": "Alegeţi varianta corectă:",
         "Type": "single-choice",
@@ -12903,7 +12595,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1174",
+        "ID_Entry": "1146",
         "Question_number": "39",
         "Question": "Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului rumoare este:",
         "Type": "single-choice",
@@ -12914,7 +12606,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1175",
+        "ID_Entry": "1147",
         "Question_number": "40",
         "Question": "Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului ciocolată este:",
         "Type": "single-choice",
@@ -12925,7 +12617,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1176",
+        "ID_Entry": "1148",
         "Question_number": "41",
         "Question": "Forma corectă de plural a substantivului nive/ este:",
         "Type": "single-choice",
@@ -12936,7 +12628,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1177",
+        "ID_Entry": "1149",
         "Question_number": "42",
         "Question": "Raport cu sensul 'relatare oficială asupra unei activități personale sau colective' are la plural:",
         "Type": "single-choice",
@@ -12947,7 +12639,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1178",
+        "ID_Entry": "1150",
         "Question_number": "43",
         "Question": "Indicaţi enunţul corect:",
         "Type": "single-choice",
@@ -12958,7 +12650,7 @@
         "Subject_number": "1"
     },
     {
-        "ID_Entry": "1179",
+        "ID_Entry": "1151",
         "Question_number": "44",
         "Question": "Indicaţi adjectivul care are grade de comparaţie:",
         "Type": "single-choice",
