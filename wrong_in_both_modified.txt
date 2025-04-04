@@ -1,0 +1,2655 @@
+Question 4: Un sinonim potrivit pentru termenul 'abuziv' este:
+Options:
+(A) excesiv
+(B) abundent
+(C) violent
+(D) țipător
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 6: Expresia 'a face de petrecanie' are sensul:
+Options:
+(A) a da o petrecere
+(B) a ucide
+(C) a pleca
+(D) a se distra
+Correct: b | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 12: Termenul 'ierarhie' conține:
+Options:
+(A) un diftong și un hiat
+(B) doi diftongi
+(C) două hiaturi
+(D) un diftong
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 20: În propoziția 'Eu căutai de multe ori răspunsul la întrebare.', verbul este la timpul:
+Options:
+(A) viitor anterior
+(B) imperfect
+(C) perfect simplu
+(D) mai-mult-ca-perfect
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 22: În fraza 'Decizia lui era discutabilă, pentru că nimeni nu-i confirmase acele bănuieli.', există:
+Options:
+(A) un pronume
+(B) două pronume
+(C) trei pronume
+(D) patru pronume
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 23: Enunțul 'Decizia neașteptată a fost anunțată în mijlocul evenimentelor' conține:
+Options:
+(A) o locuțiune prepozițională
+(B) o locuțiune adverbială
+(C) o locuțiune substantivală
+(D) o locuțiune verbală
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 25: Seria care conține în exclusivitate cuvinte terminate la plural în '-url' este:
+Options:
+(A) acces, hotel, concediu
+(B) ghișeu, antrenament, tablou
+(C) eseu, eșec, bilanț
+(D) acord, risc, temperament
+Correct: c | Gemini flash2.0: panica...-----------------------------
+
+Question 26: Enunțul 'Legile ... conțiut nu îl cunoști sunt importante.' se completează corect cu forma:
+Options:
+(A) al căror
+(B) a căror
+(C) ale cărui
+(D) a cărui
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 29: Fraza care conține un verb la modul infinitiv cu funcția sintactică de subiect este:
+Options:
+(A) Să respecți legea înseamnă, înainte de toate, a o cunoaște.
+(B) Se impune a scrie o declarație, de îndată ce ajungi la secție.
+(C) Nu poate citi nimic din ceea ce i s-a recomandat.
+(D) A decide - de acest lucru nu este în stare.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 32: Subiectul multiplu din enunțul 'Mirela, Cezar, colegii lui Cezar și înșișși șefii llui Cezar sunt vinovați de încălcarea procedurii' este alcătuit:
+Options:
+(A) substantive comune
+(B) substantive comune și proprii
+(C) substantive comune, proprii și adjective pronominale de întărire
+(D) substantive comune, proprii, pronume personale și adjective pronominale de întărire
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 33: Este corect formulat enunțul:
+Options:
+(A) Tu însuți vei fi o studentă eminentă.
+(B) Lor înșile nu le convenea programul stabilit de comun acord.
+(C) Fiind leneșă, mie însemi nu-mi place să lucrez dimineața.
+(D) Ele însăși au recunoscut că au chiulit de la ore.
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 34: Fraza 'Am reușit să-l trec strada pe omul acela neajutorat.' conține:
+Options:
+(A) trei complemente directe
+(B) două complemente directe și un complement indirect
+(C) un complement direct și un complement indirect
+(D) două complemente directe
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 35: Propoziția subordonată din fraza 'Se gândea că m-a obosit cu discursul lui.' este:
+Options:
+(A) completivă indirectă
+(B) completivă directă
+(C) subiectivă
+(D) predicativă
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 38: Este corect formulat enunțul:
+Options:
+(A) Orice persoană interesată de reduceri îi convine să cumpere de aici.
+(B) În ceea ce privesc condițiile de lucru, nu toți angajații sunt mulțumiți.
+(C) Majoritatea oamenilor care pun preț pe libertate este atentă la statul de drept.
+(D) Unii, de fapt, nu poate să înțeleagă că există și obligații, nu doar drepturi.
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 40: Propozițiile subordonate din fraza 'Până ce împlinești vârsta de 18 ani, ți se va acorda dreptul să primești o alocație, de care beneficiezi lunar.' sunt, în ordine:
+Options:
+(A) completivă indirectă, subiectivă, atributivă
+(B) circumstanțială de timp, completivă indirectă, atributivă
+(C) circumstanțială de timp, atributivă, atributivă
+(D) circumstanțială condițională, atributivă, completivă indirectă
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 45: Elementul regent pentru subordonata din fraza 'Care dintre noi greșise, era, într-adevăr, dificil de ghicit în condițiile date' este:
+Options:
+(A) greșise
+(B) era difcil
+(C) dificil
+(D) de ghicit
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 46: Fraza 'Copiii din acel grup de risc sunt predispuși să devină mai repede dependeți de droguri' conține o subordonată:
+Options:
+(A) completivă indirectă
+(B) completivă directă
+(C) subiectivă
+(D) circumstanțială de mod
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 50: Seria cu forme corecte de imperativ, forma negativă, este:
+Options:
+(A) nu fă, nu du, nu spune
+(B) nu zice, nu aduce, nu înceta
+(C) nu zi, nui face, nu tăcea
+(D) nu tace, nu făcea, nu încetează
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 52: S-a strecurat o eroare de exprimare în enunţul:
+Options:
+(A) Ca și conducător de instituție, am o mare răspundere.
+(B) Am scris această reclamaţie ca simplu cetățean.
+(C) Ca și tine, şi eu doresc să am succes.
+(D) Vă învederez faptul că nu am de gând să continui lupta.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 56: Enunţul corect este:
+Options:
+(A) Noi voiam demult timp să-ţi spunem asta.
+(B) Noi vroiam demult să-ţi spunem asta.
+(C) Noi vroiam de mult să-ți spunem asta.
+(D) Noi voiam de mult timp să-ţi spunem asta.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 57: Alege varianta în care toate cuvintele sunt scrise corect:
+Options:
+(A) alcool, cunoştinţă, prooroc, ştiinţă
+(B) alcool, cunoștiință, prooroc, ștință
+(C) alcol, cunoștință, proroc, ștință
+(D) alcool, cunoștință, proroc, ştiință
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 60: Expresia 'a nu-i fi boii acasă' are sensul:
+Options:
+(A) a fi fericit
+(B) a fi plecat
+(C) a fi sărac
+(D) a fi supărat
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 62: Fie secvențele: (1) 'temei legal;'; (2) 'diurnă pe zi;'; (3) 'a-și aduce aportul;'; (4) 'alegeri electorale;' (5) 'retrospectiva trecutului'. Dintre acestea, conțin pleonasm:
+Options:
+(A) (1), (2), (3)
+(B) (1), (2), (5)
+(C) (2), (5)
+(D) (2), (3), (4), (5)
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 68: Fie enunțurile: (1) 'Chelnerul ne-a servit destul.' (2) 'Am servit masa în oraș.' (3) 'Am fost serviți la masă de o chelneriță drăguță.'. Verbul 'a servi' este utilizat corect:
+Options:
+(A) doar în (1)
+(B) doar în (2)
+(C) în (1) și (3)
+(D) în toate
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 73: Cuvântul 'lui' este articol hotărât în enunţul:
+Options:
+(A) Spune-i şi lui despre visul tău!
+(B) Am apreciat şi intervenţia lui în timpul şedinţei
+(C) S-au anunțat ploi semnificative pentru luna lui martie
+(D) Nici lui nu i-a plăcut situația creată
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 78: În enunţul 'M-am reîntâlnit întâmplător cu toți prietenii mei din satul uitat de vreme în acel colț al Transilvaniei', există:
+Options:
+(A) un pronume şi trei adjective pronominale
+(B) două pronume şi două adjective pronominale
+(C) trei pronume şi un adjectiv pronominal
+(D) patru pronume
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 83: Conţine un pronume interogativ enunţul de la punctul:
+Options:
+(A) Unde ţi-ai petrecut vacanţa de vară?
+(B) Cât costă merele?
+(C) Cui i-ar plăcea o asemenea situaţie?
+(D) Ce te costă să-mi faci un bine?
+Correct: c | Gemini flash2.0: abcd  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 89: Se dau enunțurile: (1) 'Privește înainte cu multă încredere!'; (2) 'Îndărătu-i și-nainte-i întuneric se arată.'(Mihai Eminescu); (3) 'Dă-te înapoi!'. Acestea conțin, în total:
+Options:
+(A) două adverbe
+(B) trei adverbe
+(C) patru adverbe
+(D) cinci adverbe
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 90: Cuvântul 'și' din enunţul 'Ion și Mihai şi-au exprimat dorința de a veni şi ei cu noi' are, în ordine, următoarele valori morfologice:
+Options:
+(A) conjuncţie coordonatoare, pronume reflexiv, conjuncție coordonatoare
+(B) pronume reflexiv, conjuncţie coordonatoare, conjuncție coordonatoare
+(C) adverb, pronume reflexiv, conjuncţie coordonatoare
+(D) conjuncţie coordonatoare, pronume reflexiv, adverb
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 96: Enunţul în care există un complement circumstanţial de timp, exprimat prin adverb de timp, se află la punctul:
+Options:
+(A) Nu ştiu când vine.
+(B) Nu mi-a priit deloc vremea de ieri.
+(C) Plecarea lor alaltăieri ne-a luat prin surprindere.
+(D) E devreme să porniţi la drum.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 105: Ultima propoziţie subordonată din fraza 'Unii spun că ar fi bine ca toți candidaţii să fie pregătiți pentru a promova acest examen' este:
+Options:
+(A) subiectivă
+(B) atributivă
+(C) completivă indirectă
+(D) circumstanţială de scop
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 106: Fraza 'Urmează să se stabilească tot ce trebuie să facem pe viitor' conţine următoarele tipuri de subordonate:
+Options:
+(A) o subiectivă şi două completive directe
+(B) două subiective şi o atributivă
+(C) o subiectivă, o atributivă şi o completivă directă
+(D) trei completive directe
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 108: Enunţul: 'Membrii aceleași echipe au participat la conferința pe care au ținut-o acei iluștrii miniștri' conţine :
+Options:
+(A) două greşeli de ortografie
+(B) trei greșeli de ortografie
+(C) patru greșeli de ortografie
+(D) cinci greşeli de ortografie
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 109: În fraza 'Vrei nu vrea bea  Grigore agheasmă!' lipsesc :
+Options:
+(A) două virgule
+(B) trei virgule
+(C) patru virgule
+(D) cinci virgule
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 110: Conţine o singură greşeală de ortografie enunţul de la punctul:
+Options:
+(A) Deasemenea, aşi dori să vă înştințez despre evenimentul nefericit de ieri
+(B) Mie totuna dacă vii sau nu vii cu prietenii noştrii
+(C) Ar trebuii să aibe grije ca, pe viitor, să nu mai facă aceiaşi greşeală
+(D) Mă înnebunește într-una cu pretenţiile ei
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 112: Sunt despărțite corect în silabe toate cuvintele din seria:
+Options:
+(A) pie-ton, func-ţi-e, ga-i-ţă, hă-u-li, i-mo-bi-li-ar;
+(B) i-di-om, in-o-cu-la, în-se-ri-a, lif-ti-er, lău-tar;
+(C) mau-so-leu, Med-gi-di-a, me-gieş, nea-ca-de-mic, pi-a-nist;
+(D) pe-ru-chi-e-ră, pi-e-ton, mij-loc, de-u-năzi, ex-pro-pri-a
+Correct: d | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 120: Precizaţi varianta corectă:
+Options:
+(A) Niciunul dintre ei n-a recunoscut
+(B) Cele cinci sute de băieți au fost primite
+(C) Unu minus unu face zero
+(D) Unu împărţit la unu face unu
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 121: În enunţul 'Ariadna merse la Dedal, cel care construise labirintul; acesta a învăţat-o să-i dea viteazului un ghem de aţă, iar fata a făcut întocmai.' , există:
+Options:
+(A) trei substantive articulate hotărât și un substantiv articulat nehotărât;
+(B) cinci substantive articulate hotărât şi două substantive articulate nehotărât;
+(C) patru substantive articulate hotărât și zero substantive articulate nehotărât;
+(D) cinci substantive articulate hotărât şi un substantiv articulat nehotărât
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 125: Numărul atributelor din enunţul: 'Cartea citită era bună, iar îngălbenitele pagini îi dădeau copilului o stranie senzaţie care părea totuși plăcută.', este:
+Options:
+(A) 5 atribute;
+(B) 3 atribute;
+(C) 4 atribute;
+(D) 6 atribute
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 131: Notează seria în care numărul de sunete este egal cu numărul de litere:
+Options:
+(A) cer, ceas, ger, geam, chem, cheag;
+(B) cer, ger, ghemuri, geamuri, chemare;
+(C) deci, cheaguri, geamlâc, ceruri, geruri;
+(D) cer, ger, cerneală, germinare, general, cerință
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 138: Câte sunete și câte litere sunt în cuvântul 'genuflexiune'?
+Options:
+(A) 12 litere, 13 sunete
+(B) 12 litere, 12 sunete
+(C) 12 litere, 14 sunete
+(D) 11 litere, 12 sunete
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 139: În secvența 'Cu casele: mioare şi turlele: păstori, /Ce-au coborât pe verdea câmpie argeșană/Cu drumul ce-nsoţește înceata caravană/De sălcii plângătoare și plopi pribegitori.'(I. Pillat) există:
+Options:
+(A) patru diftongi;
+(B) doi diftongi;
+(C) trei diftongi;
+(D) niciun diftong.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 141: Câte cuvinte formate prin compunere se găsesc în textul: 'Se întreba câteodată care ar fi consecința trecerilor de la o stare la alta. Nu se putea hotări dacă să meargă astăzi, devreme, la Curtea de Argeș, numai pentru a da dovadă de bunăvoință.'
+Options:
+(A) cinci
+(B) şase
+(C) șapte
+(D) opt
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 142: Precizează seria care conţine toate cuvintele compuse scrise corect:
+Options:
+(A) proces verbal, prim-ajutor, blocturn, papă lapte, târgu-mureşean
+(B) proces-verbal, prim-ajutor, bloc-turn, papă-lapte, târgumureşean
+(C) proces-verbal, prim ajutor, bloc-turn, papă-lapte, târgumureșean
+(D) proces-verbal, prim ajutor, bloc turn, papă lapte, târgumureșean
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 143: Indică seria în care doar prima formă din fiecare pereche este corectă:
+Options:
+(A) macrameu/macrame, marfar/mărfar, moscheie/moschee, pampers/pempărs
+(B) macrame/ macrameu, mărfar/ marfar, moschee/ moscheie, pempărs/ pampers
+(C) macrameu/macrame, marfar/mărfar, moschee/ moscheie, pampers/pempărs
+(D) macrameu/macrame, marfar/mărfar, moscheie/moschee, pempărs/pampers
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 144: Sunt scrise corect, conform normelor limbii române literare, toate cuvintele din seria:
+Options:
+(A) grizonat, ulcior, maieu, tăntălău, milieu
+(B) grizonat, prooroc, tăntălau, viezure, vehicol
+(C) mileu, maiou, ulcior, prooroc, vehicol
+(D) grizonant, proroc, tontălău, viezure, vehicul
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 147: În enunţul: 'În acea după-amiază, oamenii suferinzi așteptau ajutor de la angajaţii spitalului C.F.R.' există:
+Options:
+(A) două cuvinte obţinute prin conversiune și trei cuvinte obținute prin compunere
+(B) patru cuvinte obţinute prin conversiune şi două cuvinte obţinute prin compunere
+(C) trei cuvinte obţinute prin conversiune și un cuvânt obţinut prin compunere
+(D) trei cuvinte obţinute prin conversiune și trei cuvinte obţinute prin compunere
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 148: Se dau enunţurile: (1) Și-a depășit frica de eşec după ce a participat la acest concurs. (2) A şi reușit să rezolve toate cerinţele. (3) Echipele de fete și de băieţi așteaptă tragerea la sorți. Cuvântul 'și' are valoarea morfologică de :
+Options:
+(A) pronume reflexiv în (1), conjuncţie coordonatoare în (2), (3)
+(B) pronume reflexiv în (1), adverb în (2), conjuncţie coordonatoare în (3)
+(C) pronume personal, formă neaccentuată în (1), adverb în (2), conjuncţie subordonatoare în (3)
+(D) adverb în (1) şi (2), conjuncţie coordonatoare în (3)
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 149: Indică seria care conţine precizarea corectă a cazurilor adjectivelor din următoarele enunţuri: Mi-a plăcut această prăjitură. Zbaterea valurilor spumegânde mă încântă. Potrivit informaţiilor comunicate, situaţia este sub control.
+Options:
+(A) acuzativ, genitiv, dativ
+(B) nominativ, genitiv, genitiv
+(C) nominativ, genitiv, dativ
+(D) acuzativ, genitiv, genitiv
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 152: În fraza: 'Desigur că ai aflat ceea ce s-a întâmplat, deși nu mi-am dorit', cea de-a doua propoziţie este:
+Options:
+(A) completivă directă
+(B) predicativă
+(C) subiectivă
+(D) principală
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 153: Indică fraza care conţine două propoziţii subordonate subiective aflate în raport de coordonare adversativă:
+Options:
+(A) Probabil că se va implica și că ne va fi sprijin.
+(B) Ne-a comunicat că va veni, dar nu va sta mult.
+(C) Nu este plăcut ca toţi să ne critice sau să ne ignore.
+(D) Cine vine, dar nu ajută este inutil.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 155: În textul: 'Firește că ar fi bine să-și vadă fiecare de ale lui şi să nu se mai intereseze de alții, din dorința de a-și ocupa timpul.', există:
+Options:
+(A) o subiectivă
+(B) două subiective
+(C) trei subiective
+(D) patru subiective
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 156: Succesiunea propoziţiilor din fraza: 'Dacă vei reuși la examenul de admitere este meritul tău, dar la fel de adevărat este că trebuie să mulțumești și celor care te-au ajutat.', este
+Options:
+(A) condiţională, principală, principală, subiectivă, subiectivă, atributivă
+(B) condiţională, principală, principală, predicativă, subiectivă, completivă indirectă
+(C) subiectivă, principală, principală, subiectivă, subiectivă, atributivă
+(D) condiţională, principală, principală, subiectivă, subiectivă, completivă indirectă
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 157: Precizează numărul de propoziţii din fraza: 'Solicitarea de a rezolva la timp toate problemele existente i-a dat bătăi de cap și a determinat un val de nemulțumiri care au condus la situaţii neprevăzute şi au împiedicat atingerea obiectivelor.'
+Options:
+(A) trei
+(B) patru
+(C) cinci
+(D) şase
+Correct: b | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 159: Precizează numărul complementelor din fraza: 'Ar putea decide cum să procedeze cu proiectul, când va fi întrebat de către superiorii săi.'
+Options:
+(A) trei
+(B) patru
+(C) cinci
+(D) şase
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 162: În secvențele: Sunt asemenea nisipului clepsidrei... (Ana Blandiana), Iarba pare de omăt...(M. Eminescu), Vom rămâne în eternitate/La fel de tineri cum suntem acum...(Ana Blandiana), numele predicative sunt exprimate prin:
+Options:
+(A) substantiv în cazul genitiv, substantiv în cazul acuzativ, adjectiv, adverb relativ de mod
+(B) substantiv în cazul dativ, substantivc în cazul acuzativ, adjectiv, adverb de timp
+(C) substantiv în cazul genitiv, substantiv în cazul acuzativ, adjectiv, adverb de timp
+(D) substantiv în cazul dativ, substantiv în cazul acuzativ, adjectiv, adverb de mod
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 164: Precizează seria care conţine numărul corect de litere și de sunete pentru cuvintele: chin, cianură, ketchup, xilofon:
+Options:
+(A) 4 litere, 3 sunete; 7 litere, 7 sunete; 7 litere, 5 sunete; 7 litere, 8 sunete;
+(B) 4 litere, 2 sunete; 7 litere, 6 sunete; 7 litere, 7 sunete; 7 litere, 7 sunete;
+(C) 4 litere, 3 sunete; 7 litere, 7 sunete; 7 litere, 7 sunete; 7 litere, 6 sunete;
+(D) 4 litere, 4 sunete; 7 litere, 7 sunete; 7 litere, 7 sunete; 7 litere, 8 sunete.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 169: Precizează câte cuvinte formate prin procedeul compunerii sunt în seria: așadar, oricum, înflori, întruna, totuşi, unsprezece.
+Options:
+(A) șase;
+(B) patru;
+(C) trei.
+(D) cinci
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 173: Indică enunţul în care adjectivul pronominal de întărire este folosit corect:
+Options:
+(A) Mariei însuşi îi datorez mulţumiri.
+(B) - Maria, ție însuţi îţi datorez mulţumiri!
+(C) - Maria, ție înseţi îţi datorez mulțumiri!
+(D) - Maria, ţie însăţi îţi datorez mulţumiri!
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 175: Indică enunţul în care se găsește un substantiv în cazul genitiv:
+Options:
+(A) Contrar aşteptărilor tuturor, am câştigat concursul.
+(B) Părerea lui este corectă.
+(C) Reușita mea se datorează mamei.
+(D) Părerea lui Marcel este contestată.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 181: Propoziția regentă a subordonatei subiective din fraza următoare este:  'Văzând datele problemei, el trebuie să analizeze în profunzime pentru a ajunge la o soluţie viabilă.'
+Options:
+(A) trebuie;
+(B) el trebuie;
+(C) Văzând datele problemei, el trebuie;
+(D) Văzând datele problemei, [...] trebuie.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 184: Indică enunţul în care se află un subiect nedeterminat:
+Options:
+(A) Aici se doarme bine.
+(B) Nu se știu rezultatele concursului.
+(C) Mă gândesc la rezultatele concursului.
+(D) - Mircea, rezolvă corect grila!
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 187: Precizează numărul corect al predicatelor din fraza următoare, în funcţie de tipul acestora: 'Fusese scris că e posibil să încerc să ajung medic, dar adevărul e că profesia potrivită mie e alta.'
+Options:
+(A) patru predicate nominale, două predicate verbale;
+(B) cinci predicate nominale, un predicat verbal;
+(C) trei predicate nominale, trei predicate verbale;
+(D) două predicate nominale, patru predicate verbale;
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 191: Precizează în câte cuvinte din seria: frânghie, ciur, complice, ciubăr, ciupercă „e' şi „i' sunt litere ajutătoare, nerealizându-se fonetic:
+Options:
+(A) două;
+(B) trei;
+(C) patru;
+(D) cinci.
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 192: Nu conţin hiat cuvintele din seria:
+Options:
+(A) email, embrion, emisie
+(B) emolient, emancipaţie, emigrație;
+(C) eliziune, email, emisie;
+(D) oală, email, pleoapă.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 194: Precizează seria în care nu sunt cuvinte ce aparțin masei vocabularului:
+Options:
+(A) telefon, hrisov, pită, a face;
+(B) telefon, a epila, pâine, silențios;
+(C) hrisov, pită, picior, mână;
+(D) cap, cot, frate, bunic.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 196: Sinonimele neologismelor fortuit şi creponar sunt, în ordine:
+Options:
+(A) întâmplător, încrețit;
+(B) întâmplător, şifonat;
+(C) forțat, încrețit;
+(D) forţat, şifonat.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 198: Enunţul: Ea cumpărase un câine-lup astăzi. conţine:
+Options:
+(A) două cuvinte formate prin compunere;
+(B) un cuvânt format prin compunere;
+(C) trei cuvinte formate prin compunere;
+(D) niciun cuvânt format prin compunere.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 201: Cuvintele zaharniţă şi bădăran sunt, în ordine:
+Options:
+(A) nici diminutiv, nici augmentativ;
+(B) diminutiv, augmentativ;
+(C) augmentativ, diminutiv;
+(D) augmentativ, augmentativ.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 209: Elementul de relaţie al propoziției subordonate din fraza: Dau cartea cui doreşte. are funcția sintactică de:
+Options:
+(A) complement indirect;
+(B) complement direct;
+(C) subiect;
+(D) atribut pronominal.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 218: În cuvântul cercetaş sunt:
+Options:
+(A) 8 litere, 7 sunete;
+(B) 7 sunete, 7 litere;
+(C) 8 litere, 6 sunete;
+(D) 8 sunete, 8 litere.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 222: Alege seria în care este folosit corect neologismul:
+Options:
+(A) Are un comportament glacial.;
+(B) Comportamentul glaciar l-a înspăimântat.
+(C) Este un virtuos al pianului.
+(D) A fost fortuit de împrejurări să plece.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 228: Indică enunţul în care există o interjecţie predicativă:
+Options:
+(A) Mergea şontâc - şontâc spre casă.
+(B) Uf! Ce plictisitor este!
+(C) Hai la munte!
+(D) S-a auzit poc!
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 238: Conţin vocale în hiat toate cuvintele din seria de la punctul:
+Options:
+(A) încuiată, săi, poet, licee;
+(B) hiat, familia, fiecare, idee;
+(C) odaia, dumnealui, epopee, iarna;
+(D) spui, ierarhie, liceu, poate.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 239: Grupurile ce, ci, ge, gi, che, chi, ghe, ghi notează câte un singur sunet la cuvintele din seria de la punctul:
+Options:
+(A) ghirlandă, ghiocel, chirilic, ghindă;
+(B) cerc, chin, chezaş, ghiveci;
+(C) ghiozdan, cheamă, ciută, ceas;
+(D) cinema, geam, chiul, ghinion.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 243: Nu există pleonasm în enunţul:
+Options:
+(A) Preşedintele a rostit o scurtă alocuţiune în faţa mulţi
+(B) Îl bucură întotdeauna exemplele pilduitoare ale părinților.
+(C) Îmi plac sucurile îmbuteliate în sticle colorate.
+(D) Avionul a amerizat din cauza furtunii puternice.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 244: Sunt compuse toate cuvintele din seria:
+Options:
+(A) pentru că, despre, până la, înspre;
+(B) fiindcă, în jurul, ca să, deoarece;
+(C) până în, de pe, aşadar, cândva;
+(D) deodată, din când în când, de la, întrucât.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 247: Fac parte din masa vocabularului toate cuvintele din seria:
+Options:
+(A) egal, indubitabil, nervos, soare;
+(B) telefon, cerebel, astm, frază;
+(C) ochelari, maşină, zestre, apă;
+(D) tentaţie, frate, energic, respiraţie.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 257: Conţine numai propoziţii subordonate completive indirecte fraza de la punctul:
+Options:
+(A) Sunt convins că voi fi admis şi că-mi voi demonstra calităţile.
+(B) Mi s-a întâmplat să visez cu ochii deschişi şi să mă trezesc brusc.
+(C) Iată că ziua cea mare a sosit când nu ne mai aşteptam.
+(D) Nu se ştie cui s-au adresat şi cine le-a răspuns.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 258: A doua propoziţie subordonată din fraza 'Acela care se teme de el poate să ajungă la fel de rău.' este:
+Options:
+(A) completivă directă;
+(B) subiectivă;
+(C) atributivă;
+(D) completivă indirectă.
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 259: Pronumele relativ din fraza 'Materia căreia îi acorzi atenţie te va ajuta să îţi atingi obiectivele.' îndeplineşte funcţia sintactică de:
+Options:
+(A) atribut pronominal genitival;
+(B) complement indirect;
+(C) atribut adjectival;
+(D) subiect.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 261: În enunţul 'I-am întrebat pe toți, dar niciunul nu mi-a putut oferi un răspuns.', există:
+Options:
+(A) cinci complemente directe;
+(B) patru complemente directe;
+(C) trei complemente directe;
+(D) două complemente directe.
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 262: Conţine un predicat verbal exprimat prin adverb predicativ enunţul de la punctul:
+Options:
+(A) Pesemne că ne vom întâlni.
+(B) Studentul a înţeles negreşit ce s-a comunicat.
+(C) Mi-e imposibil să ajung la timp.
+(D) Se comporta firesc față de noi.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 263: Indică propoziţia în care există un complement necircumstanţial:
+Options:
+(A) Vom ajunge la Sovata mâine, în zori.
+(B) Au înflorit pomii în grădina mea.
+(C) M-a sunat alaltăieri.
+(D) Se vedea limpede marea.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 265: Numele predicativ din enunţul 'A fost apreciat, pentru că a fost în stare să rezolve o sarcină dificilă.' este exprimat prin:
+Options:
+(A) substantiv precedat de prepoziţie;
+(B) locuţiune adjectivală;
+(C) adjectiv provenit din verb la participiu;
+(D) locuţiune adverbială.
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 266: Grupurile ce, ci, ge, gi, che, chi, ghe, ghi notează câte un singur sunet la cuvintele din seria de la punctul:
+Options:
+(A) ghirlandă, ghiocel, chirilic, ghindă;
+(B) cerc, chin, chezaş, ghiveci;
+(C) ghiozdan, cheamă, ciută, ceas;
+(D) cinema, geam, chiul, ghinion.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 268: Conţin vocale în hiat toate cuvintele din seria de la punctul:
+Options:
+(A) încuiată, săi, poet, licee;
+(B) hiat, familia, fiecare, idee;
+(C) odaia, dumnealui, epopee, iarna;
+(D) spui, ierarhie, liceu, poate.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 270: Sunt compuse toate cuvintele din seria:
+Options:
+(A) pentru că, despre, până la, înspre;
+(B) fiindcă, în jurul, ca să, deoarece;
+(C) până în, de pe, aşadar, cândva;
+(D) deodată, din când în când, de la, întrucât.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 273: Fac parte din masa vocabularului toate cuvintele din seria:
+Options:
+(A) egal, indubitabil, nervos, soare;
+(B) telefon, cerebel, astm, frază;
+(C) ochelari, maşină, zestre, apă;
+(D) tentaţie, frate, energic, respiraţie.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 276: Nu există pleonasm în enunţul:
+Options:
+(A) Preşedintele a rostit o scurtă alocuţiune în faţa mulțimii.
+(B) Îl bucură întotdeauna exemplele pilduitoare ale părinţilor.
+(C) Îmi plac sucurile îmbuteliate în sticle colorate.
+(D) Avionul a amerizat din cauza furtunii puternice.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 284: Pronumele relativ din fraza 'Materia căreia îi acorzi atenţie te va ajuta să îţi atingi obiectivele.' îndeplineşte funcţia sintactică de:
+Options:
+(A) atribut pronominal genitival;
+(B) complement indirect;
+(C) atribut adjectival;
+(D) subiect.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 285: A doua propoziţie subordonată din fraza 'Acela care se teme de el poate să ajungă la fel de rău.' este:
+Options:
+(A) completivă directă;
+(B) subiectivă;
+(C) atributivă;
+(D) completivă indirectă.
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 287: Conţine numai propoziţii subordonate completive indirecte fraza de la punctul:
+Options:
+(A) Sunt convins că voi fi admis şi că-mi voi demonstra calităţile.
+(B) Mi s-a întâmplat să visez cu ochii deschişi şi să mă trezesc brusc.
+(C) Iată că ziua cea mare a sosit când nu ne mai aşteptam.
+(D) Nu se ştie cui s-au adresat şi cine le-a răspuns.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 289: Conţine un predicat verbal exprimat prin adverb predicativ enunţul de la punctul:
+Options:
+(A) Pesemne că ne vom întâlni.
+(B) Studentul a înţeles negreşit ce s-a comunicat.
+(C) Mi-e imposibil să ajung la timp.
+(D) Se comporta firesc față de noi.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 292: În enunţul 'I-am întrebat pe toţi, dar niciunul nu mi-a putut oferi un răspuns.' există:
+Options:
+(A) cinci complemente directe;
+(B) patru complemente directe;
+(C) trei complemente directe;
+(D) două complemente directe.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 295: Sunt despărțite corect în silabe toate cuvintele din seria:
+Options:
+(A) in-ter-ce-siu-ne, ne-e-u-cli-di-an, de-li-be-ra-ţi-e, în-du-ple-că-tor;
+(B) in-jon-cţi-u-ne, lif-ti-e-ră, ne-vral-gic, re-cal-ci-tra-nţă;
+(C) in-ter-ce-si-u-ne, ne-e-u-cli-di-an, de-li-be-ra-ţie, în-dup-le-că-tor;
+(D) in-jonc-ţi-u-ne, lif-ti-e-ră, ne-vral-gic, re-cal-ci-tran-ţă.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 303: Există o unitate frazeologică în enunţul:
+Options:
+(A) Nu am avut eu ideea să venim.
+(B) Mi-am oferit salariul unui scop caritabil.
+(C) Întrunirea oamenilor de stat a fost securizată.
+(D) La serviciu, se comportă corect.
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 305: Forma verbală corect folosită se regăseşte în enunţul:
+Options:
+(A) În studiourile de la Bufiea se turnează un film istoric.
+(B) În colectivitate se contractă mai uşor boli infecțioase.
+(C) Protestatarii manifestă paşnic.
+(D) Arta reflectează lumea în forme unice.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 307: În enunţul: Nu te ştiu de ieri, de azi, există:
+Options:
+(A) două substantive;
+(B) o locuţiune adverbială;
+(C) două adverbe de timp;
+(D) două adverbe de mod.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 309: Există un numeral adverbial în enunţul:
+Options:
+(A) Întâia zi a lunii a trecut.
+(B) Odată se comporta altfel.
+(C) L-am plătit înzecit.
+(D) Prima oară când l-am întâlnit nu mi-a plăcut.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 314: În fraza: De mă înţelegi ori nu, mi-e indiferent acum. există:
+Options:
+(A) două subiective, o principală;
+(B) două circumstanţiale condiţionale, o principală;
+(C) o subiectivă, o principală;
+(D) o circumstanţială condiţională, o principală.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 316: În faza: V-am avertizat că nu mă tentează să-mi amân plecarea. cea de-a doua propoziţie subordonată este:
+Options:
+(A) completivă indirectă;
+(B) subiectivă;
+(C) predicativă;
+(D) completivă directă.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 318: Indicaţi enunţurile în care acordul este corect: 1. Nu mama, ci fiica au primit invitaţie. 2. Eu şi Andrei o să ne plimbăm. 3. Munţii şi podişurile sunt împăduriţi. 4. Ana sau Maria este preferata ta?
+Options:
+(A) 1,4;
+(B) 1,2,3;
+(C) 1,2;
+(D) 2,4.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 319: Există acord prin atracție în enunţul:
+Options:
+(A) O parte dintre voi va merge la conferință.
+(B) Un grup de manifestanți şi-au cerut drepturile.
+(C) Mama şi Andreea se întorc din vacanță.
+(D) Familia s-a reunit după cinci ani.
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 320: Sunt despărțite corect în silabe toate cuvintele din seria:
+Options:
+(A) in-ter-ce-siu-ne, ne-e-u-cli-di-an, de-li-be-ra-ţi-e, în-du-ple-că-tor ;
+(B) in-jon-cţi-u-ne, lif-ti-e-ră, ne-vral-gic, re-cal-ci-tra-nţă ;
+(C) in-ter-ce-si-u-ne, ne-e-u-cli-di-an, de-li-be-ra-ţie, în-dup-le-că-tor;
+(D) in-jonc-ţi-u-ne, lif-ti-e-ră, ne-vral-gic, re-cal-ci-tran-ţă.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 327: Există o unitate frazeologică în enunţul:
+Options:
+(A) Nu am avut eu ideea să venim.
+(B) Mi-am oferit salariul unui scop caritabil.
+(C) Întrunirea oamenilor de stat a fost securizată.
+(D) La serviciu, se comportă corect.
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 332: În enunţul: Nu te ştiu de ieri, de azi, există:
+Options:
+(A) două substantive;
+(B) o locuţiune adverbială;
+(C) două adverbe de timp:
+(D) două adverbe de mod.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 334: Există un numeral adverbial în enunţul:
+Options:
+(A) Întâia zi a lunii a trecut.
+(B) Odată se comporta altfel.
+(C) L-am plătit înzecit.
+(D) Prima oară când l-am întâlnit nu mi-a plăcut.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 338: În fraza: V-am avertizat că nu mă tentează să-mi amân plecarea. cea de-a doua propoziţie subordonată este:
+Options:
+(A) completivă indirectă;
+(B) subiectivă;
+(C) predicativă;
+(D) completivă directă.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 339: În fraza: De mă înţelegi ori nu, mi-e indiferent acum. există:
+Options:
+(A) două subiective, o principală;
+(B) două circumstanţiale condiţionale, o principală;
+(C) o subiectivă, o principală;
+(D) o circumstanţială condiţională, o principală.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 344: Indicaţi enunţurile în care acordul este corect: 1.Nu mama, ci fiica au primit invitaţie. 2.Eu şi Andrei o să ne plimbăm. 3.Munţii şi podişurile sunt împăduriţi. 4.Ana sau Maria este preferata ta?
+Options:
+(A) 1,4
+(B) 1,2,3;
+(C) 1,2;
+(D) 2,4.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 346: Indicaţi seria în care toate cuvintele conţin diftongi:
+Options:
+(A) vizitatoare, orientativ, valoare, mielină;
+(B) trezorier, soare, lentoare, meu;
+(C) podoabă, piaţă, scoarță, smiorcăială;
+(D) scorpiuţă, incendiator, sociologie, şerpoaică.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 352: Indicaţi seria în care cuvintele sunt derivate cu prefixele răz-/ răs-:
+Options:
+(A) răzbunare, răspândit;
+(B) răzbate, răscumpăra;
+(C) răzătură, răsărit;
+(D) război, răspântie.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 356: Există un pronume negativ în enunţurile: 1. Nu-ţi face nimic, chiar dacă ai greșit. 2.Niciunui copil nu trebuie să îi lipsească veselia. 3.Nu mă voi împiedica de nimicuri în drumul meu! 4.Nu e nimeni în preajma ta.
+Options:
+(A) 1,4;
+(B) 2,3;
+(C) 1,3;
+(D) 1,3,4.
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 364: În fraza: Tristeţea nu se sfia să şi-o exprime ori de câte ori mă întâlnea. propoziţia principală este:
+Options:
+(A) Tristeţea nu se sfia;
+(B) Tristeţea (...) să şi-o exprime;
+(C) nu se sfia;
+(D) mă întâlnea.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 365: În fraza: La propunerea ca membrii comisiei să îşi asume responsabilitatea a ceea ce decid, directorul a emis o hotărâre în acest sens. propoziţiile sunt, în ordine:
+Options:
+(A) principală, atributivă, atributivă;
+(B) principală, circumstanțială de scop, completivă indirectă;
+(C) principală, completivă indirectă, atributivă;
+(D) principală, completivă indirectă, completivă indirectă.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 367: Există un subiect multiplu în enunţul:
+Options:
+(A) Cristian şi cu tine va lucra la proiect.
+(B) E uşor de citit şi de înţeles.
+(C) Are un hamster şi un papagal.
+(D) Fata, prietena mea, n-a venit.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 369: Indicaţi seria în care toate cuvintele conțin diftongi:
+Options:
+(A) vizitatoare, orientativ, valoare, mielină;
+(B) trezorier, soare, lentoare, meu;
+(C) podoabă, piaţă, scoarță, smiorcăială;
+(D) scorpiuţă, incendiator, sociologie, şerpoaică.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 372: Indicaţi seria în care cuvintele sunt derivate cu prefixele răz-/ răs-:
+Options:
+(A) răzbunare, răspândit;
+(B) răzbate, răscumpăra;
+(C) răzătură, răsărit;
+(D) război, răspântie.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 373: În enunţul: Un 'da' arogant este mai deranjant decât un „nu” sincer. există:
+Options:
+(A) trei cuvinte obținute prin conversiune;
+(B) un cuvânt obținut prin conversiune;
+(C) patru cuvinte obţinute prin conversiune;
+(D) două cuvinte obţinute prin conversiune.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 379: Cuvântul vară din enunțurile: 1.Vara consumul de energie creşte. 2.Vara trecută am fost la mare cu prietenii. 3.În această vară, vom pleca în concediu în luna august. 4-A trecut vara. este substantiv în:
+Options:
+(A) 1,3,4;
+(B) 1,2,3;
+(C) 2,3,4;
+(D) 1,2,3,4.
+Correct: _ | Geminis: d
+--------------------------------------------------
+
+Question 380: Există un pronume negativ în enunţurile: 1. Nu-ţi face nimic, chiar dacă ai greșit. 2.Niciunui copil nu trebuie să îi lipsească veselia. 3.Nu mă voi împiedica de nimicuri în drumul meu! 4.Nu e nimeni în preajma ta.
+Options:
+(A) 1,4;
+(B) 2,3;
+(C) 1,3;
+(D) 1,3,4.
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 389: Există un subiect multiplu în enunţul:
+Options:
+(A) Cristian şi cu tine va lucra la proiect.
+(B) E uşor de citit şi de înţeles.
+(C) Are un hamster şi un papagal.
+(D) Fata, prietena mea, n-a venit.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 391: Indică seria în care litera x se pronunţă cs:
+Options:
+(A) exil, exfoliere, explicaţie, expresie;
+(B) extracţie, executiv, exploatare, explicit;
+(C) exerciţiu, examen, exemplu, exulta;
+(D) explicaţie, exonera, excepţie, excavator.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 392: Conţin diftongi toate cuvintele din seria:
+Options:
+(A) mescioară, trăgeau, ghiocei;
+(B) genunchieră, troiță, fief;
+(C) îndeajuns, ianuarie, chei;
+(D) geam, templier, somieră;
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 394: Nu este pleonasm construcţia:
+Options:
+(A) june tânăr;
+(B) autoportret personal;
+(C) nobleţe aristocratică;
+(D) conducător despotic.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 396: Alege seria în care toate cuvintele sunt neologisme:
+Options:
+(A) epocă, atitudine, concludent, regizor;
+(B) declin, sculptor, fiinţă, stabilitate;
+(C) orizontal, patrimoniu, avere, credul;
+(D) vitalism, perplex, recidivă, vitregie.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 397: Precizează câte derivate cu prefixul ne- sunt în seria: neghiob, negreală, nelegiuit, neglijare, neîntemeiat, neîntrerupt, negoț, negociere, neînsemnat, neîndemânatic:
+Options:
+(A) toate;
+(B) cinci;
+(C) şase;
+(D) şapte.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 399: Nu este pleonasm construcţia:
+Options:
+(A) dune de nisip;
+(B) picturi rupestre;
+(C) copil infantil;
+(D) final dramatic.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 400: Indică numărul cuvintelor obţinute prin conversiune din enunţul: Toate sfaturile primite de la părinţii mei îmi vor fi utile peste câţiva ani.
+Options:
+(A) două;
+(B) trei;
+(C) patru;
+(D) cinci.
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 402: În enunţul 'Și-a luat cărţile acasă', valoarea morfologică a cuvântului 'şi' este:
+Options:
+(A) conjuncţie coordonatoare copulativă;
+(B) pronume reflexiv;
+(C) pronume personal;
+(D) adverb de mod.
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 416: Indică seria în care litera x se pronunţă cs:
+Options:
+(A) exil, exfoliere, explicaţie, expresie;
+(B) extracţie, executiv, exploatare, explicit;
+(C) exerciţiu, examen, exemplu, exulta;
+(D) explicaţie, exonera, excepţie, excavator.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 418: Conţin diftongi toate cuvintele din seria:
+Options:
+(A) mescioară, trăgeau, ghiocei;
+(B) genunchieră, troiță, fief;
+(C) îndeajuns, ianuarie, chei;
+(D) geam, templier, somieră;
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 419: Nu este pleonasm construcţia:
+Options:
+(A) dune de nisip;
+(B) picturi rupestre;
+(C) copil infantil;
+(D) final dramatic.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 420: Alege seria în care toate cuvintele sunt neologisme:
+Options:
+(A) epocă, atitudine, concludent, regizor;
+(B) declin, sculptor, fiinţă, stabilitate;
+(C) orizontal, patrimoniu, avere, credul;
+(D) vitalism, perplex, recidivă, vitregie.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 421: Nu este pleonasm construcţia:
+Options:
+(A) june tânăr;
+(B) autoportret personal;
+(C) nobleţe aristocratică;
+(D) conducător despotic.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 423: Indică numărul cuvintelor obţinute prin conversiune din enunţul: Toate sfaturile primite de la părinţii mei îmi vor fi utile peste câţiva ani.
+Options:
+(A) două;
+(B) trei;
+(C) patru;
+(D) cinci.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 426: Precizează câte derivate cu prefixul 'ne-' sunt în seria: neghiob, negreală, nelegiuit, neglijare, neîntemeiat, neîntrerupt, negoț, negociere, neînsemnat, neîndemânatic:
+Options:
+(A) toate;
+(B) cinci;
+(C) şase;
+(D) şapte.
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 442: Alege seria în care cuvintele sunt despărțite corect în silabe:
+Options:
+(A) ca-fe-gioai-că, via-ţă, jert-fă, a-tlas;
+(B) ca-fe-gi-oai-că, vi-a-ţă, jer-tfă, a-tlas;
+(C) ca-fe-gioai-că, vi-a-ţă, jert-fă, a-tlas;
+(D) ca-fe-gioai-că, via-ţă, jer-tfă, at-las;
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 444: Sunt corect scrise toate cuvintele formate prin compunere, din seria:
+Options:
+(A) Câmpu lung, de la Vrancea, Alba-lulia, Albă ca Zăpada;
+(B) Câmpulung, Delavrancea, Alba-iulia, Albă-ca-zăpada;
+(C) Câmpulung, Delavrancea, Alba lulia, Albă-ca-Zăpada;
+(D) Câmpulung, De la Vrancea, Alba iulia, Albă-Ca-Zăpada.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 445: Nu aparţin aceleiaşi familii lexicale cuvintele din seria:
+Options:
+(A) a luci,a străluci;
+(B) floare, floarea-soarelui;
+(C) a face, facere;
+(D) mână, manufactură.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 451: În enunţul 'Scrie poezii, compune melodii şi îl adoră pe Wagner.', pe lângă alte părţi de propoziţie, există:
+Options:
+(A) trei complemente directe;
+(B) două complemente directe;
+(C) patru complemente directe;
+(D) cinci complemente directe.
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 452: În enunţul 'De vine azi, eu plec mâine.', subiectele sunt, în ordine:
+Options:
+(A) inclus, subînţeles;
+(B) subînţeles, inclus;
+(C) subînţeles, exprimat;
+(D) inclus, exprimat.
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 456: În fraza 'Chiar basme de ar fi câte povesteşte vânătorul, tot se pare că te scuturi la ideea că omului i se cuvine să se joace cu viaţa lui şi a altora.', există, indiferent de ordine, următoarele tipuri de subordonate:
+Options:
+(A) o concesivă, trei subiective, o atributivă;
+(B) o concesivă, o predicativă, două subiective, o atributivă;
+(C) o concesivă, două predicative, o subiectivă, o atributivă;
+(D) o concesivă, o predicativă, o subiectivă, o completivă directă, o atributivă.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 459: Alege seria în care cuvintele sunt despărțite corect în silabe:
+Options:
+(A) ca-fe-gioai-că, via-ţă, jert-fă, a-tlas;
+(B) ca-fe-gi-oai-că, vi-a-ţă, jer-tfă, a-tlas;
+(C) ca-fe-gioai-că, vi-a-ţă, jert-fă, a-tlas;
+(D) ca-fe-gioai-că, via-ţă, jer-tfă, at-las;
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 464: Nu aparţin aceleiaşi familii lexicale cuvintele din seria:
+Options:
+(A) a luci,a străluci;
+(B) floare, floarea-soarelui;
+(C) a face, facere;
+(D) mână, manufactură.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 467: Sunt corect scrise toate cuvintele formate prin compunere, din seria:
+Options:
+(A) Câmpu lung, de la Vrancea, Alba-Iulia, Albă ca Zăpada;
+(B) Câmpulung, Delavrancea, Alba-iulia, Albă-ca-zăpada;
+(C) Câmpulung, Delavrancea, Alba Iulia, Albă-ca-Zăpada;
+(D) Câmpulung, De la Vrancea, Alba iulia, Albă-Ca-Zăpada.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 468: În enunţul 'De vine azi, eu plec mâine.', subiectele sunt, în ordine:
+Options:
+(A) inclus, subînţeles;
+(B) subînţeles, inclus;
+(C) subînţeles, exprimat;
+(D) inclus, exprimat.
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 469: În enunţul 'Scrie poezii, compune melodii şi îl adoră pe Wagner.', pe lângă alte părţi de propoziţie, există:
+Options:
+(A) trei complemente directe;
+(B) două complemente directe;
+(C) patru complemente directe;
+(D) cinci complemente directe.
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 475: În fraza 'Chiar basme de ar fi câte povesteşte vânătorul, tot se pare că te scuturi la ideea că omului i se cuvine să se joace cu viaţa lui şi a altora.', există, indiferent de ordine, următoarele tipuri de subordonate:
+Options:
+(A) o concesivă, trei subiective, o atributivă;
+(B) o concesivă, o predicativă, două subiective, o atributivă;
+(C) o concesivă, două predicative, o subiectivă, o atributivă;
+(D) o concesivă, o predicativă, o subiectivă, o completivă directă, o atributivă.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 476: Alege seria în care cuvintele sunt despărțite corect în silabe:
+Options:
+(A) de-lin-event, boj-de-u-că, o-blon, con-ti-nu-u;
+(B) de-linc-vent, boj-de-u-că, o-blon, con-ti-nuu;
+(C) de-lin-cvent, boj-deu-că, o-blon, con-ti-nu-u;
+(D) de-linc-vent, boj-de-u-că, o-blon, con-ti-nu-u.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 479: Fac parte din fondul principal lexical toate cuvintele din seria:
+Options:
+(A) sare, verde, iarbă, tristeţe;
+(B) bărbat, copil, harnic, matale;
+(C) madame, păr, mouse, râu;
+(D) cip, sare, copil, acum.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 485: În fraza 'Nu-mi place că trebuie să-ţi aduc mereu aminte de ce ai venit aici.', există, indiferent de ordine, următoarele tipuri de subordonate:
+Options:
+(A) două subiective şi o completivă indirectă;
+(B) o subiectivă, o completivă directă şi o completivă indirectă;
+(C) două subiective și o completivă directă;
+(D) o subiectivă şi două completive indirecte.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 486: În fraza 'În cazul că vii, anunţă-mă.', propoziţia subordonată este:
+Options:
+(A) atributivă;
+(B) subiectivă;
+(C) predicativă;
+(D) completivă indirectă.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 489: În fraza 'Du-te de te culcă!', propoziţia subordonată este:
+Options:
+(A) circumstanţială de scop;
+(B) subiectivă;
+(C) condiţională
+(D) consecutivă.
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 491: Alege seria în care cuvintele sunt despărțite corect în silabe:
+Options:
+(A) de-lin-cvent, boj-de-u-că, o-blon, con-ti-nu-u;
+(B) de-linc-vent, boj-de-u-că, o-blon, con-ti-nuu;
+(C) de-lin-cvent, boj-deu-că, o-blon, con-ti-nu-u;
+(D) de-linc-vent, boj-de-u-că, o-blon, con-ti-nu-u.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 497: Fac parte din fondul principal lexical toate cuvintele din seria:
+Options:
+(A) sare, verde, iarbă, tristeţe;
+(B) bărbat, copil, harnic, matale;
+(C) madame, păr, mouse, râu;
+(D) cip, sare, copil, acum.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 501: În fraza 'Nu-mi place că trebuie să-ţi aduc mereu aminte de ce ai venit aici.', există, indiferent de ordine, următoarele tipuri de subordonate:
+Options:
+(A) două subiective şi o completivă indirectă;
+(B) o subiectivă, o completivă directă şi o completivă indirectă;
+(C) două subiective şi o completivă directă;
+(D) o subiectivă şi două completive indirecte.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 502: În traza 'Du-te de te culcă!', propoziţia subordonată este:
+Options:
+(A) circumstanţială de scop;
+(B) subiectivă;
+(C) condiţională;
+(D) consecutivă.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 504: În fraza 'În cazul că vii, anunță-mă.', propoziţia subordonată este:
+Options:
+(A) atributivă;
+(B) subiectivă;
+(C) predicativă;
+(D) completivă indirectă.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 508: Indică seria care conţine numai vocale:
+Options:
+(A) a,e,i,o,u;
+(B) a,ă,î,â;
+(C) e,i,o,u;
+(D) ă,î,â,e,i.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 520: Marcaţi interpretarea corectă a structurii frazei: Ori că s-a supărat ori că n-a avut timp de n-a venit, nu mă interesează.
+Options:
+(A) subiectivă + subiectivă + consecutivă + principală ;
+(B) completivă directă + completivă indirectă + consecutivă + principală;
+(C) completivă indirectă + completivă indirectă + concesivă + principală;
+(D) completivă directă + completivă directă + concesivă + principală.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 524: În fraza: La întâlnire s-a făcut cum e varul, propoziţia subordonată este :
+Options:
+(A) predicativă
+(B) circumstanţială de mod;
+(C) atributivă;
+(D) circumstanţială de timp.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 525: Marcaţi interpretarea corectă a structurii frazei: A fost greu de intuit când vă întoarceţi, încât, văzând că nu reveniţi la noi, am plecat.
+Options:
+(A) principală +subiectivă + completivă directă + consecutivă;
+(B) principală + subiectivă + completivă directă + predicativă;
+(C) principală +completivă directă + completivă directă + consecutivă;
+(D) principală +consecutivă+atributivă + predicativă.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 543: Paronimul este corect utilizat în:
+Options:
+(A) Îmi era familial locul acela.;
+(B) Tata este funcțional la primărie.;
+(C) I-a fost cerut libretul militar.;
+(D) S-au destins la petrecere.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 552: În enunţul 'Dorinţa-mi de a te întâlni o simt cu toată fiinţa mea în fiecare clipă în care eşti departe de mine.' există:
+Options:
+(A) cinci pronume;
+(B) şase pronume;
+(C) şapte pronume;
+(D) opt pronume.
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 558: În enunțurile 'Pisica este sub masă', 'Nu era corect răspunsul', 'Filmul era urmărit cu interes.', verbul 'a fi' este, în ordine:
+Options:
+(A) predicativ, copulativ, auxiliar,
+(B) copulativ, copulativ, copulativ;
+(C) copulativ, auxiliar, auxiliar;
+(D) predicativ, copulativ, copulativ.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 566: În enunţul 'Locuind cu mine, vei putea înțelege plăcerea mea de a studia acest domeniu.' există:
+Options:
+(A) patru predicate;
+(B) trei predicate;
+(C) două predicate;
+(D) un predicat.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 567: În enunţul 'Toate colegele mele de clasă au participat la concursul de frumusețe de la Piteşti.' există:
+Options:
+(A) cinci atribute;
+(B) patru atribute;
+(C) trei atribute;
+(D) două atribute.
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 569: În enunţul 'Toţi au rămas surprinşi că am fost lăudaţi.' există, în ordine:
+Options:
+(A) predicat verbal, predicat verbal;
+(B) predicat nominal, predicat nominal;
+(C) predicat verbal, predicat nominal;
+(D) predicat nominal, predicat verbal.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 571: Adverbul 'este' predicat verbal în enunţul:
+Options:
+(A) Poate că voi veni la tine.;
+(B) Este clar că ai greșit.
+(C) Evident că nu ai dreptate.;
+(D) Numai tu ești capabil de a înțelege.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 580: Subordonatele din enunţul 'Dându-și seama că a greșit, a luat hotărârea să plece.' sunt, în ordine:
+Options:
+(A) completivă directă, completivă directă;
+(B) circumstanţială de cauză, atributivă;
+(C) circumstanțială de cauză, completivă directă;
+(D) completivă indirectă, atributivă.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 584: Conţin vocale în hiat toate cuvintele din seria:
+Options:
+(A) aer, mioritic, croitor;
+(B) pieton, tătăroaică, gălbui;
+(C) biolog, oaie, tăiai;
+(D) gaică, scriere, hârtie.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 586: Sunt corect despărțite în silabe toate cuvintele din seria:
+Options:
+(A) piu-li-ță, jert-fă, om-le-tă;
+(B) sin-tac-tic, re-gio-nal, a-fri-cam;
+(C) po-ves-te, ma-iou, ob-lic;
+(D) sculp-tor, o-biec-tiv, o-glin-dă.
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 593: Indică enunţul în care cuvântul braţ are sens secundar:
+Options:
+(A) Braţul legii este scurt;
+(B) Brațul Dunării este navigabil;
+(C) Mă doare braţul stâng;
+(D) Mi-am rupt brațul.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 596: Aparțin familiei lexicale a cuvântului 'floare' toți termenii din seria:
+Options:
+(A) florar, înfloritoare, florărie;
+(B) florăreasă, (a) înflori, florilegiu;
+(C) floricică, înflorit, floretă;
+(D) înfloritură, (a) înflora, floretist.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 603: Acordul este realizat corect în toate structurile din seria:
+Options:
+(A) poeţi ale căror opere, părinte ai cărui copii;
+(B) vedete a căror faimă, munţi ai căror înălţime;
+(C) lac al cărei limpezime, voce al cărei timbru;
+(D) elevi ai căror rezultate, casă a cărei acoperiş.
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 605: Verbul 'a fi' are valoare predicativă în enunţul:
+Options:
+(A) Casa este înaltă;
+(B) Romanul este scris de Mihail Sadoveanu;
+(C) Aș fi vrut mai mult de la tine;
+(D) Meciul a fost ieri.
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 610: Propoziţiile subordonate din fraza 'Mă pricep eu tare bine la ce ar trebui să fac.' sunt, în ordine:
+Options:
+(A) completivă indirectă, subiectivă;
+(B) completivă directă, subiectivă;
+(C) completivă indirectă, completivă directă;
+(D) completivă directă, completivă directă.
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 660: Indică soluţia corectă de analiză a frazei: După ce am făcut atâta scandal, rămâne să vedem cine va rezolva conflictul.
+Options:
+(A) circumstanţială de timp, principală, subiectivă, completivă directă
+(B) circumstanţială de cauză, principală, completivă directă, subiectivă
+(C) circumstanţială de cauză, principală, completivă directă, completivă directă
+(D) circumstanțială de timp, principală, completivă directă, completivă directă
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 662: În fraza 'Dacă s-a mirat, aceasta a fost pentru că nu a înțeles.', există următoarea succesiune de propozi
+Options:
+(A) circumstanţială condiţională, principală, predicativă
+(B) subiectivă, principală, circumstanţială de cauză
+(C) subiectivă, principală, predicativă
+(D) circumstanţială condiţională, principală, circumstanţială finală (de scop)
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 667: Acordul predicatului verbal cu un subiect multiplu este realizat corect în enunţul:
+Options:
+(A) Nu el, ci ei a venit.
+(B) El şi aceasta citeşte.
+(C) Nici el, nici ea n-a venit.
+(D) Maria sau Ion a sosit?
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 669: Precizează seria în care toate cuvintele conţin triftong:
+Options:
+(A) leoaică, aripioară, inimioară, eu.
+(B) mioară, ghiozdan, surioară, vioară.
+(C) Gheorghe, gherghef, leoaică, grecoaică.
+(D) ploioasă, voioasă, ea, gheaţă.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 670: Marchează răspunsul corect pentru următoarea serie de cuvinte: 'el, ea, munceau, autocrat', având în vedere normele lingvistice în vigoare:
+Options:
+(A) diftong, diftong, diftong, hiat;
+(B) diftong, triftong, triftong, hiat;
+(C) diftong, triftong, diftong, diftong;
+(D) diftong, hiat, triftong, hiat.
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 671: Alege seria în care adjectivele de întărire sunt folosite corect:
+Options:
+(A) ei însuşi, voi înşivă, ele înseşi.
+(B) Noi înşine, ţie înseţi, ele înseşi.
+(C) Înşişi oamenii, însăşi faptul, ele înseși.
+(D) Eu însumi, ei însuşi, voi înşivă.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 673: Marchează varianta în care cuvântul 'lui' are valoare de articol.
+Options:
+(A) Culoarea ochilor lui fascina pe toată lumea.
+(B) Ți-am spus să-i dai cartea lui Andrei?
+(C) Lui îi ceri cartea?
+(D) Vorbele lui tăioase ne supărau.
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 674: Precizează numărul verbelor la mod nepersonal din enunţul: Vom răspunde ştiind foarte bine ce este de făcut, fără a cădea în sminteala de a o defini.
+Options:
+(A) două
+(B) patru
+(C) trei
+(D) unu
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 678: Alege subiectiva dintre subordonatele introduse prin 'să':
+Options:
+(A) Să ştie că o chemaţi, ar veni repede;
+(B) Dorea să ştie dacă veniţi;
+(C) Ideea să plece o fiământa permanent;
+(D) Îi venea să renunţe, dar muncise prea mult.
+Correct: d | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 683: Precizează funcţia sintactică pe care nu o poate avea un verb la modul supin:
+Options:
+(A) subiect
+(B) atribut adjectival
+(C) . complement circumstanţial de scop
+(D) nume predicativ
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 689: Precizează care este rădăcina cuvântului: desființare.
+Options:
+(A) fiinţa-
+(B) fiinţ-
+(C) fi-
+(D) desfiinţ-
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 691: Alege seria care conţine exclusiv cuvinte polisemantice:
+Options:
+(A) cot, cap, tort, ţol ;
+(B) cord, mână, ochi, albastru;
+(C) . automobil, afix, identitate, corespondenţă;
+(D) ireal, fantastic, imaginar.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 703: Conţine doar cuvinte scrise corect seria:
+Options:
+(A) repercusiune, paradiziac, păianjăn, vrăjmaş
+(B) repercursiune, paradisiac, păianjen, vrăjmaş
+(C) repercusiune, paradisiac, păianjăn, vrăşmaş
+(D) repercusiune, paradiziac, păianjen, vrăjmaş
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 716: Alegeţi varianta care conţine doar forme corecte de plural:
+Options:
+(A) pagode, paloşe, panacee, muzee;
+(B) pagozi, paloşuri, panaceuri, muzeuri;
+(C) pagode, paloşuri, panacee, muzee;
+(D) pagode, paloşe, panaceuri, muzee
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 732: Sunt admise de norma literară actuală:
+Options:
+(A) numai formele: analoagă, omoloagă
+(B) numai formele: analogă, omologă
+(C) analoagă şi analogă, omoloagă şi omologă, în variaţie liberă
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 738: Indicaţi seria în care ambele enunţuri sunt corecte:
+Options:
+(A) Din punctul de vedere al studenţilor, examenul a fost dificil. Din punct de vedere legal, avea dreptate.
+(B) Din punct de vedere al studenților, examenul a fost dificil. Din punctul de vedere legal, avea dreptate.
+(C) Din punct de vedere al studenţilor, examenul a fost dificil. Din punct de vedere legal, avea dreptate.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 739: Indicaţi seria în care toate enunţurile sunt corecte:
+Options:
+(A) A vorbit în calitate de preşedinte a partidului. Încercările de îmbunătăţire ale situaţiei au eșuat. La reuniune au participat reprezentanţi a 21 de state
+(B) A vorbit în calitate de preşedinte al partidului. Încercările de îmbunătăţire a situaţiei au eșuat. La reuniune au participat reprezentanți a 21 de state
+(C) A vorbit în calitate de preşedinte al partidului. Încercările de îmbunătăţire a situaţiei au eşuat. La reuniune au participat reprezentanţi ai 21 de state
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 743: Indicaţi seria în care toate enunţurile sunt corecte:
+Options:
+(A) Fata însuşi a auzit. Postul de director al Agenţiei Naţionale de Mediu a fost preluată de lon Popescu.  Acestea sunt rezultatele campaniei desfăşurată de noi
+(B) Fata însuşi a auzit. Postul de director al Agenţiei Naţionale de Mediu a fost preluat de lon Popescu.  Acestea sunt rezultatele campaniei desfăşurată de noi
+(C) Fata însăşi a auzit. Postul de director al Agenţiei Naţionale de Mediu a fost preluat de lon Popescu.  Acestea sunt rezultatele campaniei desfăşurate de noi
+Correct: c_ | Geminis: c
+--------------------------------------------------
+
+Question 749: Enunţul care conţine două cuvinte obţinute prin schimbarea valorii gramaticale este:
+Options:
+(A) Era o actriță apreciată pretutindeni
+(B) Examenul pare dificil
+(C) Romanul citit nu i-a plăcut
+(D) Toată lumea are un of
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 754: Formele corecte de plural ale substantivelor care lipsesc din enunţurile: (1) Uneori, bătrâna ghicea viitorul în ... și (2) Balaurul avea trei ... sunt:
+Options:
+(A) boabe şi capete;
+(B) bobi şi capete;
+(C) boburi şi capi;
+(D) bobi şi capuri
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 759: Fie enunţurile: (1) Părerea lui nu contează. (2) Cadoul lui m-a impresionat. (3) În luna lui ianuarie se anunţă ger. (4) Atât lui Carmen, căt şi lui Catrinel le plac sporturile de iarnă. Cuvântul lui este articol hotărât:
+Options:
+(A) doar în (1);
+(B) în (1) şi (2);
+(C) în (3) şi (4);
+(D) în toate enunţurile
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 761: În enunţul 7e-am aşteptat să vii cu părinţii tăi pe la noi. „ există:
+Options:
+(A) un pronume;
+(B) două pronume;
+(C) trei pronume;
+(D) patru pronume
+Correct: _ | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 762: Forma de dativ a numeralului colectiv este utilizată corect în enunţul:
+Options:
+(A) Amândoura le-am transmis felicitări
+(B) A apreciat intervenţiile amândorur
+(C) dummy
+(D) dummy
+Correct: _ | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 763: Enunţul care conţine un numeral utilizat corect este:
+Options:
+(A) Am doar optsprezece ani
+(B) Am doar optisprezece ani
+(C) Am doar optşpe ani
+(D) Am doar optusprezece ani
+Correct: _ | Geminis: a
+--------------------------------------------------
+
+Question 764: Fie secvențele: (/) clasa întăi, (2) întâi februarie, (3) unu februarie, (4) orele 7. Sunt corecte:
+Options:
+(A) (1) şi (2);
+(B) (2) şi (3);
+(C) toate;
+(D) niciun
+Correct: _ | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 773: Este utilizată corect virgula în enunţul:
+Options:
+(A) Mi-a zis că vine, dar nu ştie cân
+(B) Pleci, sau rămâi?
+(C) Ioana, Cristina, şi Angela sunt prietenele mele
+(D) Mănânci dulciuri, ori ţii dietă?
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 775: De este prepoziţie în enunţul:
+Options:
+(A) De mă vei căuta, ştii unde mă găseşti
+(B) De, ai putea învăța mai mult!
+(C) Era atât de fiumoasă, de nu te puteai uita la ea
+(D) Nouă, celor de la oraș, ne plave agricultura duminică.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 778: Conţine două atribute substantivale enunţul:
+Options:
+(A) Doctorul Popescu este în camera de gardă
+(B) În parcul de lângă şcoală şi-a făcut cuib o turturică
+(C) Marele premiu i-a fost acordat celui mai bun dintre noi
+(D) Vii şi tu cu noi la mare anul acesta?
+Correct: a | Gemini flash2.0: b  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 785: Reprezintă o propoziţie simplă enunţul:
+Options:
+(A) A început ora de română
+(B) Eşti bine şi sănătoasă
+(C) Toamna plouă mult
+(D) Vine negreșit
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 790: Propoziția subordonată din fraza 'Vreau ca mâine să mergem împreună.' este introdusă prin:
+Options:
+(A) ca
+(B) ca să
+(C) să
+(D) mâine
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 792: În fraza 'Înainte de a trage o concluzie, dă-i întotdeauna şansa de a se explica celui care se află într-o situație dificilă, pentru că judecăţile pripite se dovedesc, de cele mai multe ori, periculoase', există:
+Options:
+(A) o propoziţie subordonată;
+(B) două propoziţii subordonate;
+(C) trei propoziţii subordonate;
+(D) patru propoziții subordonate
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 794: Fraza 'De se va intoarce la vechiul loc de muncă, spune-i să nu se mai țină de aceleaşi prostii, ca să nu fie concediat încă o dată.' are următoarea structură:
+Options:
+(A) circumstanţială concesivă + principală + completivă indirectă + circumstanţială de scop;
+(B) circumstanţială condiţională + principală + completivă indirectă + circumstanţială de scop;
+(C) circumstanţială consecutivă + principală + completivă directă + circumstanţială de cauză;
+(D) circumstanţială condiţională + principală + completivă directă + circumstanţială de scop
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 805: În propoziția 'Niște suspecți nu se regăsesc în lista respectivă', cuvântul 'niște' este:
+Options:
+(A) articol nehotărât;
+(B) pronume nehotărât;
+(C) adjectiv pronominal nehotărât;
+(D) prepoziție
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 810: Este folosită corect forma de genitiv în structura:
+Options:
+(A) casa lui mama
+(B) odaia bunicei
+(C) ferestrele hotelelor
+(D) gura văii
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 823: În enunţul 'De teama pedepsei s-a ascuns în podul casei' există:
+Options:
+(A) un complement indirect şi două atribute substantivale;
+(B) un complement circumstanţial de cauză şi un atribut substantival;
+(C) un complement circumstanţial de cauză şi două atribute substantivale;
+(D) două complemente indirecte şi un atribut substantival
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 824: Conţine un atribut pronominal propoziţia:
+Options:
+(A) Răbdarea lui Mihai este limitată
+(B) Părerea lui este apreciată de colegii mei
+(C) I-a acordat toată încrederea doar lui
+(D) Lui i se cuvin toate laudele
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 833: Fraza 'Să ştii că mă mir cum reuşeşti mereu să câştigi' conţine, în ordine:
+Options:
+(A) o propoziţie subordonată circumstanţială de scop, o subordonată completivă directă, o subordonată circumstanţială de mod şi o subordonată completivă directă;
+(B) o propoziţie principală, o subordonată completivă directă, o subordonată circumstanțială de mod şi o subordonată completivă directă;
+(C) o propoziţie principală, o subordonată completivă directă, o subordonată completivă indirectă şi o subordonată completivă directă;
+(D) o propoziţie principală, o subordonată subiectivă, o subordonată circumstanțială de mod şi o subordonată completivă directă
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 839: Există o propoziție subordonată subiectivă şi o circumstanţială de timp în textul:
+Options:
+(A) Nu trebuie să renunţi la luptă, ca să nu fii acuzat de laşitate
+(B) I se pare potrivit să candideze pentru această funcţie ori de câte ori îl propun colegii
+(C) Şi-a propus să participe la examene atunci când se va simți pregătit
+(D) În timp ce alții învățau, obişnuia să se delecteze plimbându-se
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 846: Sunt sinonime toate cuvintele din seria:
+Options:
+(A) umed, jilav, îmbibat, apos;
+(B) fleacuri, nimicuri, mărunţişuri, neanturi;
+(C) aparent, iluzoriu, nepotrivit, imaginar
+(D) farmec, magie, vrajă, parfum
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 853: Enunţul care conţine două erori ortografice este:
+Options:
+(A) Și-a găsit un serviciu mai bun de cât cel pe care-l avusese
+(B) Și-a găsit un servici mai bun de cât cel pe care l-a avut.
+(C) Și-a găsit un servici mai bun decât cel pe care l-a avut
+(D) Își găsii un servici mai bun decât cel care l-avusese
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 856: Există doar o singură eroare în enunţul:
+Options:
+(A) A-ţi fi de acord cu propunerea mea?
+(B) A-ți fii de acord cu propunerea mea?
+(C) A-Ți fii de-acord cu propunerea mea?
+(D) A-ţi fii deacord cu propunerea mea?
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 860: Este scris corect enunţul:
+Options:
+(A) — Nu zice nimic despre acei codri aurii!
+(B) — Nu zice nimic despre acei codrii aurii!
+(C) — Nu zi nimic despre acei codri aurii!
+(D) — Nu zi nimic despre acei codrii aurii!
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 863: În versurile 'Și sufletul bea raze cântând de bucurie/Sub soarele ce suie din ce în ce urcuşul...' există:
+Options:
+(A) două propoziţii principale, o propoziţie subordonată atributivă
+(B) o propoziție subordonată circumstanțială de mod, o propoziţie subordonată circumstanţială de loc
+(C) o propoziţie principală, o propoziţie subordonată circumstanţială de loc
+(D) o propoziţie principală, o propoziţie subordonată atributivă
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 864: Numărul literelor este diferit de numărul sunetelor în toate cuvintele din seria:
+Options:
+(A) ceasuri, acelaşi, certam
+(B) eram, atrăgea, întorci
+(C) întortocheate, fiece, ea
+(D) ureche, precis, acestei
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 867: În fraza: 'Începui să-i cunosc de departe, să-l întâlnesc înainte de a ajunge la locul meu, întâi pe-ăla strâmbu care părea atât de bătrân.', există:
+Options:
+(A) o propoziţie principală, două propoziţii completive directe, o propoziţie atributivă
+(B) o propoziţie principală, trei propoziții completive directe, o propoziţie completivă prepozițională
+(C) două propoziţii principale, două propoziții completive directe, o propoziţie atributivă
+(D) două propoziții principale, trei propoziții completive directe, o propoziţie completivă prepozițională
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 875: Cuvintele 'arcuite', 'umbrare', 'rătăcită', 'ceva' s-au format, în ordine, prin:
+Options:
+(A) derivare, derivare, schimbarea valorii gramaticale, schimbarea valorii gramaticale;
+(B) derivare, derivare, schimbarea valorii gramaticale, compunere;
+(C) schimbarea valorii gramaticale, derivare, schimbarea valorii gramaticale, compunere;
+(D) schimbarea valorii gramaticale, schimbarea valorii gramaticale, derivare, compunere
+Correct: c | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 878: În fraza 'Încântată de culorile fluturilor, de gustul zmeurei cu care mă mânjisem toată pe la gură, mergeam voioasă, sărind într-un picior, lăsându-mă pe burtă ca să sorb apa uşoară a vreunui izvor cristalin.', se regăsesc:
+Options:
+(A) o propoziţie principală, o propoziție atributivă, o propoziție circumstanțială de scop;
+(B) o propoziţie principală, o propoziție completivă indirectă, o propoziție circumstanțială de cauză;
+(C) două propoziţii principale, o propoziţie atributivă, o propoziție completivă indirectă;
+(D) trei propoziţii principale, o propoziţie atributivă, o propoziție circumstanțială de cauză
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 879: Măsura versurilor 'În faza unui stejar ce-și rothujea biserica de crengi plecate/Până-n ocolnița cerurilor afunde' este de:
+Options:
+(A) 20 de silabe şi 13 silabe;
+(B) 19 silabe și 12 silabe;
+(C) 20 de silabe și 12 silabe:
+(D) 19 silabe si 14 silabe
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 884: Propozițiile din fraza 'Ți-am atras atenţia şi data trecută să nu te mai agiţi atâta, că doar nu s-a întâmplat nimic grav și, la drept vorbind, chiar așa să fie, o soluție tot trebuie să se găsească în cele din urmă.' sunt, în ordine:
+Options:
+(A) principală + completivă directă + completivă indirectă + circumstanțială concesivă + completivă indirectă + subiectivă
+(B) principală + completivă indirectă + circumstanțială de cauză + circumstanțială concesivă + circumstanțială de cauză + subiectivă
+(C) principală + completivă indirectivă + circumstanțială de cauză + principală(incidentă) + completivă indirectă + subiectivă
+(D) altă interpretare
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 885: Propozițiile din fraza 'Nu trebuie să se afle de către spioni când şi cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla și încă repede.' sunt, în ordine:
+Options:
+(A) principală + subiectivă + subiectivă + subiectivă + principală + subiectivă + subiectivă;
+(B) principală + subiectivă + subiectivă + principală + subiectivă;
+(C) principală + subiectivă + completivă directă + completivă directă + principală;
+(D) altă interpretare
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 889: Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:
+Options:
+(A) —ţi (= pronume personal în cazul dativ, excepție de la subiectul în nominativ);
+(B) propunerea
+(C) inclus
+(D) subînțeles
+Correct: b | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 892: Fie enunţul: 'Din punct de vedere al intereselor noastre, sunteţi de acord, sper, că nu se merită să facem nimic, respectiv ceva care, datorită grabei sau a neglijenţei, să ne aducă prejudicii.' Acesta conţine:
+Options:
+(A) trei greşeli;
+(B) două greşeli;
+(C) o greşeală;
+(D) nicio greşeală
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 893: Fie enunţul: 'Nu ştiu de ce naibii în ultima vreme faci decât prostii, ca şi cum ai avea mintea puţină a copilului acela mic şi răsfăţat de altă dată.'. Acesta conţine:
+Options:
+(A) opt greşeli;
+(B) şapte greşeli;
+(C) cinci greşeli;
+(D) patru greşeli
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 894: Se dau următoarele cuvinte: 'imediat', 'obiect', 'piațetă', 'companion'. Conţin diftongi:
+Options:
+(A) toate;
+(B) numai primul, al doilea şi al treilea
+(C) numai primul, al treilea și al patrulea;
+(D) numail al doilea, al treilea și al patrulea
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 895: Se dau următoarele serii de cuvinte: (1)aleii, oştii, coperții, bandei; (2)aleei, oastei, copertei, benzii; (3)aleei, oastei, coperţii, bandei; (4)aleii, oştii, copertei, benzii. Conţin numai forme corecte de genitiv-dativ articulat:
+Options:
+(A) toate;
+(B) numai prima şi a patra
+(C) numai a doua și a treia
+(D) numai a doua
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 896: Se dau următoarele cuvinte: cuvânt-înainte, post-universitar, mâine-dimineaţă, non-stop. Sunt corect scrise cu cratimă:
+Options:
+(A) toate;
+(B) numai primul şi al patrulea
+(C) toate, în afară de al doilea
+(D) numai primul, al doilea și al patrulea
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 897: Se dau cuvintele: (1) sincer; (2) cinstit; (3) leal; (4) fidel. Sunt sinonime ale cuvântului _loial_:
+Options:
+(A) toate;
+(B) numai primul, al doilea şi al treilea
+(C) numai al treilea și al patrulea
+(D) numai al patrulea
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 900: Sensul cuvântului 'patentat' este:
+Options:
+(A) brevetat;
+(B) notoriu, evident;
+(C) care are o proastă reputaţie;
+(D) toate cele trei sensuri de mai sus
+Correct: d | Geminis: a
+--------------------------------------------------
+
+Question 901: Fie următoarele definiri şi / sau explicări de cuvinte: (1) perioadă de zece zile consecutive; (2) deceniu; (3) perioadă de zece luni consecutive. Care dintre acestea este (sunt) sensul (sensurile) cuvântului 'decadă'?
+Options:
+(A) toate;
+(B) numai prima şi a doua
+(C) numai a doua
+(D) numai a treia
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 904: Se dau următoarele cuvinte: pertinent(1); nepotrivit(2); impertinent(3); incompetent(4). Se poate stabili un raport de antonimie:
+Options:
+(A) numai între (1) şi (2), respectiv între (1) şi (4);
+(B) numai între (1) şi (3);
+(C) numai între (1) şi (2), respectiv între (1) şi (3);
+(D) numai între (1) şi (4)
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 905: Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:
+Options:
+(A) -ţi (=pronume personal în caz dativ, excepție de la subiectul nominativ)
+(B) propunerea
+(C) inclus
+(D) subînțeles
+Correct: b | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 909: În fraza: 'Nu trebuie să se afle de către spioni când și cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla şi încă repede.' propozițiile sunt, în ordine:
+Options:
+(A) principală + subiectivă + subiectivă + subiectivă + principală + subiectivă + subiectivă;
+(B) principală + subiectivă + subiectivă + principală + subiectivă;
+(C) principală + subiectivă + completivă directă + completivă directă + principală;
+(D) altă interpretare
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 913: Se dau enunţurile: (1) _Tot_ pe drum, pe drum, pe drum / Şi la mândra nicidecum... (Folclor) (2) Nu mi-a lăsat nimic, a luat chiar _tot_. (3) Mă caută _tot_ la două săptămâni. (4) În _tot_ ce facem există o rațiune oarecare. Cuvântul subliniat este:
+Options:
+(A) adverb în toate enunțurile
+(B) pronume nehotărât în toate enunţurile
+(C) adverb în (1), (3), (4), pronume nehotărât în (2)
+(D) altă interpretare
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 914: Adjectivele pronominale (fără prepoziţie) pot îndeplini funcţiile sintactice de:
+Options:
+(A) numai atribut adjectival
+(B) numai atribut adjectival şi nume predicativ
+(C) numai atribut adjectival, nume predicativ şi complement necircumstanţial
+(D) numai atribut adjectival, nume predicativ, complement necircumstanţial, şi complement  circumstanțial
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 917: Fie următoarele forme ale verbului 'a fi': (1) nu fi (sigur); (2) fiti (amabil); (3) să nu fii (rău); (4) fii (cuminte); (5) nu fii (agresiv); (6) să nu fi (venit); (7) fi-ţi (bine-venit); (8) fire-ar (să fie); (9) fi-ți-ar (neamul de râs); (10) să nu fii (ajuns la timp). Sunt corect scrise:
+Options:
+(A) numai (1), (2), (3), (4), (6), (8) și (9)
+(B) numai (2), (5), (6) și (10)
+(C) numai (1), (2), (4), (5) şi (7);
+(D) altă interpretare
+Correct: a | Gemini flash2.0: d  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 919: Fie următoarele structuri: (1) caii de cursă ai fermei; (2) omul de casă al directorului; (3) caii de cursă a fermei; (4) omul de casă a directorului. Sunt corecte gramatical:
+Options:
+(A) toate;
+(B) numai (1) şi (2);
+(C) numai (1), (2) şi (4);
+(D) altă interpretare
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 927: Litera x se pronunță [gz] în toate cuvintele din seria:
+Options:
+(A) excursie, axă, examen, exact
+(B) exclama, examina, exista, expansiv
+(C) exalta, exaspera, executiv, exil
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 928: Alegeţi varianta corectă:
+Options:
+(A) pronunțăm şi scriem: aisberg
+(B) pronunțăm: aisberg şi scriem: iceberg
+(C) pronunțăm: aisberg şi scriem: aisberg sau iceberg (ambele grafii fiind acceptate, în variaţie liberă)
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 933: Alegeţi seria corectă:
+Options:
+(A) trotuar, fermoar, patinoar
+(B) trotoar, fermoar, patinoar
+(C) trotuar, fermuar, patinuar
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 941: Alegeţi seria în care toate enunţurile sunt corecte:
+Options:
+(A) Te mai rog odată să-mi spui ce s-a întâmplat! Odată terminat examenul, m-am grăbit să ajung acasă. Ioana a venit odată cu Mihai
+(B) Te mai rog o dată să-mi spui ce s-a întâmplat! Odată terminat examenul, m-am grăbit să ajung acasă. Ioana a venit o dată cu Mihai
+(C) Te mai rog o dată să-mi spui ce s-a întâmplat! Odată terminat examenul, m-am grăbit să ajung acasă. Ioana a venit odată cu Mihai
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 942: Indicaţi seria în care toate enunţurile sunt scrise în conformitate cu norma actuală:
+Options:
+(A) Afară nu se aude niciun zgomot. Nu am nici un frate, nici doi. Nu-mi place nici unul, nici altul
+(B) Afară nu se aude nici un zgomot. Nu am nici un frate, nici doi. Nu-mi place nici unul, nici altul
+(C) Afară nu se aude niciun zgomot. Nu am niciun frate, nici doi. Nu-mi place niciunul, nici altul
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 961: Alegeţi seria in care ambele enunțuri sunt corecte:
+Options:
+(A) Ne întâlniserăm de mai multe ori în acea săptămână. Tu îl cunoscuseşi pe prietenul Ioanei?
+(B) Ne întâlnisem de mai multe ori în acea săptămână. Tu îl cunoscuseți pe prietenul Ioanei?
+(C) Ne întâlniserăm de mai multe ori în acea săptămână. Tu îl cunoscusei pe prietenul Ioanei?
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 965: Alegeţi seria în care ambele enunțuri sunt corecte:
+Options:
+(A) Demonstranţii manifestează paşnic. Colegii manifestă dispreț față de minciună.
+(B) Demonstranții manifestă paşnic. Colegii manifestează dispreț față de minciună.
+(C) Demonstranții manifestă paşnic. Colegii manifestă dispreț față de minciună.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 971: Secvența 'răz-' este prefix în:
+Options:
+(A) răzui
+(B) răzgândi
+(C) război
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 983: Alege varianta care conţine numai forme corecte:
+Options:
+(A) filoloagă, baroacă, economă, grotească;
+(B) filoloagă, barocă, economă, grotescă;
+(C) filologă, barocă, econoamă, grotescă;
+(D) filologă, baroacă, econoamă, grotească.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 984: Identifică seria care conţine numai cuvinte compuse:
+Options:
+(A) hipotensiv, hipodrom, disjunctiv, omenește;
+(B) coate- goale, bună- credință, preşcolar, copilandru;
+(C) binecuvânta, bunăvoință, SNCFR, calofilie;
+(D) gură- cască, ţinere de minte, descentraliza, încât.
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 990: Cuvântul subliniat din enunţul '_Iarna_ trecută am schiat.' este:
+Options:
+(A) adverb de timp
+(B) adverb de mod
+(C) substantiv în acuzativ
+(D) substantiv în nominativ
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 997: În textul: 'Planul de a rămâne cum l-au montat a eşuat.' propoziţiile sunt, în ordine:
+Options:
+(A) principală, predicativă
+(B) principală, completivă directă
+(C) principală, circumstanţială de mod
+(D) principală, atributivă
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 1000: Precizează câte propoziţii are fraza următoare 'Ş-atunci tânărul s-a şi înfăţişat înaintea împăratului, spunându-i de unde, cum, cine şi pentru ce a venit.':
+Options:
+(A) trei
+(B) patru
+(C) cinci
+(D) șase
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 1001: În fraza următoare: Este bine ca tot ce se întâmplă să fie corect. cea de-a doua propoziţie subordonată este:
+Options:
+(A) subiectivă
+(B) predicativă
+(C) atributivă
+(D) completivă directă
+Correct: c | Gemini flash2.0: a  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 1003: Indică enunţul care conţine un predicat verbal:
+Options:
+(A) Era destul de isteţ.
+(B) S-a făcut inginer de nave.
+(C) E uşor de ajuns acolo.
+(D) Cei harnici sunt întotdeauna apreciaţi.
+Correct: d | Gemini flash2.0: b  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 1010: Cuvântul 'dor' din enunţurile: 1) Mi-e dor de tine.; 2) Dorul meu n-are margini.; 3) N-am dor de nimeni.; 4) De dor plânge.; este subiect în:
+Options:
+(A) 1, 3
+(B) 2, 3
+(C) 1, 2
+(D) 3, 4
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 1017: Câte cuvinte sunt formate prin derivare în seria: a remite, multinațional, pocnet, ţigaretă, a ilumina, molar, a submina:
+Options:
+(A) cinci cuvinte;
+(B) patru cuvinte;
+(C) trei cuvinte;
+(D) două cuvinte.
+Correct: d | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 1018: Indică expresia sinonimă pentru unitatea frazeologică 'a lua la trei păzeşte':
+Options:
+(A) a o lua la goană;
+(B) a face cu sare şi piper;
+(C) a da cu căciula în câini;
+(D) a-l scoate din pâine.
+Correct: b | Gemini flash2.0: c  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 1020: Există un dezacord în enunţul:
+Options:
+(A) Autoarea însăşi i-a dat autograful.
+(B) A trimis invitaţii prietenilor cei mai buni.
+(C) Mă bazez mereu pe aceiaşi oameni.
+(D) Blocul a cărui înălțime este de 35 de metri a fost consolidat.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 1025: În structura subliniată din enunţul: 'Nu ştia dacă _are să apuce_ primăvara.'- există:
+Options:
+(A) un verb la indicativ, timpul prezent şi un verb la conjunctiv, timpul prezent;
+(B) un verb la indicativ, timpul viitor;
+(C) un verb la condiţional-optativ, timpul perfect;
+(D) un verb la indicativ, timpul imperfect şi un verb la conjunctiv, timpul prezent.
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 1030: În enunţul: 'Acum ţi-am adus notițele, rămânând să-ţi aduc după-amiază testele.' - subordonata este:
+Options:
+(A) predicativă;
+(B) completivă directă;
+(C) subiectivă;
+(D) completivă indirectă.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 1034: În textul : 'Te uită cum ninge decembre,/ Spre geamuri, iubito, priveşte — / Mai spune s-aducă Jăratic/ Şi focul s-aud cum trosneşte.' (G. Bacovia), există următoarele tipuri de subiect:
+Options:
+(A) subînţeles
+(B) incluse;
+(C) inclus şi subînţeles;
+(D) inclus, subînţeles şi exprimat
+Correct: d | Gemini flash2.0: a  | Gemini 2.0 flash-lite: c
+--------------------------------------------------
+
+Question 1035: Funcţia sintactică a cuvântului subliniat din enunţul 'Din cauza căldurii mi-e _sete_ mereu.' - este:
+Options:
+(A) complement direct;
+(B) atribut substantival;
+(C) nume predicativ;
+(D) subiect.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 1038: În enunţul '_Care_ a fost ultima medie de admitere anul trecut la Frontieră?', cuvântul subliniat este:
+Options:
+(A) subiect;
+(B) nume predicativ;
+(C) complement circumstanţial de mod;
+(D) atribut pronominal.
+Correct: b | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 1039: Există un diftong descendent în cuvântul:
+Options:
+(A) miau;
+(B) mergea;
+(C) oboi;
+(D) asemenea.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 1042: Numărul de sunete din cuvintele: examen, ghețar, ciorchine, unchi, Kenya, ceas, este, în ordine:
+Options:
+(A) 6, 5, 8, 4, 5, 4;
+(B) 7, 5, 7, 3, 5, 3;
+(C) 6, 6, 9, 4, 6, 4;
+(D) 7, 5, 7, 4, 5, 3.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 1047: În enunţul: 'Era un infractor care, fiind periculos, prinderea lui era necesară.' - există:
+Options:
+(A) construcţie incidentă;
+(B) anacolut;
+(C) pleonasm;
+(D) tautologie.
+Correct: b | Geminis: a
+--------------------------------------------------
+
+Question 1050: Indică numărul conjuncţiilor coordonatoare din enunţul: 'A doua zi dimineaţă, iar le-au dat să se spele, i-au ospătat, le-au pus şi-n traistă nişte mere cum nu se mai văzuseră şi le-au urat drum bun'.(G. Bogza)
+Options:
+(A) una
+(B) două;
+(C) trei;
+(D) patru;
+Correct: a | Gemini flash2.0: c  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 1053: În versurile: 'Din ochi clipeşte-ncet cicoarea/ Şi-adoarme-apoi şi ea.'(G. Coşbuc) există:
+Options:
+(A) un adverb
+(B) două adverbe;
+(C) trei adverbe;
+(D) patru adverbe;
+Correct: c | Geminis: b
+--------------------------------------------------
+
+Question 1054: În textul: 'Dar neaflând care este vinovatul și nebizuindu-se în putere a se bate cu toţi, se puse la făcut metanii şi a ne blestema de-i curgea foc din gură'. (I. Creangă), există:
+Options:
+(A) şase verbe predicative şi unul nepredicativ;
+(B) opt verbe predicative;
+(C) trei verbe nepredicative şi cinci nepredicative;
+(D) şapte verbe predicative şi unul nepredicativ.
+Correct: d | Geminis: b
+--------------------------------------------------
+
+Question 1057: Subordonata din fraza:  'Pe măsură ce creştea, se făcea tot mai năzdrăvană.' - este:
+Options:
+(A) atributivă;
+(B) predicativă;
+(C) modală;
+(D) temporală.
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 1060: În fraza: 'A şti să râzi în clipe tragice înseamnă a stăpâni tragicul.' - există:
+Options:
+(A) o predicativă;
+(B) o subiectivă;
+(C) o completivă directă;
+(D) o subiectivă şi o predicativă.
+Correct: c | Geminis: d
+--------------------------------------------------
+
+Question 1061: Propoziția subordonată introdusă prin adverbul relativ „cum' în fraza: „Când îi omul în doi peri, să te fereşti c-atunci e cum îi mai rău'. (I. Creangă) - este:
+Options:
+(A) circumstanţială de mod;
+(B) subiectivă;
+(C) predicativă;
+(D) alt fel de subordonată.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 1062: Precizează numărul atributelor substantivale din versurile: 'Sunt solitarul pustiilor pieţe/ Cu tristele becuri cu pală lumină.' (G. Bacovia):
+Options:
+(A) trei
+(B) patru;
+(C) cinci;
+(D) şase;
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 1066: Sunt corecte toate formele de imperativ din seria:
+Options:
+(A) nu du!, nu fă!, nu zi!;
+(B) nu duce!, nu face!, nu zice!;
+(C) nu du!, nu face!, nu zice!;
+(D) nu du!, nu fă!, nu zi!.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 1074: Alege seria care conţine substantive cu mai multe forme de plural:
+Options:
+(A) cot, corn;
+(B) chibrit, succes;
+(C) parastas, loc;
+(D) nivel, noptieră.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 1079: Adjectivul pronominal de întărire este corect acordat în enunţul:
+Options:
+(A) Ea inseşi m-a rugat să-i dau telefon.
+(B) Tu însuţi vrei să ajungi profesoară.
+(C) Inseşi prietenele tale ţi-au recomandat acest film.
+(D) Însăşi Emil te-a sfătuit să cumperi acest roman.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: a
+--------------------------------------------------
+
+Question 1080: Indică seria care conţine nunai prepoziţii specifice pentru cazul genitiv:
+Options:
+(A) asupra, dedesubtul, contra;
+(B) contrar, conform, inaintea;
+(C) eraţie, datorită, deasupra;
+(D) mulțumită, de-a latul, înlăuntrul.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 1083: Cuvântul subliniat din enunţul 'Camera _ei_ a fost renovată'-este:
+Options:
+(A) pronume posesiv, genitiv;
+(B) adjectiv posesiv, dativ;
+(C) pronume personal, genitiv;
+(D) pronume personal, dativ.
+Correct: c | Geminis: a
+--------------------------------------------------
+
+Question 1084: Nu poate urma subordonată predicativă după regenta:
+Options:
+(A) Mi-ar fi plăcut ...;
+(B) Nu voi părea ...;
+(C) Condiţia ar fi...;
+(D) EL a devenit ...
+Correct: a | Geminis: d
+--------------------------------------------------
+
+Question 1085: În frazele 'Ei pare că nu înţelege' şi 'Pare că nu înţelegi', propoziţiile introduse prin că sunt
+Options:
+(A) amândouă predicative;
+(B) amândouă circumstanţiale de mod;
+(C) amândouă subiective;
+(D) prima predicativă, a doua subiectivă.
+Correct: d | Geminis: c
+--------------------------------------------------
+
+Question 1094: Sunt corect despărțite în silabe toate cuvintele din seria:
+Options:
+(A) ast-ma-tic, ina-dec-vat, a-vi-on;
+(B) ca-blu, iş-lic, arc-tic;
+(C) zme-oai-că, drep-tun-ghi, mu-zeu;
+(D) so-ia, au-di-ţi-e, pri-be-gi.
+Correct: b | Gemini flash2.0: a  | Gemini 2.0 flash-lite: d
+--------------------------------------------------
+
+Question 1096: Numărul de litere şi de sunete din cuvântul auxiliar este:
+Options:
+(A) 8 litere, 9 sunete;
+(B) 8 litere, 8 sunete;
+(C) 8 litere, 10 sunete;
+(D) 9 litere, 8 sunete.
+Correct: a | Geminis: b
+--------------------------------------------------
+
+Question 1100: Indică seria care conţine cuvinte din aceeaşi familie lexicală:
+Options:
+(A) sufletesc, suflet, sufleu;
+(B) om, uman, omenesc;
+(C) drept, nedrept, dreptunghi;
+(D) floare, florilegiu, florar.
+Correct: c | Gemini flash2.0: d  | Gemini 2.0 flash-lite: b
+--------------------------------------------------
+
+Question 1103: Indică enunţul în care nu există verb predicativ:
+Options:
+(A) Ei este pictor.
+(B) Cartea este o sută de lei.
+(C) Ei este în excursie.
+(D) Ei este din Ardeal.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 1111: Indică enunţul în care există verb la diateza reflexivă:
+Options:
+(A) Îşi cumpărase lucruri noi.
+(B) Mă uitam pe geam cum plouă.
+(C) Ea le zâmbeşte tuturor.
+(D) Ei îşi vorbesc.
+Correct: b | Geminis: d
+--------------------------------------------------
+
+Question 1115: Analiza corectă a fazei 'Dacă spune adevărul înseamnă că îl va întrista' -este
+Options:
+(A) subiectivă, principală, predicativă;
+(B) condiţională, principală, predicativă;
+(C) condiţională, principală, completivă directă;
+(D) subiectivă, principală, completivă directă.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 1119: În enunţul 'Nu s-a hotărât nimic _definitiv_ în ceea ce te priveşte'- cuvântul subliniat are funcție sintactică de:
+Options:
+(A) complement circumstanţial de mod;
+(B) atribut adjectival;
+(C) atribut adverbial;
+(D) atribut substantival.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 1128: Norma literară acceptă, ca formă de singular:
+Options:
+(A) numai biscuit;
+(B) numai biscuite;
+(C) atât biscuit, cât şi biscuite.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 1139: Varianta corectă este:
+Options:
+(A) Dacă va merge, va mers.
+(B) Dacă v-a merge, v-a mers.
+(C) Dacă va merge, v-a mers.
+Correct: b | Geminis: c
+--------------------------------------------------
+
+Question 1146: Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului rumoare este:
+Options:
+(A) numai rumorii;
+(B) numai rumoarei;
+(C) atât rumorii, cât şi rumoarei.
+Correct: a | Geminis: c
+--------------------------------------------------
+
+Question 1147: Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului ciocolată este:
+Options:
+(A) numai ciocolatei;
+(B) numai ciocolăţii;
+(C) atât ciocolatei, cât şi ciocolăţii.
+Correct: a | Geminis: c
+--------------------------------------------------

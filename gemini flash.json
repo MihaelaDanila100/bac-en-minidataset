@@ -1,0 +1,2897 @@
+[
+  {
+    "id": "1",
+    "error": "Incorrect answer",
+    "question": "Verbul 'a absolvi' este utilizat corect în enunțul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "4",
+    "error": "Incorrect answer",
+    "question": "Un sinonim potrivit pentru termenul 'abuziv' este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "6",
+    "error": "Incorrect answer",
+    "question": "Expresia 'a face de petrecanie' are sensul:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "8",
+    "error": "Incorrect answer",
+    "question": "Enunțul 'În zona de risc major, indicată de numeroasele statistici ale poliției, sunt greu de eradicat complet toate infracțiunile.' va fi corect formulat, dacă se elimină cuvântul:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "12",
+    "error": "Incorrect answer",
+    "question": "Termenul 'ierarhie' conține:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "16",
+    "error": "Incorrect answer",
+    "question": "Există un articol nehotărât în enunțul:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "20",
+    "error": "Incorrect answer",
+    "question": "În propoziția 'Eu căutai de multe ori răspunsul la întrebare.', verbul este la timpul:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "21",
+    "error": "Incorrect answer",
+    "question": "Cuvântul 'deschis' are valoare adjectivală în enunțul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "22",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Decizia lui era discutabilă, pentru că nimeni nu-i confirmase acele bănuieli.', există:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "23",
+    "error": "Incorrect answer",
+    "question": "Enunțul 'Decizia neașteptată a fost anunțată în mijlocul evenimentelor' conține:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "25",
+    "error": "Incorrect answer",
+    "question": "Seria care conține în exclusivitate cuvinte terminate la plural în '-url' este:",
+    "correct_answer": "c",
+    "gemini_answer": "none of the provided choices contain words ending in \"-url\" at the plural. therefore, no answer is valid. however, if i am assuming the question is looking for words that *could* have plurals ending in \"-uri\", then the answer would be:\n\nc eseu, eșec, bilanț.\n\neseuri, eșecuri, bilanțuri.\n\nbut given the restrictive language \"exclusivitate cuvinte terminate la plural în '-url'\", the question is flawed.\n\nbecause none of the answers contain words ending in \"-url\", i cannot provide a valid answer."
+  },
+  {
+    "id": "26",
+    "error": "Incorrect answer",
+    "question": "Enunțul 'Legile ... conțiut nu îl cunoști sunt importante.' se completează corect cu forma:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "29",
+    "error": "Incorrect answer",
+    "question": "Fraza care conține un verb la modul infinitiv cu funcția sintactică de subiect este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "32",
+    "error": "Incorrect answer",
+    "question": "Subiectul multiplu din enunțul 'Mirela, Cezar, colegii lui Cezar și înșișși șefii llui Cezar sunt vinovați de încălcarea procedurii' este alcătuit:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "33",
+    "error": "Incorrect answer",
+    "question": "Este corect formulat enunțul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "34",
+    "error": "Incorrect answer",
+    "question": "Fraza 'Am reușit să-l trec strada pe omul acela neajutorat.' conține:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "35",
+    "error": "Incorrect answer",
+    "question": "Propoziția subordonată din fraza 'Se gândea că m-a obosit cu discursul lui.' este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "38",
+    "error": "Incorrect answer",
+    "question": "Este corect formulat enunțul:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "40",
+    "error": "Incorrect answer",
+    "question": "Propozițiile subordonate din fraza 'Până ce împlinești vârsta de 18 ani, ți se va acorda dreptul să primești o alocație, de care beneficiezi lunar.' sunt, în ordine:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "44",
+    "error": "Incorrect answer",
+    "question": "Conține o subordonată completivă directă fraza:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "45",
+    "error": "Incorrect answer",
+    "question": "Elementul regent pentru subordonata din fraza 'Care dintre noi greșise, era, într-adevăr, dificil de ghicit în condițiile date' este:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "46",
+    "error": "Incorrect answer",
+    "question": "Fraza 'Copiii din acel grup de risc sunt predispuși să devină mai repede dependeți de droguri' conține o subordonată:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "50",
+    "error": "Incorrect answer",
+    "question": "Seria cu forme corecte de imperativ, forma negativă, este:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "52",
+    "error": "Incorrect answer",
+    "question": "S-a strecurat o eroare de exprimare în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "53",
+    "error": "Incorrect answer",
+    "question": "Enunţul: Problema lu' Mircea este că propriii angajați iau bani de la concurenţă",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "56",
+    "error": "Incorrect answer",
+    "question": "Enunţul corect este:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "57",
+    "error": "Incorrect answer",
+    "question": "Alege varianta în care toate cuvintele sunt scrise corect:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "60",
+    "error": "Incorrect answer",
+    "question": "Expresia 'a nu-i fi boii acasă' are sensul:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "62",
+    "error": "Incorrect answer",
+    "question": "Fie secvențele: (1) 'temei legal;'; (2) 'diurnă pe zi;'; (3) 'a-și aduce aportul;'; (4) 'alegeri electorale;' (5) 'retrospectiva trecutului'. Dintre acestea, conțin pleonasm:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "66",
+    "error": "Incorrect answer",
+    "question": "Este scris corect cuvântul compus de la punctul:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "67",
+    "error": "Incorrect answer",
+    "question": "Se dau neologismele: (1) 'airbag;'; (2) 'aisberg;'; (3) 'mouse;'; (4) 'show;' (5) 'weekend'. Dintre acestea, conțin pleonasm:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "68",
+    "error": "Incorrect answer",
+    "question": "Fie enunțurile: (1) 'Chelnerul ne-a servit destul.' (2) 'Am servit masa în oraș.' (3) 'Am fost serviți la masă de o chelneriță drăguță.'. Verbul 'a servi' este utilizat corect:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "73",
+    "error": "Incorrect answer",
+    "question": "Cuvântul 'lui' este articol hotărât în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "78",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'M-am reîntâlnit întâmplător cu toți prietenii mei din satul uitat de vreme în acel colț al Transilvaniei', există:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "81",
+    "error": "Incorrect answer",
+    "question": "Cuvântul care este adjectiv pronominal relativ în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "83",
+    "error": "Incorrect answer",
+    "question": "Conţine un pronume interogativ enunţul de la punctul:",
+    "correct_answer": "c",
+    "gemini_answer": "abcd"
+  },
+  {
+    "id": "89",
+    "error": "Incorrect answer",
+    "question": "Se dau enunțurile: (1) 'Privește înainte cu multă încredere!'; (2) 'Îndărătu-i și-nainte-i întuneric se arată.'(Mihai Eminescu); (3) 'Dă-te înapoi!'. Acestea conțin, în total:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "90",
+    "error": "Incorrect answer",
+    "question": "Cuvântul 'și' din enunţul 'Ion și Mihai şi-au exprimat dorința de a veni şi ei cu noi' are, în ordine, următoarele valori morfologice:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "95",
+    "error": "Incorrect answer",
+    "question": "Enunţul care conţine trei atribute se află la punctul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "96",
+    "error": "Incorrect answer",
+    "question": "Enunţul în care există un complement circumstanţial de timp, exprimat prin adverb de timp, se află la punctul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "100",
+    "error": "Incorrect answer",
+    "question": "Conţine două propoziţii subordonate predicative fraza:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "105",
+    "error": "Incorrect answer",
+    "question": "Ultima propoziţie subordonată din fraza 'Unii spun că ar fi bine ca toți candidaţii să fie pregătiți pentru a promova acest examen' este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "106",
+    "error": "Incorrect answer",
+    "question": "Fraza 'Urmează să se stabilească tot ce trebuie să facem pe viitor' conţine următoarele tipuri de subordonate:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "108",
+    "error": "Incorrect answer",
+    "question": "Enunţul: 'Membrii aceleași echipe au participat la conferința pe care au ținut-o acei iluștrii miniștri' conţine :",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "109",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Vrei nu vrea bea  Grigore agheasmă!' lipsesc :",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "110",
+    "error": "Incorrect answer",
+    "question": "Conţine o singură greşeală de ortografie enunţul de la punctul:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "112",
+    "error": "Incorrect answer",
+    "question": "Sunt despărțite corect în silabe toate cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "120",
+    "error": "Incorrect answer",
+    "question": "Precizaţi varianta corectă:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "121",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Ariadna merse la Dedal, cel care construise labirintul; acesta a învăţat-o să-i dea viteazului un ghem de aţă, iar fata a făcut întocmai.' , există:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "124",
+    "error": "Incorrect answer",
+    "question": "În secvenţa: 'Pomii înfloriți răspândeau o mireasmă îmbietoare și plăcută.', există:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "125",
+    "error": "Incorrect answer",
+    "question": "Numărul atributelor din enunţul: 'Cartea citită era bună, iar îngălbenitele pagini îi dădeau copilului o stranie senzaţie care părea totuși plăcută.', este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "131",
+    "error": "Incorrect answer",
+    "question": "Notează seria în care numărul de sunete este egal cu numărul de litere:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "138",
+    "error": "Incorrect answer",
+    "question": "Câte sunete și câte litere sunt în cuvântul 'genuflexiune'?",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "139",
+    "error": "Incorrect answer",
+    "question": "În secvența 'Cu casele: mioare şi turlele: păstori, /Ce-au coborât pe verdea câmpie argeșană/Cu drumul ce-nsoţește înceata caravană/De sălcii plângătoare și plopi pribegitori.'(I. Pillat) există:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "141",
+    "error": "Incorrect answer",
+    "question": "Câte cuvinte formate prin compunere se găsesc în textul: 'Se întreba câteodată care ar fi consecința trecerilor de la o stare la alta. Nu se putea hotări dacă să meargă astăzi, devreme, la Curtea de Argeș, numai pentru a da dovadă de bunăvoință.'",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "142",
+    "error": "Incorrect answer",
+    "question": "Precizează seria care conţine toate cuvintele compuse scrise corect:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "143",
+    "error": "Incorrect answer",
+    "question": "Indică seria în care doar prima formă din fiecare pereche este corectă:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "144",
+    "error": "Incorrect answer",
+    "question": "Sunt scrise corect, conform normelor limbii române literare, toate cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "147",
+    "error": "Incorrect answer",
+    "question": "În enunţul: 'În acea după-amiază, oamenii suferinzi așteptau ajutor de la angajaţii spitalului C.F.R.' există:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "148",
+    "error": "Incorrect answer",
+    "question": "Se dau enunţurile: (1) Și-a depășit frica de eşec după ce a participat la acest concurs. (2) A şi reușit să rezolve toate cerinţele. (3) Echipele de fete și de băieţi așteaptă tragerea la sorți. Cuvântul 'și' are valoarea morfologică de :",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "149",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conţine precizarea corectă a cazurilor adjectivelor din următoarele enunţuri: Mi-a plăcut această prăjitură. Zbaterea valurilor spumegânde mă încântă. Potrivit informaţiilor comunicate, situaţia este sub control.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "151",
+    "error": "Incorrect answer",
+    "question": "Verbul 'a avea' nu are valoare de verb auxiliar în următorul enunț:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "152",
+    "error": "Incorrect answer",
+    "question": "În fraza: 'Desigur că ai aflat ceea ce s-a întâmplat, deși nu mi-am dorit', cea de-a doua propoziţie este:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "153",
+    "error": "Incorrect answer",
+    "question": "Indică fraza care conţine două propoziţii subordonate subiective aflate în raport de coordonare adversativă:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "155",
+    "error": "Incorrect answer",
+    "question": "În textul: 'Firește că ar fi bine să-și vadă fiecare de ale lui şi să nu se mai intereseze de alții, din dorința de a-și ocupa timpul.', există:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "156",
+    "error": "Incorrect answer",
+    "question": "Succesiunea propoziţiilor din fraza: 'Dacă vei reuși la examenul de admitere este meritul tău, dar la fel de adevărat este că trebuie să mulțumești și celor care te-au ajutat.', este",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "157",
+    "error": "Incorrect answer",
+    "question": "Precizează numărul de propoziţii din fraza: 'Solicitarea de a rezolva la timp toate problemele existente i-a dat bătăi de cap și a determinat un val de nemulțumiri care au condus la situaţii neprevăzute şi au împiedicat atingerea obiectivelor.'",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "159",
+    "error": "Incorrect answer",
+    "question": "Precizează numărul complementelor din fraza: 'Ar putea decide cum să procedeze cu proiectul, când va fi întrebat de către superiorii săi.'",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "162",
+    "error": "Incorrect answer",
+    "question": "În secvențele: Sunt asemenea nisipului clepsidrei... (Ana Blandiana), Iarba pare de omăt...(M. Eminescu), Vom rămâne în eternitate/La fel de tineri cum suntem acum...(Ana Blandiana), numele predicative sunt exprimate prin:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "163",
+    "error": "Incorrect answer",
+    "question": "Precizează seria care conţine numărul corect de litere şi de sunete pentru cuvintele: geamgiu, Gheorghe, nicicând, unchi:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "164",
+    "error": "Incorrect answer",
+    "question": "Precizează seria care conţine numărul corect de litere și de sunete pentru cuvintele: chin, cianură, ketchup, xilofon:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "165",
+    "error": "Incorrect answer",
+    "question": "Indică seria de cuvinte care conţine numai triftongi:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "167",
+    "error": "Incorrect answer",
+    "question": "Sensurile următoarelor unități frazeologice a trece în revistă, dintr-un cuvânt sunt, în ordine :",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "169",
+    "error": "Incorrect answer",
+    "question": "Precizează câte cuvinte formate prin procedeul compunerii sunt în seria: așadar, oricum, înflori, întruna, totuşi, unsprezece.",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "170",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conţine numai termeni aparţinând familiei lexicale a cuvântului lapte:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "173",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care adjectivul pronominal de întărire este folosit corect:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "175",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care se găsește un substantiv în cazul genitiv:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "178",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele de plural ale substantivelor din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "181",
+    "error": "Incorrect answer",
+    "question": "Propoziția regentă a subordonatei subiective din fraza următoare este:  'Văzând datele problemei, el trebuie să analizeze în profunzime pentru a ajunge la o soluţie viabilă.'",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "182",
+    "error": "Incorrect answer",
+    "question": "Propoziția subordonată atributivă se află în fraza:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "184",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care se află un subiect nedeterminat:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "186",
+    "error": "Incorrect answer",
+    "question": "Indică numărul complementelor şi al atributelor din enunţul următor:  'Din toate vorbele tale rezultă o neințelegere a fondului problemei care nu se poate rezolva uşor.'",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "187",
+    "error": "Incorrect answer",
+    "question": "Precizează numărul corect al predicatelor din fraza următoare, în funcţie de tipul acestora: 'Fusese scris că e posibil să încerc să ajung medic, dar adevărul e că profesia potrivită mie e alta.'",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "191",
+    "error": "Incorrect answer",
+    "question": "Precizează în câte cuvinte din seria: frânghie, ciur, complice, ciubăr, ciupercă „e' şi „i' sunt litere ajutătoare, nerealizându-se fonetic:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "192",
+    "error": "Incorrect answer",
+    "question": "Nu conţin hiat cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "194",
+    "error": "Incorrect answer",
+    "question": "Precizează seria în care nu sunt cuvinte ce aparțin masei vocabularului:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "196",
+    "error": "Incorrect answer",
+    "question": "Sinonimele neologismelor fortuit şi creponar sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "198",
+    "error": "Incorrect answer",
+    "question": "Enunţul: Ea cumpărase un câine-lup astăzi. conţine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "201",
+    "error": "Incorrect answer",
+    "question": "Cuvintele zaharniţă şi bădăran sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "209",
+    "error": "Incorrect answer",
+    "question": "Elementul de relaţie al propoziției subordonate din fraza: Dau cartea cui doreşte. are funcția sintactică de:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "214",
+    "error": "Incorrect answer",
+    "question": "Cuvântul ceaţă din enunţurile date are, în ordine, următoarele funcții sintactice: Este ceaţă. M-am săturat de ceaţă. Fuioare de ceaţă îmi mângâie faţa.",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "215",
+    "error": "Incorrect answer",
+    "question": "Nu există hiat în toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "217",
+    "error": "Incorrect answer",
+    "question": "Precizează în câte cuvinte din seria următoare „e” şi „i” sunt litere ajutătoare, nerealizându-se fonetic: glucidă, ghimpe, geambaş, ceasornic, cheag:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "218",
+    "error": "Incorrect answer",
+    "question": "În cuvântul cercetaş sunt:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "222",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care este folosit corect neologismul:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "228",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care există o interjecţie predicativă:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "231",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conține numai substantive defective de singular:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "234",
+    "error": "Incorrect answer",
+    "question": "Propoziția intercalată din fraza: Dorinţa să plece la mare era foarte puternică. este:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "238",
+    "error": "Incorrect answer",
+    "question": "Conţin vocale în hiat toate cuvintele din seria de la punctul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "239",
+    "error": "Incorrect answer",
+    "question": "Grupurile ce, ci, ge, gi, che, chi, ghe, ghi notează câte un singur sunet la cuvintele din seria de la punctul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "243",
+    "error": "Incorrect answer",
+    "question": "Nu există pleonasm în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "244",
+    "error": "Incorrect answer",
+    "question": "Sunt compuse toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "247",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "257",
+    "error": "Incorrect answer",
+    "question": "Conţine numai propoziţii subordonate completive indirecte fraza de la punctul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "258",
+    "error": "Incorrect answer",
+    "question": "A doua propoziţie subordonată din fraza 'Acela care se teme de el poate să ajungă la fel de rău.' este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "259",
+    "error": "Incorrect answer",
+    "question": "Pronumele relativ din fraza 'Materia căreia îi acorzi atenţie te va ajuta să îţi atingi obiectivele.' îndeplineşte funcţia sintactică de:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "261",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'I-am întrebat pe toți, dar niciunul nu mi-a putut oferi un răspuns.', există:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "262",
+    "error": "Incorrect answer",
+    "question": "Conţine un predicat verbal exprimat prin adverb predicativ enunţul de la punctul:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "263",
+    "error": "Incorrect answer",
+    "question": "Indică propoziţia în care există un complement necircumstanţial:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "265",
+    "error": "Incorrect answer",
+    "question": "Numele predicativ din enunţul 'A fost apreciat, pentru că a fost în stare să rezolve o sarcină dificilă.' este exprimat prin:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "266",
+    "error": "Incorrect answer",
+    "question": "Grupurile ce, ci, ge, gi, che, chi, ghe, ghi notează câte un singur sunet la cuvintele din seria de la punctul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "268",
+    "error": "Incorrect answer",
+    "question": "Conţin vocale în hiat toate cuvintele din seria de la punctul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "270",
+    "error": "Incorrect answer",
+    "question": "Sunt compuse toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "271",
+    "error": "Incorrect answer",
+    "question": "Sunt derivate toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "273",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "276",
+    "error": "Incorrect answer",
+    "question": "Nu există pleonasm în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "284",
+    "error": "Incorrect answer",
+    "question": "Pronumele relativ din fraza 'Materia căreia îi acorzi atenţie te va ajuta să îţi atingi obiectivele.' îndeplineşte funcţia sintactică de:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "285",
+    "error": "Incorrect answer",
+    "question": "A doua propoziţie subordonată din fraza 'Acela care se teme de el poate să ajungă la fel de rău.' este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "287",
+    "error": "Incorrect answer",
+    "question": "Conţine numai propoziţii subordonate completive indirecte fraza de la punctul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "289",
+    "error": "Incorrect answer",
+    "question": "Conţine un predicat verbal exprimat prin adverb predicativ enunţul de la punctul:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "292",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'I-am întrebat pe toţi, dar niciunul nu mi-a putut oferi un răspuns.' există:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "293",
+    "error": "Incorrect answer",
+    "question": "Numele predicativ din enunţul A fost apreciat, pentru că a fost în stare să rezolve o sarcină dificilă. este exprimat prin:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "295",
+    "error": "Incorrect answer",
+    "question": "Sunt despărțite corect în silabe toate cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "296",
+    "error": "Incorrect answer",
+    "question": "În enunţul: L-am întâlnit într-o conjectură nefavorabilă şi neprielnică. există:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "302",
+    "error": "Incorrect answer",
+    "question": "Nu aparţin aceleiaşi familii lexicale cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "303",
+    "error": "Incorrect answer",
+    "question": "Există o unitate frazeologică în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "305",
+    "error": "Incorrect answer",
+    "question": "Forma verbală corect folosită se regăseşte în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "307",
+    "error": "Incorrect answer",
+    "question": "În enunţul: Nu te ştiu de ieri, de azi, există:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "309",
+    "error": "Incorrect answer",
+    "question": "Există un numeral adverbial în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "314",
+    "error": "Incorrect answer",
+    "question": "În fraza: De mă înţelegi ori nu, mi-e indiferent acum. există:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "316",
+    "error": "Incorrect answer",
+    "question": "În faza: V-am avertizat că nu mă tentează să-mi amân plecarea. cea de-a doua propoziţie subordonată este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "318",
+    "error": "Incorrect answer",
+    "question": "Indicaţi enunţurile în care acordul este corect: 1. Nu mama, ci fiica au primit invitaţie. 2. Eu şi Andrei o să ne plimbăm. 3. Munţii şi podişurile sunt împăduriţi. 4. Ana sau Maria este preferata ta?",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "319",
+    "error": "Incorrect answer",
+    "question": "Există acord prin atracție în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "320",
+    "error": "Incorrect answer",
+    "question": "Sunt despărțite corect în silabe toate cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "327",
+    "error": "Incorrect answer",
+    "question": "Există o unitate frazeologică în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "329",
+    "error": "Incorrect answer",
+    "question": "Nu aparțin aceleiaşi familii lexicale cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "330",
+    "error": "Incorrect answer",
+    "question": "Forma verbală corect folosită se regăsește în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "332",
+    "error": "Incorrect answer",
+    "question": "În enunţul: Nu te ştiu de ieri, de azi, există:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "334",
+    "error": "Incorrect answer",
+    "question": "Există un numeral adverbial în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "338",
+    "error": "Incorrect answer",
+    "question": "În fraza: V-am avertizat că nu mă tentează să-mi amân plecarea. cea de-a doua propoziţie subordonată este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "339",
+    "error": "Incorrect answer",
+    "question": "În fraza: De mă înţelegi ori nu, mi-e indiferent acum. există:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "340",
+    "error": "Incorrect answer",
+    "question": "Există relaţie de coordonare disjunctivă la nivelul propoziției, în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "344",
+    "error": "Incorrect answer",
+    "question": "Indicaţi enunţurile în care acordul este corect: 1.Nu mama, ci fiica au primit invitaţie. 2.Eu şi Andrei o să ne plimbăm. 3.Munţii şi podişurile sunt împăduriţi. 4.Ana sau Maria este preferata ta?",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "346",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care toate cuvintele conţin diftongi:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "351",
+    "error": "Incorrect answer",
+    "question": "În enunţul: Un 'da' arogant este mai deranjant decât un 'nu' sincer. există:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "352",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care cuvintele sunt derivate cu prefixele răz-/ răs-:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "353",
+    "error": "Incorrect answer",
+    "question": "Seria în care nu au formă corectă toate cuvintele, este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "356",
+    "error": "Incorrect answer",
+    "question": "Există un pronume negativ în enunţurile: 1. Nu-ţi face nimic, chiar dacă ai greșit. 2.Niciunui copil nu trebuie să îi lipsească veselia. 3.Nu mă voi împiedica de nimicuri în drumul meu! 4.Nu e nimeni în preajma ta.",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "357",
+    "error": "Incorrect answer",
+    "question": "Cuvântul vară din enunțurile: 1.Vara consumul de energie creşte. 2.Vara trecută am fost la mare cu prietenii. 3.În această vară, vom pleca în concediu în luna august. 4.A trecut vara. este substantiv în:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "364",
+    "error": "Incorrect answer",
+    "question": "În fraza: Tristeţea nu se sfia să şi-o exprime ori de câte ori mă întâlnea. propoziţia principală este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "365",
+    "error": "Incorrect answer",
+    "question": "În fraza: La propunerea ca membrii comisiei să îşi asume responsabilitatea a ceea ce decid, directorul a emis o hotărâre în acest sens. propoziţiile sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "366",
+    "error": "Incorrect answer",
+    "question": "În fraza: Dacă adăugăm că magazinul avea dulciuri, înțelegem alegerea făcută. subordonata circumstanțială este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "367",
+    "error": "Incorrect answer",
+    "question": "Există un subiect multiplu în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "369",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care toate cuvintele conțin diftongi:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "371",
+    "error": "Incorrect answer",
+    "question": "Seria în care nu au formă corectă toate cuvintele, este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "372",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care cuvintele sunt derivate cu prefixele răz-/ răs-:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "373",
+    "error": "Incorrect answer",
+    "question": "În enunţul: Un 'da' arogant este mai deranjant decât un „nu” sincer. există:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "379",
+    "error": "Incorrect answer",
+    "question": "Cuvântul vară din enunțurile: 1.Vara consumul de energie creşte. 2.Vara trecută am fost la mare cu prietenii. 3.În această vară, vom pleca în concediu în luna august. 4-A trecut vara. este substantiv în:",
+    "correct_answer": "_",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "380",
+    "error": "Incorrect answer",
+    "question": "Există un pronume negativ în enunţurile: 1. Nu-ţi face nimic, chiar dacă ai greșit. 2.Niciunui copil nu trebuie să îi lipsească veselia. 3.Nu mă voi împiedica de nimicuri în drumul meu! 4.Nu e nimeni în preajma ta.",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "383",
+    "error": "Incorrect answer",
+    "question": "În fraza: La propunerea ca membrii comisiei să îşi asume responsabilitatea a ceea ce decid, directorul a emis o hotărâre în acest sens. propoziţiile sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "385",
+    "error": "Incorrect answer",
+    "question": "În fraza: Dacă adăugăm că magazinul avea dulciuri, înţelegem alegerea făcută. subordonata circumstanțială este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "389",
+    "error": "Incorrect answer",
+    "question": "Există un subiect multiplu în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "390",
+    "error": "Incorrect answer",
+    "question": "Indică de câte ori litera i notează o semivocală în cuvintele: pomi, ieşea, idee, iau, mei.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "391",
+    "error": "Incorrect answer",
+    "question": "Indică seria în care litera x se pronunţă cs:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "392",
+    "error": "Incorrect answer",
+    "question": "Conţin diftongi toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "394",
+    "error": "Incorrect answer",
+    "question": "Nu este pleonasm construcţia:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "396",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care toate cuvintele sunt neologisme:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "397",
+    "error": "Incorrect answer",
+    "question": "Precizează câte derivate cu prefixul ne- sunt în seria: neghiob, negreală, nelegiuit, neglijare, neîntemeiat, neîntrerupt, negoț, negociere, neînsemnat, neîndemânatic:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "399",
+    "error": "Incorrect answer",
+    "question": "Nu este pleonasm construcţia:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "400",
+    "error": "Incorrect answer",
+    "question": "Indică numărul cuvintelor obţinute prin conversiune din enunţul: Toate sfaturile primite de la părinţii mei îmi vor fi utile peste câţiva ani.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "402",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Și-a luat cărţile acasă', valoarea morfologică a cuvântului 'şi' este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "410",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Gândul că nu mă pot duce cu ei în excursie mă frământă de când am fost anunţată, fiindu-mi imposibil să reacţionez', propoziţiile subordonate sunt:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "413",
+    "error": "Incorrect answer",
+    "question": "Raportul de coordonare disjunctivă se realizează în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "416",
+    "error": "Incorrect answer",
+    "question": "Indică seria în care litera x se pronunţă cs:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "417",
+    "error": "Incorrect answer",
+    "question": "Indică de câte ori litera i notează o semivocală în cuvintele: pomi, ieşea, idee, iau, mei.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "418",
+    "error": "Incorrect answer",
+    "question": "Conţin diftongi toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "419",
+    "error": "Incorrect answer",
+    "question": "Nu este pleonasm construcţia:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "420",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care toate cuvintele sunt neologisme:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "421",
+    "error": "Incorrect answer",
+    "question": "Nu este pleonasm construcţia:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "422",
+    "error": "Incorrect answer",
+    "question": "Aparţin vocabularului fundamental cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "423",
+    "error": "Incorrect answer",
+    "question": "Indică numărul cuvintelor obţinute prin conversiune din enunţul: Toate sfaturile primite de la părinţii mei îmi vor fi utile peste câţiva ani.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "426",
+    "error": "Incorrect answer",
+    "question": "Precizează câte derivate cu prefixul 'ne-' sunt în seria: neghiob, negreală, nelegiuit, neglijare, neîntemeiat, neîntrerupt, negoț, negociere, neînsemnat, neîndemânatic:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "441",
+    "error": "Incorrect answer",
+    "question": "Raportul de coordonare disjunctivă se realizează în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "442",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care cuvintele sunt despărțite corect în silabe:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "444",
+    "error": "Incorrect answer",
+    "question": "Sunt corect scrise toate cuvintele formate prin compunere, din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "445",
+    "error": "Incorrect answer",
+    "question": "Nu aparţin aceleiaşi familii lexicale cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "446",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "451",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Scrie poezii, compune melodii şi îl adoră pe Wagner.', pe lângă alte părţi de propoziţie, există:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "452",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'De vine azi, eu plec mâine.', subiectele sunt, în ordine:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "456",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Chiar basme de ar fi câte povesteşte vânătorul, tot se pare că te scuturi la ideea că omului i se cuvine să se joace cu viaţa lui şi a altora.', există, indiferent de ordine, următoarele tipuri de subordonate:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "459",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care cuvintele sunt despărțite corect în silabe:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "464",
+    "error": "Incorrect answer",
+    "question": "Nu aparţin aceleiaşi familii lexicale cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "465",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "467",
+    "error": "Incorrect answer",
+    "question": "Sunt corect scrise toate cuvintele formate prin compunere, din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "468",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'De vine azi, eu plec mâine.', subiectele sunt, în ordine:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "469",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Scrie poezii, compune melodii şi îl adoră pe Wagner.', pe lângă alte părţi de propoziţie, există:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "475",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Chiar basme de ar fi câte povesteşte vânătorul, tot se pare că te scuturi la ideea că omului i se cuvine să se joace cu viaţa lui şi a altora.', există, indiferent de ordine, următoarele tipuri de subordonate:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "476",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care cuvintele sunt despărțite corect în silabe:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "479",
+    "error": "Incorrect answer",
+    "question": "Fac parte din fondul principal lexical toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "481",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "485",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Nu-mi place că trebuie să-ţi aduc mereu aminte de ce ai venit aici.', există, indiferent de ordine, următoarele tipuri de subordonate:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "486",
+    "error": "Incorrect answer",
+    "question": "În fraza 'În cazul că vii, anunţă-mă.', propoziţia subordonată este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "489",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Du-te de te culcă!', propoziţia subordonată este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "491",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care cuvintele sunt despărțite corect în silabe:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "492",
+    "error": "Incorrect answer",
+    "question": "Fac parte din masa vocabularului toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "497",
+    "error": "Incorrect answer",
+    "question": "Fac parte din fondul principal lexical toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "501",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Nu-mi place că trebuie să-ţi aduc mereu aminte de ce ai venit aici.', există, indiferent de ordine, următoarele tipuri de subordonate:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "502",
+    "error": "Incorrect answer",
+    "question": "În traza 'Du-te de te culcă!', propoziţia subordonată este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "504",
+    "error": "Incorrect answer",
+    "question": "În fraza 'În cazul că vii, anunță-mă.', propoziţia subordonată este:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "508",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conţine numai vocale:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "511",
+    "error": "Incorrect answer",
+    "question": "Indică seria în care toate formele de plural sunt corecte:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "513",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele de genitiv-dativ ale substantivelor din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "515",
+    "error": "Incorrect answer",
+    "question": "Nu acceptă grade de comparaţie niciun adjectiv din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "519",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Chiar adevăruri de-ar fi câte se spun, în unele privinţe, despre tine, este indiscutabil că ai ajuns ceea ce ţi-ai pus în gând şi ai dorit atât de mult numai prin meritele tale, pe care, din păcate, unii ţi le contestă, din când în când, fără motive întemeiate', există:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "520",
+    "error": "Incorrect answer",
+    "question": "Marcaţi interpretarea corectă a structurii frazei: Ori că s-a supărat ori că n-a avut timp de n-a venit, nu mă interesează.",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "524",
+    "error": "Incorrect answer",
+    "question": "În fraza: La întâlnire s-a făcut cum e varul, propoziţia subordonată este :",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "525",
+    "error": "Incorrect answer",
+    "question": "Marcaţi interpretarea corectă a structurii frazei: A fost greu de intuit când vă întoarceţi, încât, văzând că nu reveniţi la noi, am plecat.",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "526",
+    "error": "Incorrect answer",
+    "question": "În traza: Ceea ce-i convenea să se întâmple era ceea ce şi-ar fi dorit toţi, există:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "533",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Toți colegi care i-am întâlnit sunt prietenii noştrii.' sunt:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "539",
+    "error": "Incorrect answer",
+    "question": "În cuvântul 'gherghef' litera e notează:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "542",
+    "error": "Incorrect answer",
+    "question": "Cuvântul monosilabic este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "543",
+    "error": "Incorrect answer",
+    "question": "Paronimul este corect utilizat în:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "545",
+    "error": "Incorrect answer",
+    "question": "Există în enunţul: — Las' că-ți vin eu de hac, când te-oi găsi, zise Făt-Frumos.",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "546",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele verbale din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "548",
+    "error": "Incorrect answer",
+    "question": "În enunţul '— Joana, dacă ești elevă silitoare, vei fi premianta clasei!' există:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "552",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Dorinţa-mi de a te întâlni o simt cu toată fiinţa mea în fiecare clipă în care eşti departe de mine.' există:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "554",
+    "error": "Incorrect answer",
+    "question": "Valoarea morfologică a cuvântului o din enunţul 'O fază citeşte şi alta doarme.' este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "558",
+    "error": "Incorrect answer",
+    "question": "În enunțurile 'Pisica este sub masă', 'Nu era corect răspunsul', 'Filmul era urmărit cu interes.', verbul 'a fi' este, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "566",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Locuind cu mine, vei putea înțelege plăcerea mea de a studia acest domeniu.' există:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "567",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Toate colegele mele de clasă au participat la concursul de frumusețe de la Piteşti.' există:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "569",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Toţi au rămas surprinşi că am fost lăudaţi.' există, în ordine:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "570",
+    "error": "Incorrect answer",
+    "question": "Numele predicativ în cazul genitiv există în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "571",
+    "error": "Incorrect answer",
+    "question": "Adverbul 'este' predicat verbal în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "572",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Este adevărat că trebuie să se afle ceea ce crezi că s-a întâmplat în acea noapte.' există:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "577",
+    "error": "Incorrect answer",
+    "question": "Elementul introductiv al subordonatei din fraza 'L-am descoperit pe cel care furase.' este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "579",
+    "error": "Incorrect answer",
+    "question": "Subordonata din fraza 'Caută a afla răspunsul la întrebările care-l frământă.' este:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "580",
+    "error": "Incorrect answer",
+    "question": "Subordonatele din enunţul 'Dându-și seama că a greșit, a luat hotărârea să plece.' sunt, în ordine:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "583",
+    "error": "Incorrect answer",
+    "question": "Conţin diftongi toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "584",
+    "error": "Incorrect answer",
+    "question": "Conţin vocale în hiat toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "586",
+    "error": "Incorrect answer",
+    "question": "Sunt corect despărțite în silabe toate cuvintele din seria:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "588",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele de plural ale substantivelor din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "589",
+    "error": "Incorrect answer",
+    "question": "Sunt corect scrise toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "593",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care cuvântul braţ are sens secundar:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "596",
+    "error": "Incorrect answer",
+    "question": "Aparțin familiei lexicale a cuvântului 'floare' toți termenii din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "603",
+    "error": "Incorrect answer",
+    "question": "Acordul este realizat corect în toate structurile din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "605",
+    "error": "Incorrect answer",
+    "question": "Verbul 'a fi' are valoare predicativă în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "610",
+    "error": "Incorrect answer",
+    "question": "Propoziţiile subordonate din fraza 'Mă pricep eu tare bine la ce ar trebui să fac.' sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "619",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Mă sfii să zic că propriii fii sunt obraznici.' există:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "631",
+    "error": "Incorrect answer",
+    "question": "Indicaţi pronunţarea şi scrierea corectă în următorul caz:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "643",
+    "error": "Incorrect answer",
+    "question": "Indică seria în care sunetul x se pronunță cs, având în vedere pronunțarea corectă a cuvintelor:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "659",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Orice lucru era ca şi cum nu l-ar fi atins mână de om.' ultima propoziţie este:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "660",
+    "error": "Incorrect answer",
+    "question": "Indică soluţia corectă de analiză a frazei: După ce am făcut atâta scandal, rămâne să vedem cine va rezolva conflictul.",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "662",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Dacă s-a mirat, aceasta a fost pentru că nu a înțeles.', există următoarea succesiune de propozi",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "667",
+    "error": "Incorrect answer",
+    "question": "Acordul predicatului verbal cu un subiect multiplu este realizat corect în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "669",
+    "error": "Incorrect answer",
+    "question": "Precizează seria în care toate cuvintele conţin triftong:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "670",
+    "error": "Incorrect answer",
+    "question": "Marchează răspunsul corect pentru următoarea serie de cuvinte: 'el, ea, munceau, autocrat', având în vedere normele lingvistice în vigoare:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "671",
+    "error": "Incorrect answer",
+    "question": "Alege seria în care adjectivele de întărire sunt folosite corect:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "673",
+    "error": "Incorrect answer",
+    "question": "Marchează varianta în care cuvântul 'lui' are valoare de articol.",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "674",
+    "error": "Incorrect answer",
+    "question": "Precizează numărul verbelor la mod nepersonal din enunţul: Vom răspunde ştiind foarte bine ce este de făcut, fără a cădea în sminteala de a o defini.",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "677",
+    "error": "Incorrect answer",
+    "question": "Precizează valoarea morfologică a elementului care introduce subordonata din fraza: Omul de l-ai văzut e tare bolnav.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "678",
+    "error": "Incorrect answer",
+    "question": "Alege subiectiva dintre subordonatele introduse prin 'să':",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "683",
+    "error": "Incorrect answer",
+    "question": "Precizează funcţia sintactică pe care nu o poate avea un verb la modul supin:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "689",
+    "error": "Incorrect answer",
+    "question": "Precizează care este rădăcina cuvântului: desființare.",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "691",
+    "error": "Incorrect answer",
+    "question": "Alege seria care conţine exclusiv cuvinte polisemantice:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "703",
+    "error": "Incorrect answer",
+    "question": "Conţine doar cuvinte scrise corect seria:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "716",
+    "error": "Incorrect answer",
+    "question": "Alegeţi varianta care conţine doar forme corecte de plural:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "725",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele verbale din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "732",
+    "error": "Incorrect answer",
+    "question": "Sunt admise de norma literară actuală:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "738",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care ambele enunţuri sunt corecte:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "739",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care toate enunţurile sunt corecte:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "740",
+    "error": "Incorrect answer",
+    "question": "Indicaţi varianta corectă:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "743",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care toate enunţurile sunt corecte:",
+    "correct_answer": "c_",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "749",
+    "error": "Incorrect answer",
+    "question": "Enunţul care conţine două cuvinte obţinute prin schimbarea valorii gramaticale este:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "754",
+    "error": "Incorrect answer",
+    "question": "Formele corecte de plural ale substantivelor care lipsesc din enunţurile: (1) Uneori, bătrâna ghicea viitorul în ... și (2) Balaurul avea trei ... sunt:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "756",
+    "error": "Incorrect answer",
+    "question": "Acordul articolului posesiv-genitival este realizat corect în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "759",
+    "error": "Incorrect answer",
+    "question": "Fie enunţurile: (1) Părerea lui nu contează. (2) Cadoul lui m-a impresionat. (3) În luna lui ianuarie se anunţă ger. (4) Atât lui Carmen, căt şi lui Catrinel le plac sporturile de iarnă. Cuvântul lui este articol hotărât:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "761",
+    "error": "Incorrect answer",
+    "question": "În enunţul 7e-am aşteptat să vii cu părinţii tăi pe la noi. „ există:",
+    "correct_answer": "_",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "762",
+    "error": "Incorrect answer",
+    "question": "Forma de dativ a numeralului colectiv este utilizată corect în enunţul:",
+    "correct_answer": "_",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "763",
+    "error": "Incorrect answer",
+    "question": "Enunţul care conţine un numeral utilizat corect este:",
+    "correct_answer": "_",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "764",
+    "error": "Incorrect answer",
+    "question": "Fie secvențele: (/) clasa întăi, (2) întâi februarie, (3) unu februarie, (4) orele 7. Sunt corecte:",
+    "correct_answer": "_",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "768",
+    "error": "Incorrect answer",
+    "question": "Enunţul care conţine verbul utilizat corect este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "773",
+    "error": "Incorrect answer",
+    "question": "Este utilizată corect virgula în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "775",
+    "error": "Incorrect answer",
+    "question": "De este prepoziţie în enunţul:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "778",
+    "error": "Incorrect answer",
+    "question": "Conţine două atribute substantivale enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "785",
+    "error": "Incorrect answer",
+    "question": "Reprezintă o propoziţie simplă enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "788",
+    "error": "Incorrect answer",
+    "question": "Conjuncţia 'şi' coordonează două propoziţii subordonate subiective în fraza:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "790",
+    "error": "Incorrect answer",
+    "question": "Propoziția subordonată din fraza 'Vreau ca mâine să mergem împreună.' este introdusă prin:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "791",
+    "error": "Incorrect answer",
+    "question": "Verbul 'a părea' este termen regent pentru subordonată predicativă în fraza:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "792",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Înainte de a trage o concluzie, dă-i întotdeauna şansa de a se explica celui care se află într-o situație dificilă, pentru că judecăţile pripite se dovedesc, de cele mai multe ori, periculoase', există:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "794",
+    "error": "Incorrect answer",
+    "question": "Fraza 'De se va intoarce la vechiul loc de muncă, spune-i să nu se mai țină de aceleaşi prostii, ca să nu fie concediat încă o dată.' are următoarea structură:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "796",
+    "error": "Error parsing options for Question ID 796: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)",
+    "question": "Propoziția subordonată din fraza 'Spune-i şi tu copilului, măi omule, tot ce trebuie!' are ca termen regent:",
+    "options_string": "{'a': 'verbul predicativ 'spune';', 'b': 'substantivul 'omule';', 'c': 'pronumele nehotărât 'tot', 'd': 'pronumele personal 'tu'}"
+  },
+  {
+    "id": "797",
+    "error": "Incorrect answer",
+    "question": "Este scris corect verbul din enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "799",
+    "error": "Incorrect answer",
+    "question": "Sunt corect despărțite în silabe cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "805",
+    "error": "Incorrect answer",
+    "question": "În propoziția 'Niște suspecți nu se regăsesc în lista respectivă', cuvântul 'niște' este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "810",
+    "error": "Incorrect answer",
+    "question": "Este folosită corect forma de genitiv în structura:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "817",
+    "error": "Incorrect answer",
+    "question": "Este corect utilizat pronumele relativ în fraza:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "822",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Puterea de a nega evidența este des întâlnită', cuvântul 'a nega' are funcţia sintactică de:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "823",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'De teama pedepsei s-a ascuns în podul casei' există:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "824",
+    "error": "Incorrect answer",
+    "question": "Conţine un atribut pronominal propoziţia:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "831",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Hotărârea lui era să urmăm neclintit planul inițial' există o propoziţie subordonată:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "833",
+    "error": "Incorrect answer",
+    "question": "Fraza 'Să ştii că mă mir cum reuşeşti mereu să câştigi' conţine, în ordine:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "839",
+    "error": "Incorrect answer",
+    "question": "Există o propoziție subordonată subiectivă şi o circumstanţială de timp în textul:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "846",
+    "error": "Incorrect answer",
+    "question": "Sunt sinonime toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "849",
+    "error": "Incorrect answer",
+    "question": "Forma corectă de plural a substantivului eseu este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "853",
+    "error": "Incorrect answer",
+    "question": "Enunţul care conţine două erori ortografice este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "854",
+    "error": "Incorrect answer",
+    "question": "Enunţul 'De asemenea, e bine să studiezi intens pentru a fii sigur că vei ştii la egzamen' conţine:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "856",
+    "error": "Incorrect answer",
+    "question": "Există doar o singură eroare în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "860",
+    "error": "Incorrect answer",
+    "question": "Este scris corect enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "863",
+    "error": "Incorrect answer",
+    "question": "În versurile 'Și sufletul bea raze cântând de bucurie/Sub soarele ce suie din ce în ce urcuşul...' există:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "864",
+    "error": "Incorrect answer",
+    "question": "Numărul literelor este diferit de numărul sunetelor în toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "867",
+    "error": "Incorrect answer",
+    "question": "În fraza: 'Începui să-i cunosc de departe, să-l întâlnesc înainte de a ajunge la locul meu, întâi pe-ăla strâmbu care părea atât de bătrân.', există:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "875",
+    "error": "Incorrect answer",
+    "question": "Cuvintele 'arcuite', 'umbrare', 'rătăcită', 'ceva' s-au format, în ordine, prin:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "878",
+    "error": "Incorrect answer",
+    "question": "În fraza 'Încântată de culorile fluturilor, de gustul zmeurei cu care mă mânjisem toată pe la gură, mergeam voioasă, sărind într-un picior, lăsându-mă pe burtă ca să sorb apa uşoară a vreunui izvor cristalin.', se regăsesc:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "879",
+    "error": "Incorrect answer",
+    "question": "Măsura versurilor 'În faza unui stejar ce-și rothujea biserica de crengi plecate/Până-n ocolnița cerurilor afunde' este de:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "880",
+    "error": "Incorrect answer",
+    "question": "Sunt utilizate cu sens figurat toate cuvintele din seria:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "881",
+    "error": "Incorrect answer",
+    "question": "Rolul cratimei în secvențele 'se-nchina și ce-şi rotunjea' este explicat corect, în ordine, în seria:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "884",
+    "error": "Incorrect answer",
+    "question": "Propozițiile din fraza 'Ți-am atras atenţia şi data trecută să nu te mai agiţi atâta, că doar nu s-a întâmplat nimic grav și, la drept vorbind, chiar așa să fie, o soluție tot trebuie să se găsească în cele din urmă.' sunt, în ordine:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "885",
+    "error": "Incorrect answer",
+    "question": "Propozițiile din fraza 'Nu trebuie să se afle de către spioni când şi cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla și încă repede.' sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "889",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "890",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Odată ce ajunse la baltă, se aruncă în apă, deşi nu i-n fire să-nnoate şi deşi ştia că i-ar displace să se-nnămolească.'. Acesta conţine:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "891",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Înainte de aș părăsi familia, mai vorbi o dată cu foştii săi socrii dar se sfiii să le spună că şi-ar dori să rămână alături de ei.'. Acesta conţine:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "892",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Din punct de vedere al intereselor noastre, sunteţi de acord, sper, că nu se merită să facem nimic, respectiv ceva care, datorită grabei sau a neglijenţei, să ne aducă prejudicii.' Acesta conţine:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "893",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Nu ştiu de ce naibii în ultima vreme faci decât prostii, ca şi cum ai avea mintea puţină a copilului acela mic şi răsfăţat de altă dată.'. Acesta conţine:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "894",
+    "error": "Incorrect answer",
+    "question": "Se dau următoarele cuvinte: 'imediat', 'obiect', 'piațetă', 'companion'. Conţin diftongi:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "895",
+    "error": "Incorrect answer",
+    "question": "Se dau următoarele serii de cuvinte: (1)aleii, oştii, coperții, bandei; (2)aleei, oastei, copertei, benzii; (3)aleei, oastei, coperţii, bandei; (4)aleii, oştii, copertei, benzii. Conţin numai forme corecte de genitiv-dativ articulat:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "896",
+    "error": "Incorrect answer",
+    "question": "Se dau următoarele cuvinte: cuvânt-înainte, post-universitar, mâine-dimineaţă, non-stop. Sunt corect scrise cu cratimă:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "897",
+    "error": "Incorrect answer",
+    "question": "Se dau cuvintele: (1) sincer; (2) cinstit; (3) leal; (4) fidel. Sunt sinonime ale cuvântului _loial_:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "900",
+    "error": "Incorrect answer",
+    "question": "Sensul cuvântului 'patentat' este:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "901",
+    "error": "Incorrect answer",
+    "question": "Fie următoarele definiri şi / sau explicări de cuvinte: (1) perioadă de zece zile consecutive; (2) deceniu; (3) perioadă de zece luni consecutive. Care dintre acestea este (sunt) sensul (sensurile) cuvântului 'decadă'?",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "904",
+    "error": "Incorrect answer",
+    "question": "Se dau următoarele cuvinte: pertinent(1); nepotrivit(2); impertinent(3); incompetent(4). Se poate stabili un raport de antonimie:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "905",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Nu-ţi convine propunerea mea?'. Subiectul popoziţiei este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "909",
+    "error": "Incorrect answer",
+    "question": "În fraza: 'Nu trebuie să se afle de către spioni când și cum pleacă un contingent nou spre răsărit, dar cu siguranță că asta se va întâmpla şi încă repede.' propozițiile sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "913",
+    "error": "Incorrect answer",
+    "question": "Se dau enunţurile: (1) _Tot_ pe drum, pe drum, pe drum / Şi la mândra nicidecum... (Folclor) (2) Nu mi-a lăsat nimic, a luat chiar _tot_. (3) Mă caută _tot_ la două săptămâni. (4) În _tot_ ce facem există o rațiune oarecare. Cuvântul subliniat este:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "914",
+    "error": "Incorrect answer",
+    "question": "Adjectivele pronominale (fără prepoziţie) pot îndeplini funcţiile sintactice de:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "915",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'Nu mă duce gândul la aşa ceva.'. Subiectul propoziției este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "917",
+    "error": "Incorrect answer",
+    "question": "Fie următoarele forme ale verbului 'a fi': (1) nu fi (sigur); (2) fiti (amabil); (3) să nu fii (rău); (4) fii (cuminte); (5) nu fii (agresiv); (6) să nu fi (venit); (7) fi-ţi (bine-venit); (8) fire-ar (să fie); (9) fi-ți-ar (neamul de râs); (10) să nu fii (ajuns la timp). Sunt corect scrise:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "919",
+    "error": "Incorrect answer",
+    "question": "Fie următoarele structuri: (1) caii de cursă ai fermei; (2) omul de casă al directorului; (3) caii de cursă a fermei; (4) omul de casă a directorului. Sunt corecte gramatical:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "922",
+    "error": "Incorrect answer",
+    "question": "Fie enunţul: 'În baza aceleeaşi decizii, doi dintre arbitri, cei mai integri, dar, după cum zis-au unii, și cei mai acri, au fost suspendaţi, pedeapsa fiind mai dură ca altădată.'. Acesta conține:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "925",
+    "error": "Incorrect answer",
+    "question": "Alegeţi varianta corectă:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "927",
+    "error": "Incorrect answer",
+    "question": "Litera x se pronunță [gz] în toate cuvintele din seria:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "928",
+    "error": "Incorrect answer",
+    "question": "Alegeţi varianta corectă:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "933",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria corectă:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "938",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria corectă:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "939",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "940",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "941",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care toate enunţurile sunt corecte:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "942",
+    "error": "Incorrect answer",
+    "question": "Indicaţi seria în care toate enunţurile sunt scrise în conformitate cu norma actuală:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "957",
+    "error": "Incorrect answer",
+    "question": "Identificaţi seria care conţine numai construcții pleonastice:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "961",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria in care ambele enunțuri sunt corecte:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "965",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care ambele enunțuri sunt corecte:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "966",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "969",
+    "error": "Incorrect answer",
+    "question": "Alegeţi seria în care ambele enunţuri sunt corecte:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "971",
+    "error": "Incorrect answer",
+    "question": "Secvența 'răz-' este prefix în:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "982",
+    "error": "Incorrect answer",
+    "question": "Litera i notează vocala i în toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "983",
+    "error": "Incorrect answer",
+    "question": "Alege varianta care conţine numai forme corecte:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "984",
+    "error": "Incorrect answer",
+    "question": "Identifică seria care conţine numai cuvinte compuse:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "990",
+    "error": "Incorrect answer",
+    "question": "Cuvântul subliniat din enunţul '_Iarna_ trecută am schiat.' este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "993",
+    "error": "Incorrect answer",
+    "question": "În fraza următoare: 'Mă întristează să am atâtea treburi de rezolvat că nu mai ştiu de unde să încep.' propoziţiile sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "997",
+    "error": "Incorrect answer",
+    "question": "În textul: 'Planul de a rămâne cum l-au montat a eşuat.' propoziţiile sunt, în ordine:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1000",
+    "error": "Incorrect answer",
+    "question": "Precizează câte propoziţii are fraza următoare 'Ş-atunci tânărul s-a şi înfăţişat înaintea împăratului, spunându-i de unde, cum, cine şi pentru ce a venit.':",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1001",
+    "error": "Incorrect answer",
+    "question": "În fraza următoare: Este bine ca tot ce se întâmplă să fie corect. cea de-a doua propoziţie subordonată este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1003",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul care conţine un predicat verbal:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1010",
+    "error": "Incorrect answer",
+    "question": "Cuvântul 'dor' din enunţurile: 1) Mi-e dor de tine.; 2) Dorul meu n-are margini.; 3) N-am dor de nimeni.; 4) De dor plânge.; este subiect în:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1017",
+    "error": "Incorrect answer",
+    "question": "Câte cuvinte sunt formate prin derivare în seria: a remite, multinațional, pocnet, ţigaretă, a ilumina, molar, a submina:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1018",
+    "error": "Incorrect answer",
+    "question": "Indică expresia sinonimă pentru unitatea frazeologică 'a lua la trei păzeşte':",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1020",
+    "error": "Incorrect answer",
+    "question": "Există un dezacord în enunţul:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1025",
+    "error": "Incorrect answer",
+    "question": "În structura subliniată din enunţul: 'Nu ştia dacă _are să apuce_ primăvara.'- există:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1030",
+    "error": "Incorrect answer",
+    "question": "În enunţul: 'Acum ţi-am adus notițele, rămânând să-ţi aduc după-amiază testele.' - subordonata este:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1031",
+    "error": "Incorrect answer",
+    "question": "Indică felul subordonatelor din fraza: 'Nu ajunge să te rogi, tu însuţi trebuie să te transformi într-o rugăciune'. (I. D. Sârbu):",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1034",
+    "error": "Incorrect answer",
+    "question": "În textul : 'Te uită cum ninge decembre,/ Spre geamuri, iubito, priveşte — / Mai spune s-aducă Jăratic/ Şi focul s-aud cum trosneşte.' (G. Bacovia), există următoarele tipuri de subiect:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1035",
+    "error": "Incorrect answer",
+    "question": "Funcţia sintactică a cuvântului subliniat din enunţul 'Din cauza căldurii mi-e _sete_ mereu.' - este:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1037",
+    "error": "Incorrect answer",
+    "question": "În enunţul '_Şi_-a trimis copiii în tabără.' - cuvântul subliniat este:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1038",
+    "error": "Incorrect answer",
+    "question": "În enunţul '_Care_ a fost ultima medie de admitere anul trecut la Frontieră?', cuvântul subliniat este:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1039",
+    "error": "Incorrect answer",
+    "question": "Există un diftong descendent în cuvântul:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1040",
+    "error": "Incorrect answer",
+    "question": "Sunt corect scrise toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1042",
+    "error": "Incorrect answer",
+    "question": "Numărul de sunete din cuvintele: examen, ghețar, ciorchine, unchi, Kenya, ceas, este, în ordine:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1043",
+    "error": "Error parsing options for Question ID 1043: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)",
+    "question": "Se despart între ele prin virgulă propoziţiile în raport de coordonare:",
+    "options_string": "{'a': 'copulativă prin 'şi';', 'b': 'disjunctivă prin 'ori';', 'c': 'disjunctivă prin 'sau';', 'd': 'prin juxtapunere.'}"
+  },
+  {
+    "id": "1047",
+    "error": "Incorrect answer",
+    "question": "În enunţul: 'Era un infractor care, fiind periculos, prinderea lui era necesară.' - există:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1050",
+    "error": "Incorrect answer",
+    "question": "Indică numărul conjuncţiilor coordonatoare din enunţul: 'A doua zi dimineaţă, iar le-au dat să se spele, i-au ospătat, le-au pus şi-n traistă nişte mere cum nu se mai văzuseră şi le-au urat drum bun'.(G. Bogza)",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1051",
+    "error": "Incorrect answer",
+    "question": "În versurile: 'Optzeci de ani îmi pare în lume c-am trăit, / Că sunt bătrân ca iarna, că tu vei fi murit.' (M. Eminescu), verbele sunt:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1053",
+    "error": "Incorrect answer",
+    "question": "În versurile: 'Din ochi clipeşte-ncet cicoarea/ Şi-adoarme-apoi şi ea.'(G. Coşbuc) există:",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1054",
+    "error": "Incorrect answer",
+    "question": "În textul: 'Dar neaflând care este vinovatul și nebizuindu-se în putere a se bate cu toţi, se puse la făcut metanii şi a ne blestema de-i curgea foc din gură'. (I. Creangă), există:",
+    "correct_answer": "d",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1055",
+    "error": "Error parsing options for Question ID 1055: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)",
+    "question": "În fraza: 'Lăudată fie memoria marelui poet a cărui pană a ştiut să învieze umbrele glorioase ale eroicului nostru trecut.' (I. Ghica), prenume relativ determină:",
+    "options_string": "{'a': 'substantivul pană;', 'b': 'substantivul poet;', 'c': prima propoziţie din frază;', 'd': 'substantivul 'memoria'}"
+  },
+  {
+    "id": "1056",
+    "error": "Incorrect answer",
+    "question": "Cât este adverb în enunţul:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1057",
+    "error": "Incorrect answer",
+    "question": "Subordonata din fraza:  'Pe măsură ce creştea, se făcea tot mai năzdrăvană.' - este:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1060",
+    "error": "Incorrect answer",
+    "question": "În fraza: 'A şti să râzi în clipe tragice înseamnă a stăpâni tragicul.' - există:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1061",
+    "error": "Incorrect answer",
+    "question": "Propoziția subordonată introdusă prin adverbul relativ „cum' în fraza: „Când îi omul în doi peri, să te fereşti c-atunci e cum îi mai rău'. (I. Creangă) - este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1062",
+    "error": "Incorrect answer",
+    "question": "Precizează numărul atributelor substantivale din versurile: 'Sunt solitarul pustiilor pieţe/ Cu tristele becuri cu pală lumină.' (G. Bacovia):",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1066",
+    "error": "Incorrect answer",
+    "question": "Sunt corecte toate formele de imperativ din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1068",
+    "error": "Incorrect answer",
+    "question": "Identifică seria care conţine nume corecte de locuitori:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1073",
+    "error": "Incorrect answer",
+    "question": "Sensul locuţiunii adjectivale _cu dare de mână_ este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1074",
+    "error": "Incorrect answer",
+    "question": "Alege seria care conţine substantive cu mai multe forme de plural:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1079",
+    "error": "Incorrect answer",
+    "question": "Adjectivul pronominal de întărire este corect acordat în enunţul:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1080",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conţine nunai prepoziţii specifice pentru cazul genitiv:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1083",
+    "error": "Incorrect answer",
+    "question": "Cuvântul subliniat din enunţul 'Camera _ei_ a fost renovată'-este:",
+    "correct_answer": "c",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1084",
+    "error": "Incorrect answer",
+    "question": "Nu poate urma subordonată predicativă după regenta:",
+    "correct_answer": "a",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1085",
+    "error": "Incorrect answer",
+    "question": "În frazele 'Ei pare că nu înţelege' şi 'Pare că nu înţelegi', propoziţiile introduse prin că sunt",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1088",
+    "error": "Incorrect answer",
+    "question": "Subordonatele din fraza 'Neputința nu se sfia să şi-o mărturisească ori de câte ori avea prilejul' sunt, în ordine:",
+    "correct_answer": "d",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1090",
+    "error": "Incorrect answer",
+    "question": "Indică funcţia sintactică a verbului la infinitiv din enunţul Por merge la mare sau la bunici.",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1091",
+    "error": "Incorrect answer",
+    "question": "Cuvântul subliniat din enunţul 'Doamne, cât de _mare_ e grădina ta!' - are funcţia sintactică de:",
+    "correct_answer": "d",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1092",
+    "error": "Incorrect answer",
+    "question": "Indică funcţia sintactică şi cazul pentru structura subliniată din enunţul 'Fratele meu dă examen şi _în vederea acestuia_ a citit mult.'",
+    "correct_answer": "c",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1094",
+    "error": "Incorrect answer",
+    "question": "Sunt corect despărțite în silabe toate cuvintele din seria:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1096",
+    "error": "Incorrect answer",
+    "question": "Numărul de litere şi de sunete din cuvântul auxiliar este:",
+    "correct_answer": "a",
+    "gemini_answer": "b"
+  },
+  {
+    "id": "1100",
+    "error": "Incorrect answer",
+    "question": "Indică seria care conţine cuvinte din aceeaşi familie lexicală:",
+    "correct_answer": "c",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1103",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care nu există verb predicativ:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1111",
+    "error": "Incorrect answer",
+    "question": "Indică enunţul în care există verb la diateza reflexivă:",
+    "correct_answer": "b",
+    "gemini_answer": "d"
+  },
+  {
+    "id": "1115",
+    "error": "Incorrect answer",
+    "question": "Analiza corectă a fazei 'Dacă spune adevărul înseamnă că îl va întrista' -este",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1119",
+    "error": "Incorrect answer",
+    "question": "În enunţul 'Nu s-a hotărât nimic _definitiv_ în ceea ce te priveşte'- cuvântul subliniat are funcție sintactică de:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1128",
+    "error": "Incorrect answer",
+    "question": "Norma literară acceptă, ca formă de singular:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1134",
+    "error": "Incorrect answer",
+    "question": "Faţă de investi, învesti este:",
+    "correct_answer": "b",
+    "gemini_answer": "a"
+  },
+  {
+    "id": "1138",
+    "error": "Incorrect answer",
+    "question": "Varianta corectă este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1139",
+    "error": "Incorrect answer",
+    "question": "Varianta corectă este:",
+    "correct_answer": "b",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1146",
+    "error": "Incorrect answer",
+    "question": "Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului rumoare este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  },
+  {
+    "id": "1147",
+    "error": "Incorrect answer",
+    "question": "Forma corectă de genitiv-dativ singular (articulată cu articol hotărât) a substantivului ciocolată este:",
+    "correct_answer": "a",
+    "gemini_answer": "c"
+  }
+]

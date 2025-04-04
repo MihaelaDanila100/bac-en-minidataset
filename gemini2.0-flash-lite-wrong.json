@@ -1,0 +1,86 @@
+[
+    {
+        "id": "6",
+        "question": "Expresia 'a face de petrecanie' are sensul:",
+        "correct": "b",
+        "gemini": "a",
+        "options": {
+            "a": "a da o petrecere",
+            "b": "a ucide",
+            "c": "a pleca",
+            "d": "a se distra"
+        }
+    },
+    {
+        "id": "11",
+        "question": "Cuvântul 'sancționabil' se desparte corect în silabe:",
+        "correct": "c",
+        "gemini": "a",
+        "options": {
+            "a": "sancți-o-na-bil",
+            "b": "san-cțio-na-bil",
+            "c": "sanc-ți-o-na-bil",
+            "d": "san-cți-o-nab-il"
+        }
+    },
+    {
+        "id": "12",
+        "question": "Termenul 'ierarhie' conține:",
+        "correct": "a",
+        "gemini": "c",
+        "options": {
+            "a": "un diftong și un hiat",
+            "b": "doi diftongi",
+            "c": "două hiaturi",
+            "d": "un diftong"
+        }
+    },
+    {
+        "id": "13",
+        "question": "Cuvântul 'cuantum' are:",
+        "correct": "b",
+        "gemini": "c",
+        "options": {
+            "a": "o silabă",
+            "b": "două silabe",
+            "c": "trei silabe",
+            "d": "patru silabe"
+        }
+    },
+    {
+        "id": "15",
+        "question": "Cuvântul 'întâi' este utilizat ca numeral cu valoare adjectivală în propoziția:",
+        "correct": "a",
+        "gemini": "d",
+        "options": {
+            "a": "A pornit-o pe întâiul drum ieșit în cale.",
+            "b": "Întâi a venit la avocatul ales de mine.",
+            "c": "Trebuie critică legea, întâi de toate.",
+            "d": "A fost întâiul dintre toți concurenții."
+        }
+    },
+    {
+        "id": "17",
+        "question": "Substantivul 'lege' din enunțul 'Fapta incriminată de procurori este în afara legii.' este folosit la cazul:",
+        "correct": "d",
+        "gemini": "b",
+        "options": {
+            "a": "nominativ",
+            "b": "acuzativ",
+            "c": "dativ",
+            "d": "genitiv"
+        }
+    },
+    {
+        "id": "20",
+        "question": "În propoziția 'Eu căutai de multe ori răspunsul la întrebare.', verbul este la timpul:",
+        "correct": "c",
+        "gemini": "b",
+        "options": {
+            "a": "viitor anterior",
+            "b": "imperfect",
+            "c": "perfect simplu",
+            "d": "mai-mult-ca-perfect"
+        }
+    }
+]
